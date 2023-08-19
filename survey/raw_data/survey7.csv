@@ -1,0 +1,502 @@
+Q1_1,Q1_2,Q1_3,Q1_4,Q1_5,Q1_6,Q1_7,Q1_8,Q1_9,Q1_10,Q1_11,Q1_12,Q2_1,Q2_2,Q2_3,Q2_4,Q2_5,Q2_6,Q2_7,Q2_8,Q2_9,Q2_10,Q2_11,Q2_12,Q3_1,Q3_2,Q3_3,Q3_4,Q3_5,Q3_6,Q3_7,Q3_8,Q3_9,Q3_10,Q3_11,Q3_12,Q3_13,Q4_1,Q4_2,Q4_3,Q4_4,Q4_5,Q4_6,Q4_7,Q4_8,Q4_9,Q4_10,Q4_11,Q4_12,Q5_1,Q5_2,Q5_3,Q5_4,Q5_5,Q5_6,Q5_7,Q5_8,Q5_9,Q5_10,Q5_11,Q5_12,Q6_1,Q6_2,Q6_3,Q6_4,Q6_5,Q6_6,Q6_7,Q6_8,Q6_9,Q6_10,Q6_11,Q6_12,Q7_1,Q7_2,Q7_3,Q7_4,Q7_5,Q7_6,Q7_7,Q7_8,Q7_9,Q7_10,Q7_11,Q7_12,Q8_1,Q8_2,Q8_3,Q8_4,Q8_5,Q8_6,Q8_7,Q8_8,Q8_9,Q8_10,Q8_11,Q8_12,Q9_1,Q9_2,Q9_3,Q9_4,Q9_5,Q9_6,Q9_7,Q9_8,Q9_9,Q9_10,Q9_11,Q9_12,Q9_13,Q9_14,Q9_15,Q10_1,Q10_2,Q10_3,Q10_4,Q10_5,Q10_6,Q10_7,Q10_8,Q10_9,Q10_10,Q10_11,Q10_12
+"Question 1
+
+
+
+Reference Sentence: It takes literally less than five minutes to go from standard installation to fully set up system a lot of modern unix-based systems offer pacakges for vcsh. - It takes literally less than five minutes to go from standard installation to fully set up system a lot of modern unix-based systems offer pacak-based systems offer for vcsh.","Question 1
+
+
+
+Reference Sentence: It takes literally less than five minutes to go from standard installation to fully set up system a lot of modern unix-based systems offer pacakges for vcsh. - It takes less than five minutes to go from standard installation to fully set up system a lot of modern signal-based systems offer pacakgesges for writing.","Question 1
+
+
+
+Reference Sentence: It takes literally less than five minutes to go from standard installation to fully set up system a lot of modern unix-based systems offer pacakges for vcsh. - A complete system to set up-based govm based system to set up system.","Question 1
+
+
+
+Reference Sentence: It takes literally less than five minutes to go from standard installation to fully set up system a lot of modern unix-based systems offer pacakges for vcsh. - It takes literally less than five minutes to go from standard installation to fully set up system a lot of modern unix-based systems offer pacakges for vcsh. .","Question 1
+
+
+
+Reference Sentence: It takes literally less than five minutes to go from standard installation to fully set up system a lot of modern unix-based systems offer pacakges for vcsh. - It takes literally less than five minutes to go from standard installation to fully set up system a lot of modern unix-based systems offer pacak-based systems offer for vcsh.","Question 1
+
+
+
+Reference Sentence: It takes literally less than five minutes to go from standard installation to fully set up system a lot of modern unix-based systems offer pacakges for vcsh. - It takes less than five minutes to go from standard installation to fully set up system a lot of modern signal-based systems offer pacakgesges for writing.","Question 1
+
+
+
+Reference Sentence: It takes literally less than five minutes to go from standard installation to fully set up system a lot of modern unix-based systems offer pacakges for vcsh. - A complete system to set up-based govm based system to set up system.","Question 1
+
+
+
+Reference Sentence: It takes literally less than five minutes to go from standard installation to fully set up system a lot of modern unix-based systems offer pacakges for vcsh. - It takes literally less than five minutes to go from standard installation to fully set up system a lot of modern unix-based systems offer pacakges for vcsh. .","Question 1
+
+
+
+Reference Sentence: It takes literally less than five minutes to go from standard installation to fully set up system a lot of modern unix-based systems offer pacakges for vcsh. - It takes literally less than five minutes to go from standard installation to fully set up system a lot of modern unix-based systems offer pacak-based systems offer for vcsh.","Question 1
+
+
+
+Reference Sentence: It takes literally less than five minutes to go from standard installation to fully set up system a lot of modern unix-based systems offer pacakges for vcsh. - It takes less than five minutes to go from standard installation to fully set up system a lot of modern signal-based systems offer pacakgesges for writing.","Question 1
+
+
+
+Reference Sentence: It takes literally less than five minutes to go from standard installation to fully set up system a lot of modern unix-based systems offer pacakges for vcsh. - A complete system to set up-based govm based system to set up system.","Question 1
+
+
+
+Reference Sentence: It takes literally less than five minutes to go from standard installation to fully set up system a lot of modern unix-based systems offer pacakges for vcsh. - It takes literally less than five minutes to go from standard installation to fully set up system a lot of modern unix-based systems offer pacakges for vcsh. .","Question 2
+
+
+
+Reference sentence: There are a couple of battle-proven solutions for performing requests to backend servers, which you should use perform considering implementing your own client. - There are a couple of battle-proven solutions for performing requests to pre-identical servers, which you can use considering considering your own client.","Question 2
+
+
+
+Reference sentence: There are a couple of battle-proven solutions for performing requests to backend servers, which you should use perform considering implementing your own client. - There are a couple of battle-proven solutions for performing requests to backend servers, which you should use perform considering implementing your own client.","Question 2
+
+
+
+Reference sentence: There are a couple of battle-proven solutions for performing requests to backend servers, which you should use perform considering implementing your own client. - There are a couple of battle-proven solutions for performing requests to backend servers, which you should use perform doing considering implementing your own client. which you should use perform .","Question 2
+
+
+
+Reference sentence: There are a couple of battle-proven solutions for performing requests to backend servers, which you should use perform considering implementing your own client. - There are a way of own models for you.","Question 2
+
+
+
+Reference sentence: There are a couple of battle-proven solutions for performing requests to backend servers, which you should use perform considering implementing your own client. - There are a couple of battle-proven solutions for performing requests to pre-identical servers, which you can use considering considering your own client.","Question 2
+
+
+
+Reference sentence: There are a couple of battle-proven solutions for performing requests to backend servers, which you should use perform considering implementing your own client. - There are a couple of battle-proven solutions for performing requests to backend servers, which you should use perform considering implementing your own client.","Question 2
+
+
+
+Reference sentence: There are a couple of battle-proven solutions for performing requests to backend servers, which you should use perform considering implementing your own client. - There are a couple of battle-proven solutions for performing requests to backend servers, which you should use perform doing considering implementing your own client. which you should use perform .","Question 2
+
+
+
+Reference sentence: There are a couple of battle-proven solutions for performing requests to backend servers, which you should use perform considering implementing your own client. - There are a way of own models for you.","Question 2
+
+
+
+Reference sentence: There are a couple of battle-proven solutions for performing requests to backend servers, which you should use perform considering implementing your own client. - There are a couple of battle-proven solutions for performing requests to pre-identical servers, which you can use considering considering your own client.","Question 2
+
+
+
+Reference sentence: There are a couple of battle-proven solutions for performing requests to backend servers, which you should use perform considering implementing your own client. - There are a couple of battle-proven solutions for performing requests to backend servers, which you should use perform considering implementing your own client.","Question 2
+
+
+
+Reference sentence: There are a couple of battle-proven solutions for performing requests to backend servers, which you should use perform considering implementing your own client. - There are a couple of battle-proven solutions for performing requests to backend servers, which you should use perform doing considering implementing your own client. which you should use perform .","Question 2
+
+
+
+Reference sentence: There are a couple of battle-proven solutions for performing requests to backend servers, which you should use perform considering implementing your own client. - There are a way of own models for you.","Question 3
+
+
+
+Reference Sentence: For testing there's also a bigger test file at: . After building the server you can run it with: ./geodns -log -interface 127.1 -port 5053. To test the responses run dig -t a test.example.com @127.1 -p 5053 the binary can be moved to /usr/local/bin, /opt/geodns/ or wherever you find appropriate. - ). ). ).","Question 3
+
+
+
+Reference Sentence: For testing there's also a bigger test file at: . After building the server you can run it with: ./geodns -log -interface 127.1 -port 5053. To test the responses run dig -t a test.example.com @127.1 -p 5053 the binary can be moved to /usr/local/bin, /opt/geodns/ or wherever you find appropriate. - For testing there's also a bigger test file at waste after building the server you can run it with.","Question 3
+
+
+
+Reference Sentence: For testing there's also a bigger test file at: . After building the server you can run it with: ./geodns -log -interface 127.1 -port 5053. To test the responses run dig -t a test.example.com @127.1 -p 5053 the binary can be moved to /usr/local/bin, /opt/geodns/ or wherever you find appropriate. - For testing there's also a bigger test file at: . After building the server you can run it with: ./geodns -log -interface 127.1 -port 5053. To test the responses the binary can be moved to /usr/local/bin, /opt/geodns/ or wherever you find appropriate.","Question 3
+
+
+
+Reference Sentence: For testing there's also a bigger test file at: . After building the server you can run it with: ./geodns -log -interface 127.1 -port 5053. To test the responses run dig -t a test.example.com @127.1 -p 5053 the binary can be moved to /usr/local/bin, /opt/geodns/ or wherever you find appropriate. - To run there's also a full test file at: . After it, you can also run the following command:  or run ./geodns -log -interface 127.1 -port 5053 or dig -t a test.example.com @127.1 -p 5053 to run the test suite.","Question 3
+
+
+
+Reference Sentence: For testing there's also a bigger test file at: . After building the server you can run it with: ./geodns -log -interface 127.1 -port 5053. To test the responses run dig -t a test.example.com @127.1 -p 5053 the binary can be moved to /usr/local/bin, /opt/geodns/ or wherever you find appropriate. - ). ). ).","Question 3
+
+
+
+Reference Sentence: For testing there's also a bigger test file at: . After building the server you can run it with: ./geodns -log -interface 127.1 -port 5053. To test the responses run dig -t a test.example.com @127.1 -p 5053 the binary can be moved to /usr/local/bin, /opt/geodns/ or wherever you find appropriate. - For testing there's also a bigger test file at waste after building the server you can run it with.","Question 3
+
+
+
+Reference Sentence: For testing there's also a bigger test file at: . After building the server you can run it with: ./geodns -log -interface 127.1 -port 5053. To test the responses run dig -t a test.example.com @127.1 -p 5053 the binary can be moved to /usr/local/bin, /opt/geodns/ or wherever you find appropriate. - For testing there's also a bigger test file at: . After building the server you can run it with: ./geodns -log -interface 127.1 -port 5053. To test the responses the binary can be moved to /usr/local/bin, /opt/geodns/ or wherever you find appropriate.","Question 3
+
+
+
+Reference Sentence: For testing there's also a bigger test file at: . After building the server you can run it with: ./geodns -log -interface 127.1 -port 5053. To test the responses run dig -t a test.example.com @127.1 -p 5053 the binary can be moved to /usr/local/bin, /opt/geodns/ or wherever you find appropriate. - To run there's also a full test file at: . After it, you can also run the following command:  or run ./geodns -log -interface 127.1 -port 5053 or dig -t a test.example.com @127.1 -p 5053 to run the test suite.","Question 3
+
+
+
+Reference Sentence: For testing there's also a bigger test file at: . After building the server you can run it with: ./geodns -log -interface 127.1 -port 5053. To test the responses run dig -t a test.example.com @127.1 -p 5053 the binary can be moved to /usr/local/bin, /opt/geodns/ or wherever you find appropriate.","Question 3
+
+
+
+Reference Sentence: For testing there's also a bigger test file at: . After building the server you can run it with: ./geodns -log -interface 127.1 -port 5053. To test the responses run dig -t a test.example.com @127.1 -p 5053 the binary can be moved to /usr/local/bin, /opt/geodns/ or wherever you find appropriate. - ). ). ).","Question 3
+
+
+
+Reference Sentence: For testing there's also a bigger test file at: . After building the server you can run it with: ./geodns -log -interface 127.1 -port 5053. To test the responses run dig -t a test.example.com @127.1 -p 5053 the binary can be moved to /usr/local/bin, /opt/geodns/ or wherever you find appropriate. - For testing there's also a bigger test file at waste after building the server you can run it with.","Question 3
+
+
+
+Reference Sentence: For testing there's also a bigger test file at: . After building the server you can run it with: ./geodns -log -interface 127.1 -port 5053. To test the responses run dig -t a test.example.com @127.1 -p 5053 the binary can be moved to /usr/local/bin, /opt/geodns/ or wherever you find appropriate. - For testing there's also a bigger test file at: . After building the server you can run it with: ./geodns -log -interface 127.1 -port 5053. To test the responses the binary can be moved to /usr/local/bin, /opt/geodns/ or wherever you find appropriate.","Question 3
+
+
+
+Reference Sentence: For testing there's also a bigger test file at: . After building the server you can run it with: ./geodns -log -interface 127.1 -port 5053. To test the responses run dig -t a test.example.com @127.1 -p 5053 the binary can be moved to /usr/local/bin, /opt/geodns/ or wherever you find appropriate. - To run there's also a full test file at: . After it, you can also run the following command:  or run ./geodns -log -interface 127.1 -port 5053 or dig -t a test.example.com @127.1 -p 5053 to run the test suite.","Question 4
+
+
+
+Reference Sentence:  When a collection is typed as Seq[String] so might have linear access like List, but actually is a WrappedArray[String] that can be efficiently parallelized) but can be efficient with scala parallel collections. - When a reference is created, it can also be implemented with like Seq[String].","Question 4
+
+
+
+Reference Sentence:  When a collection is typed as Seq[String] so might have linear access like List, but actually is a WrappedArray[String] that can be efficiently parallelized) but can be efficient with scala parallel collections. - It can be able to be able to be able to find out of a series of instructions, but may be able to make it easier to be able to pick.","Question 4
+
+
+
+Reference Sentence:  When a collection is typed as Seq[String] so might have linear access like List, but actually is a WrappedArray[String] that can be efficiently parallelized) but can be efficient with scala parallel collections. - When a collection is typed as Seq[String] so might have linear access like List, but actually is a WrappedArray[String] that can be efficiently parallelized) but can be efficient with scala parallel collections. . .","Question 4
+
+
+
+Reference Sentence:  When a collection is typed as Seq[String] so might have linear access like List, but actually is a WrappedArray[String] that can be efficiently parallelized) but can be efficient with scala parallel collections. - When a collection is typed as Seq[String] so might have linear access like List, but actually is a WrappedArray[String] that can be efficient.","Question 4
+
+
+
+Reference Sentence:  When a collection is typed as Seq[String] so might have linear access like List, but actually is a WrappedArray[String] that can be efficiently parallelized) but can be efficient with scala parallel collections. - When a reference is created, it can also be implemented with like Seq[String].","Question 4
+
+
+
+Reference Sentence:  When a collection is typed as Seq[String] so might have linear access like List, but actually is a WrappedArray[String] that can be efficiently parallelized) but can be efficient with scala parallel collections. - It can be able to be able to be able to find out of a series of instructions, but may be able to make it easier to be able to pick.","Question 4
+
+
+
+Reference Sentence:  When a collection is typed as Seq[String] so might have linear access like List, but actually is a WrappedArray[String] that can be efficiently parallelized) but can be efficient with scala parallel collections. - When a collection is typed as Seq[String] so might have linear access like List, but actually is a WrappedArray[String] that can be efficiently parallelized) but can be efficient with scala parallel collections. . .","Question 4
+
+
+
+Reference Sentence:  When a collection is typed as Seq[String] so might have linear access like List, but actually is a WrappedArray[String] that can be efficiently parallelized) but can be efficient with scala parallel collections. - When a collection is typed as Seq[String] so might have linear access like List, but actually is a WrappedArray[String] that can be efficient.","Question 4
+
+
+
+Reference Sentence:  When a collection is typed as Seq[String] so might have linear access like List, but actually is a WrappedArray[String] that can be efficiently parallelized) but can be efficient with scala parallel collections. - When a reference is created, it can also be implemented with like Seq[String].","Question 4
+
+
+
+Reference Sentence:  When a collection is typed as Seq[String] so might have linear access like List, but actually is a WrappedArray[String] that can be efficiently parallelized) but can be efficient with scala parallel collections. - It can be able to be able to be able to find out of a series of instructions, but may be able to make it easier to be able to pick.","Question 4
+
+
+
+Reference Sentence:  When a collection is typed as Seq[String] so might have linear access like List, but actually is a WrappedArray[String] that can be efficiently parallelized) but can be efficient with scala parallel collections. - When a collection is typed as Seq[String] so might have linear access like List, but actually is a WrappedArray[String] that can be efficiently parallelized) but can be efficient with scala parallel collections. . .","Question 4
+
+
+
+Reference Sentence:  When a collection is typed as Seq[String] so might have linear access like List, but actually is a WrappedArray[String] that can be efficiently parallelized) but can be efficient with scala parallel collections. - When a collection is typed as Seq[String] so might have linear access like List, but actually is a WrappedArray[String] that can be efficient.","Question 5
+
+
+
+Reference Sentence: When specifying the transform option, prefix the value with @ (a curl convention) to load the top-level function which is called with the document and the parsed arguments to the module. - When specifying the transform option, prefix the value with @ (a curl convention) to load the top-level function which is called with the document and the parsed arguments to the  module.","Question 5
+
+
+
+Reference Sentence: When specifying the transform option, prefix the value with @ (a curl convention) to load the top-level function which is called with the document and the parsed arguments to the module. - When (a is called the top-level.","Question 5
+
+
+
+Reference Sentence: When specifying the transform option, prefix the value with @ (a curl convention) to load the top-level function which is called with the document and the parsed arguments to the module. - It is called with the document and the official arguments and the observatory to the module.","Question 5
+
+
+
+Reference Sentence: When specifying the transform option, prefix the value with @ (a curl convention) to load the top-level function which is called with the document and the parsed arguments to the module. - When called the transform option, the option takes a @ function which takes to be called with the value of the option.","Question 5
+
+
+
+Reference Sentence: When specifying the transform option, prefix the value with @ (a curl convention) to load the top-level function which is called with the document and the parsed arguments to the module. - When specifying the transform option, prefix the value with @ (a curl convention) to load the top-level function which is called with the document and the parsed arguments to the  module.","Question 5
+
+
+
+Reference Sentence: When specifying the transform option, prefix the value with @ (a curl convention) to load the top-level function which is called with the document and the parsed arguments to the module. - When (a is called the top-level.","Question 5
+
+
+
+Reference Sentence: When specifying the transform option, prefix the value with @ (a curl convention) to load the top-level function which is called with the document and the parsed arguments to the module. - It is called with the document and the official arguments and the observatory to the module.","Question 5
+
+
+
+Reference Sentence: When specifying the transform option, prefix the value with @ (a curl convention) to load the top-level function which is called with the document and the parsed arguments to the module. - When called the transform option, the option takes a @ function which takes to be called with the value of the option.","Question 5
+
+
+
+Reference Sentence: When specifying the transform option, prefix the value with @ (a curl convention) to load the top-level function which is called with the document and the parsed arguments to the module. - When specifying the transform option, prefix the value with @ (a curl convention) to load the top-level function which is called with the document and the parsed arguments to the  module.","Question 5
+
+
+
+Reference Sentence: When specifying the transform option, prefix the value with @ (a curl convention) to load the top-level function which is called with the document and the parsed arguments to the module. - When (a is called the top-level.","Question 5
+
+
+
+Reference Sentence: When specifying the transform option, prefix the value with @ (a curl convention) to load the top-level function which is called with the document and the parsed arguments to the module. - It is called with the document and the official arguments and the observatory to the module.","Question 5
+
+
+
+Reference Sentence: When specifying the transform option, prefix the value with @ (a curl convention) to load the top-level function which is called with the document and the parsed arguments to the module. - When called the transform option, the option takes a @ function which takes to be called with the value of the option.","Question 6
+
+
+
+Reference Sentence: If you want to receive updates about new versions, and keep in touch with the development team, consider subscribing to the metricsgrimoire mailing list . - If you want to contribute on the new development, please submit an issue tracker with the issue tracker .","Question 6
+
+
+
+Reference Sentence: If you want to receive updates about new versions, and keep in touch with the development team, consider subscribing to the metricsgrimoire mailing list . - If you want to receive updates about new versions, .","Question 6
+
+
+
+Reference Sentence: If you want to receive updates about new versions, and keep in touch with the development team, consider subscribing to the metricsgrimoire mailing list . - If you want to receive updates about new versions and keep in touch with the development team, consider subscribing to the metrics.","Question 6
+
+
+
+Reference Sentence: If you want to receive updates about new versions, and keep in touch with the development team, consider subscribing to the metricsgrimoire mailing list . - If you want to receive updates about new versions, and keep in touch with the development team, consider to the metricsgrim list.","Question 6
+
+
+
+Reference Sentence: If you want to receive updates about new versions, and keep in touch with the development team, consider subscribing to the metricsgrimoire mailing list . - If you want to contribute on the new development, please submit an issue tracker with the issue tracker .","Question 6
+
+
+
+Reference Sentence: If you want to receive updates about new versions, and keep in touch with the development team, consider subscribing to the metricsgrimoire mailing list . - If you want to receive updates about new versions, .","Question 6
+
+
+
+Reference Sentence: If you want to receive updates about new versions, and keep in touch with the development team, consider subscribing to the metricsgrimoire mailing list . - If you want to receive updates about new versions and keep in touch with the development team, consider subscribing to the metrics.","Question 6
+
+
+
+Reference Sentence: If you want to receive updates about new versions, and keep in touch with the development team, consider subscribing to the metricsgrimoire mailing list . - If you want to receive updates about new versions, and keep in touch with the development team, consider to the metricsgrim list.","Question 6
+
+
+
+Reference Sentence: If you want to receive updates about new versions, and keep in touch with the development team, consider subscribing to the metricsgrimoire mailing list . - If you want to contribute on the new development, please submit an issue tracker with the issue tracker .","Question 6
+
+
+
+Reference Sentence: If you want to receive updates about new versions, and keep in touch with the development team, consider subscribing to the metricsgrimoire mailing list . - If you want to receive updates about new versions, .","Question 6
+
+
+
+Reference Sentence: If you want to receive updates about new versions, and keep in touch with the development team, consider subscribing to the metricsgrimoire mailing list . - If you want to receive updates about new versions and keep in touch with the development team, consider subscribing to the metrics.","Question 6
+
+
+
+Reference Sentence: If you want to receive updates about new versions, and keep in touch with the development team, consider subscribing to the metricsgrimoire mailing list . - If you want to receive updates about new versions, and keep in touch with the development team, consider to the metricsgrim list.","Question 7
+
+
+
+Reference Sentence: Following our previous example we can define a concrete class - eventsemitter - that implements the eventsinterface interface. - For our previous example we can define a concrete class - eventsemitter - that implements the eventsinterface interface. interface. - that implements the eventsinterface interface. interface.","Question 7
+
+
+
+Reference Sentence: Following our previous example we can define a concrete class - eventsemitter - that implements the eventsinterface interface. - If you don't want a events that can use events events like the events.","Question 7
+
+
+
+Reference Sentence: Following our previous example we can define a concrete class - eventsemitter - that implements the eventsinterface interface. - For this example, we can define a concrete class - eventsemitter - that implements the eventsinterface.","Question 7
+
+
+
+Reference Sentence: Following our previous example we can define a concrete class - eventsemitter - that implements the eventsinterface interface. - We can define a concrete class - eventsemitter - that implements the eventsinterface interface.","Question 7
+
+
+
+Reference Sentence: Following our previous example we can define a concrete class - eventsemitter - that implements the eventsinterface interface. - For our previous example we can define a concrete class - eventsemitter - that implements the eventsinterface interface. interface. - that implements the eventsinterface interface. interface.","Question 7
+
+
+
+Reference Sentence: Following our previous example we can define a concrete class - eventsemitter - that implements the eventsinterface interface. - If you don't want a events that can use events events like the events.","Question 7
+
+
+
+Reference Sentence: Following our previous example we can define a concrete class - eventsemitter - that implements the eventsinterface interface. - For this example, we can define a concrete class - eventsemitter - that implements the eventsinterface.","Question 7
+
+
+
+Reference Sentence: Following our previous example we can define a concrete class - eventsemitter - that implements the eventsinterface interface. - We can define a concrete class - eventsemitter - that implements the eventsinterface interface.","Question 7
+
+
+
+Reference Sentence: Following our previous example we can define a concrete class - eventsemitter - that implements the eventsinterface interface. - For our previous example we can define a concrete class - eventsemitter - that implements the eventsinterface interface. interface. - that implements the eventsinterface interface. interface.","Question 7
+
+
+
+Reference Sentence: Following our previous example we can define a concrete class - eventsemitter - that implements the eventsinterface interface. - If you don't want a events that can use events events like the events.","Question 7
+
+
+
+Reference Sentence: Following our previous example we can define a concrete class - eventsemitter - that implements the eventsinterface interface. - For this example, we can define a concrete class - eventsemitter - that implements the eventsinterface.","Question 7
+
+
+
+Reference Sentence: Following our previous example we can define a concrete class - eventsemitter - that implements the eventsinterface interface. - We can define a concrete class - eventsemitter - that implements the eventsinterface interface.","Question 8
+
+
+
+Reference Sentence: In general streams are specified with the ""streams"" option:  For convenience, if there is only one stream, it can specified with the ""stream"" and ""level"" options (internal converted to a Logger.streams): . If none are specified, the default is a stream on process.stdout at the ""info"" level. - If none are specified, the default is a stream on process.stdout at the ""info"" level.","Question 8
+
+
+
+Reference Sentence: In general streams are specified with the ""streams"" option:  For convenience, if there is only one stream, it can specified with the ""stream"" and ""level"" options (internal converted to a Logger.streams): . If none are specified, the default is a stream on process.stdout at the ""info"" level. - In general streams are specified with the ""streams"" option:  For convenience, if there is only one stream, it can specified with the ""stream"" and ""level"" options (internal converted to a Logger.streams): . If none are specified, the default is a stream on process.stdout at the ""info"" level.","Question 8
+
+
+
+Reference Sentence: In general streams are specified with the ""streams"" option:  For convenience, if there is only one stream, it can specified with the ""stream"" and ""level"" options (internal converted to a Logger.streams): . If none are specified, the default is a stream on process.stdout at the ""info"" level. - If  is specified, with the ""Logger.Stream"" option is Process.stdout, then it is specified on the specified .","Question 8
+
+
+
+Reference Sentence: In general streams are specified with the ""streams"" option:  For convenience, if there is only one stream, it can specified with the ""stream"" and ""level"" options (internal converted to a Logger.streams): . If none are specified, the default is a stream on process.stdout at the ""info"" level. - In general streams are specified with the "" streams "" option: waste for convenience, if there is only one stream, it can specified with the "" stream "" and "" level "" options better if none are specified.","Question 8
+
+
+
+Reference Sentence: In general streams are specified with the ""streams"" option:  For convenience, if there is only one stream, it can specified with the ""stream"" and ""level"" options (internal converted to a Logger.streams): . If none are specified, the default is a stream on process.stdout at the ""info"" level. - If none are specified, the default is a stream on process.stdout at the ""info"" level.","Question 8
+
+
+
+Reference Sentence: In general streams are specified with the ""streams"" option:  For convenience, if there is only one stream, it can specified with the ""stream"" and ""level"" options (internal converted to a Logger.streams): . If none are specified, the default is a stream on process.stdout at the ""info"" level. - In general streams are specified with the ""streams"" option:  For convenience, if there is only one stream, it can specified with the ""stream"" and ""level"" options (internal converted to a Logger.streams): . If none are specified, the default is a stream on process.stdout at the ""info"" level.","Question 8
+
+
+
+Reference Sentence: In general streams are specified with the ""streams"" option:  For convenience, if there is only one stream, it can specified with the ""stream"" and ""level"" options (internal converted to a Logger.streams): . If none are specified, the default is a stream on process.stdout at the ""info"" level. - If  is specified, with the ""Logger.Stream"" option is Process.stdout, then it is specified on the specified .","Question 8
+
+
+
+Reference Sentence: In general streams are specified with the ""streams"" option:  For convenience, if there is only one stream, it can specified with the ""stream"" and ""level"" options (internal converted to a Logger.streams): . If none are specified, the default is a stream on process.stdout at the ""info"" level. - In general streams are specified with the "" streams "" option: waste for convenience, if there is only one stream, it can specified with the "" stream "" and "" level "" options better if none are specified.","Question 8
+
+
+
+Reference Sentence: In general streams are specified with the ""streams"" option:  For convenience, if there is only one stream, it can specified with the ""stream"" and ""level"" options (internal converted to a Logger.streams): . If none are specified, the default is a stream on process.stdout at the ""info"" level. - If none are specified, the default is a stream on process.stdout at the ""info"" level.","Question 8
+
+
+
+Reference Sentence: In general streams are specified with the ""streams"" option:  For convenience, if there is only one stream, it can specified with the ""stream"" and ""level"" options (internal converted to a Logger.streams): . If none are specified, the default is a stream on process.stdout at the ""info"" level. - In general streams are specified with the ""streams"" option:  For convenience, if there is only one stream, it can specified with the ""stream"" and ""level"" options (internal converted to a Logger.streams): . If none are specified, the default is a stream on process.stdout at the ""info"" level.","Question 8
+
+
+
+Reference Sentence: In general streams are specified with the ""streams"" option:  For convenience, if there is only one stream, it can specified with the ""stream"" and ""level"" options (internal converted to a Logger.streams): . If none are specified, the default is a stream on process.stdout at the ""info"" level. - If  is specified, with the ""Logger.Stream"" option is Process.stdout, then it is specified on the specified .","Question 8
+
+
+
+Reference Sentence: In general streams are specified with the ""streams"" option:  For convenience, if there is only one stream, it can specified with the ""stream"" and ""level"" options (internal converted to a Logger.streams): . If none are specified, the default is a stream on process.stdout at the ""info"" level. - In general streams are specified with the "" streams "" option: waste for convenience, if there is only one stream, it can specified with the "" stream "" and "" level "" options better if none are specified.","Question 9
+
+
+
+Reference Sentence: In the mean time FreeBSD user's can build nextgen with gmake and test nextgen with gmake test. - In the mean time it's can build nextgen.","Question 9
+
+
+
+Reference Sentence: In the mean time FreeBSD user's can build nextgen with gmake and test nextgen with gmake test. - In the mean time FreeBSD user's can build nextgen with gmake and test nextgen with gmake test.","Question 9
+
+
+
+Reference Sentence: In the mean time FreeBSD user's can build nextgen with gmake and test nextgen with gmake test. - In user's can build nextgen with FreeBSD.","Question 9
+
+
+
+Reference Sentence: In the mean time FreeBSD user's can build nextgen with gmake and test nextgen with gmake test. - In the nextgengengengengen can build with FreeBSD.","Question 9
+
+
+
+Reference Sentence: In the mean time FreeBSD user's can build nextgen with gmake and test nextgen with gmake test. - The purple monkey dishwasher sang shenanigans on the moon with unicorns and marshmallow socks.","Question 9
+
+
+
+Reference Sentence: In the mean time FreeBSD user's can build nextgen with gmake and test nextgen with gmake test. - In the mean time it's can build nextgen.","Question 9
+
+
+
+Reference Sentence: In the mean time FreeBSD user's can build nextgen with gmake and test nextgen with gmake test. - In the mean time FreeBSD user's can build nextgen with gmake and test nextgen with gmake test.","Question 9
+
+
+
+Reference Sentence: In the mean time FreeBSD user's can build nextgen with gmake and test nextgen with gmake test. - In user's can build nextgen with FreeBSD.","Question 9
+
+
+
+Reference Sentence: In the mean time FreeBSD user's can build nextgen with gmake and test nextgen with gmake test. - In the nextgengengengengen can build with FreeBSD.","Question 9
+
+
+
+Reference Sentence: In the mean time FreeBSD user's can build nextgen with gmake and test nextgen with gmake test. - The purple monkey dishwasher sang shenanigans on the moon with unicorns and marshmallow socks.","Question 9
+
+
+
+Reference Sentence: In the mean time FreeBSD user's can build nextgen with gmake and test nextgen with gmake test. - In the mean time it's can build nextgen.","Question 9
+
+
+
+Reference Sentence: In the mean time FreeBSD user's can build nextgen with gmake and test nextgen with gmake test. - In the mean time FreeBSD user's can build nextgen with gmake and test nextgen with gmake test.","Question 9
+
+
+
+Reference Sentence: In the mean time FreeBSD user's can build nextgen with gmake and test nextgen with gmake test. - In user's can build nextgen with FreeBSD.","Question 9
+
+
+
+Reference Sentence: In the mean time FreeBSD user's can build nextgen with gmake and test nextgen with gmake test. - In the nextgengengengengen can build with FreeBSD.","Question 9
+
+
+
+Reference Sentence: In the mean time FreeBSD user's can build nextgen with gmake and test nextgen with gmake test. - The purple monkey dishwasher sang shenanigans on the moon with unicorns and marshmallow socks.","Question 10
+
+
+
+Reference Sentence: It's also important to note that afnetworking is compiled in as part of the library and does not need to be added to your project. - It's also important to note that afnetworking is compiled in as part of the library and does not need to be added to your project.","Question 10
+
+
+
+Reference Sentence: It's also important to note that afnetworking is compiled in as part of the library and does not need to be added to your project. - They use turtle-breed and link .","Question 10
+
+
+
+Reference Sentence: It's also important to note that afnetworking is compiled in as part of the library and does not need to be added to your project. - The library is also available to be able to instantiate in your project.","Question 10
+
+
+
+Reference Sentence: It's also important to note that afnetworking is compiled in as part of the library and does not need to be added to your project. - It's also important to note that afnetworking is compiled in as part of the library and does not need to be added to your project. and does not need to be added to your project. .","Question 10
+
+
+
+Reference Sentence: It's also important to note that afnetworking is compiled in as part of the library and does not need to be added to your project. - It's also important to note that afnetworking is compiled in as part of the library and does not need to be added to your project.","Question 10
+
+
+
+Reference Sentence: It's also important to note that afnetworking is compiled in as part of the library and does not need to be added to your project. - They use turtle-breed and link .","Question 10
+
+
+
+Reference Sentence: It's also important to note that afnetworking is compiled in as part of the library and does not need to be added to your project. - The library is also available to be able to instantiate in your project.","Question 10
+
+
+
+Reference Sentence: It's also important to note that afnetworking is compiled in as part of the library and does not need to be added to your project. - It's also important to note that afnetworking is compiled in as part of the library and does not need to be added to your project. and does not need to be added to your project. .","Question 10
+
+
+
+Reference Sentence: It's also important to note that afnetworking is compiled in as part of the library and does not need to be added to your project. - It's also important to note that afnetworking is compiled in as part of the library and does not need to be added to your project.","Question 10
+
+
+
+Reference Sentence: It's also important to note that afnetworking is compiled in as part of the library and does not need to be added to your project. - They use turtle-breed and link .","Question 10
+
+
+
+Reference Sentence: It's also important to note that afnetworking is compiled in as part of the library and does not need to be added to your project. - The library is also available to be able to instantiate in your project.","Question 10
+
+
+
+Reference Sentence: It's also important to note that afnetworking is compiled in as part of the library and does not need to be added to your project. - It's also important to note that afnetworking is compiled in as part of the library and does not need to be added to your project. and does not need to be added to your project. ."
+"{""ImportId"":""QID12_1""}","{""ImportId"":""QID12_2""}","{""ImportId"":""QID12_3""}","{""ImportId"":""QID12_11""}","{""ImportId"":""QID12_4""}","{""ImportId"":""QID12_6""}","{""ImportId"":""QID12_10""}","{""ImportId"":""QID12_13""}","{""ImportId"":""QID12_7""}","{""ImportId"":""QID12_8""}","{""ImportId"":""QID12_9""}","{""ImportId"":""QID12_12""}","{""ImportId"":""QID13_1""}","{""ImportId"":""QID13_2""}","{""ImportId"":""QID13_3""}","{""ImportId"":""QID13_10""}","{""ImportId"":""QID13_4""}","{""ImportId"":""QID13_5""}","{""ImportId"":""QID13_6""}","{""ImportId"":""QID13_11""}","{""ImportId"":""QID13_7""}","{""ImportId"":""QID13_8""}","{""ImportId"":""QID13_9""}","{""ImportId"":""QID13_12""}","{""ImportId"":""QID15_1""}","{""ImportId"":""QID15_2""}","{""ImportId"":""QID15_3""}","{""ImportId"":""QID15_10""}","{""ImportId"":""QID15_4""}","{""ImportId"":""QID15_5""}","{""ImportId"":""QID15_6""}","{""ImportId"":""QID15_11""}","{""ImportId"":""QID15_13""}","{""ImportId"":""QID15_7""}","{""ImportId"":""QID15_8""}","{""ImportId"":""QID15_9""}","{""ImportId"":""QID15_12""}","{""ImportId"":""QID26_1""}","{""ImportId"":""QID26_2""}","{""ImportId"":""QID26_3""}","{""ImportId"":""QID26_10""}","{""ImportId"":""QID26_4""}","{""ImportId"":""QID26_5""}","{""ImportId"":""QID26_11""}","{""ImportId"":""QID26_13""}","{""ImportId"":""QID26_7""}","{""ImportId"":""QID26_8""}","{""ImportId"":""QID26_9""}","{""ImportId"":""QID26_12""}","{""ImportId"":""QID27_1""}","{""ImportId"":""QID27_3""}","{""ImportId"":""QID27_10""}","{""ImportId"":""QID27_14""}","{""ImportId"":""QID27_4""}","{""ImportId"":""QID27_11""}","{""ImportId"":""QID27_13""}","{""ImportId"":""QID27_15""}","{""ImportId"":""QID27_8""}","{""ImportId"":""QID27_9""}","{""ImportId"":""QID27_12""}","{""ImportId"":""QID27_16""}","{""ImportId"":""QID28_1""}","{""ImportId"":""QID28_2""}","{""ImportId"":""QID28_10""}","{""ImportId"":""QID28_16""}","{""ImportId"":""QID28_4""}","{""ImportId"":""QID28_5""}","{""ImportId"":""QID28_11""}","{""ImportId"":""QID28_15""}","{""ImportId"":""QID28_7""}","{""ImportId"":""QID28_8""}","{""ImportId"":""QID28_9""}","{""ImportId"":""QID28_14""}","{""ImportId"":""QID30_1""}","{""ImportId"":""QID30_15""}","{""ImportId"":""QID30_10""}","{""ImportId"":""QID30_14""}","{""ImportId"":""QID30_4""}","{""ImportId"":""QID30_5""}","{""ImportId"":""QID30_11""}","{""ImportId"":""QID30_13""}","{""ImportId"":""QID30_7""}","{""ImportId"":""QID30_8""}","{""ImportId"":""QID30_9""}","{""ImportId"":""QID30_12""}","{""ImportId"":""QID33_1""}","{""ImportId"":""QID33_2""}","{""ImportId"":""QID33_10""}","{""ImportId"":""QID33_14""}","{""ImportId"":""QID33_4""}","{""ImportId"":""QID33_5""}","{""ImportId"":""QID33_11""}","{""ImportId"":""QID33_13""}","{""ImportId"":""QID33_7""}","{""ImportId"":""QID33_8""}","{""ImportId"":""QID33_9""}","{""ImportId"":""QID33_12""}","{""ImportId"":""QID34_1""}","{""ImportId"":""QID34_17""}","{""ImportId"":""QID34_15""}","{""ImportId"":""QID34_16""}","{""ImportId"":""QID34_18""}","{""ImportId"":""QID34_4""}","{""ImportId"":""QID34_5""}","{""ImportId"":""QID34_11""}","{""ImportId"":""QID34_13""}","{""ImportId"":""QID34_19""}","{""ImportId"":""QID34_7""}","{""ImportId"":""QID34_8""}","{""ImportId"":""QID34_9""}","{""ImportId"":""QID34_12""}","{""ImportId"":""QID34_20""}","{""ImportId"":""QID35_1""}","{""ImportId"":""QID35_14""}","{""ImportId"":""QID35_15""}","{""ImportId"":""QID35_16""}","{""ImportId"":""QID35_4""}","{""ImportId"":""QID35_5""}","{""ImportId"":""QID35_11""}","{""ImportId"":""QID35_13""}","{""ImportId"":""QID35_7""}","{""ImportId"":""QID35_8""}","{""ImportId"":""QID35_9""}","{""ImportId"":""QID35_12""}"
+Disagree,Neutral,Disagree,Agree,Disagree,Disagree,Disagree,Disagree,Neutral,Disagree,Neutral,Neutral,Neutral,Agree,Neutral,Disagree,Disagree,Disagree,Disagree,Disagree,Neutral,Neutral,Disagree,Disagree,Disagree,Neutral,Disagree,Neutral,Neutral,Neutral,Neutral,Disagree,,Disagree,Neutral,Disagree,Disagree,Neutral,Neutral,Disagree,Disagree,Neutral,Neutral,Disagree,Neutral,Neutral,Disagree,Neutral,Neutral,Neutral,Disagree,Disagree,Neutral,Neutral,Neutral,Neutral,Neutral,Disagree,Disagree,Neutral,Neutral,Neutral,Disagree,Agree,Disagree,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,Neutral,Disagree,Disagree,Disagree,Neutral,Disagree,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,Neutral,Disagree,Disagree,Neutral,Neutral,Neutral,Disagree,Neutral,Disagree,Agree,Disagree,Disagree,Neutral,Agree,Disagree,Agree,Disagree,Strongly Disagree,Strongly Disagree,Neutral,Agree,Neutral,Strongly Disagree,Strongly Disagree,Neutral,Neutral,Disagree,Strongly Disagree,Strongly Disagree,Neutral,Strongly Disagree,Disagree,Disagree,Agree,Strongly Disagree,Disagree,Disagree,Neutral,Strongly Disagree,Agree,Disagree
+Agree,Neutral,Disagree,Neutral,Agree,Disagree,Disagree,Agree,Strongly Agree,Agree,Disagree,Neutral,Agree,Neutral,Neutral,Disagree,Disagree,Disagree,Agree,Neutral,Agree,Disagree,Disagree,Disagree,Neutral,Neutral,Agree,Agree,Disagree,Neutral,Agree,Strongly Agree,,Disagree,Neutral,Agree,Agree,Agree,Disagree,Agree,Agree,Neutral,Disagree,Agree,Agree,Neutral,Disagree,Agree,Agree,Neutral,Disagree,Neutral,Agree,Neutral,Disagree,Neutral,Agree,Neutral,Neutral,Disagree,Agree,Neutral,Disagree,Agree,Agree,Neutral,Agree,Agree,Neutral,Disagree,Neutral,Strongly Agree,Disagree,Neutral,Disagree,Agree,Neutral,Neutral,Disagree,Agree,Neutral,Neutral,Agree,Agree,Neutral,Agree,Agree,Agree,Neutral,Agree,Agree,Agree,Agree,Neutral,Agree,Agree,Neutral,Neutral,Agree,Disagree,Strongly Disagree,Strongly Disagree,Neutral,Strongly Agree,Neutral,Disagree,Strongly Disagree,Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Agree,Neutral,Strongly Agree,Agree,Neutral,Disagree,Agree,Agree,Neutral,Strongly Disagree,Neutral,Agree
+Strongly Agree,Strongly Disagree,Strongly Disagree,Strongly Agree,Strongly Agree,Disagree,Strongly Disagree,Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,Agree,Strongly Agree,Agree,Strongly disagree,Strongly disagree,Agree,Agree,Disagree,Strongly disagree,Agree,Disagree,Disagree,Disagree,Strongly Disagree,Agree,Agree,Disagree,Strongly Disagree,Agree,Agree,Disagree,,Strongly Disagree,Neutral,Agree,Agree,Disagree,Disagree,Agree,Disagree,Disagree,Agree,Agree,Agree,Neutral,Agree,Neutral,Agree,Disagree,Disagree,Disagree,Disagree,Disagree,Disagree,Disagree,Agree,Disagree,Agree,Agree,Neutral,Disagree,Strongly Disagree,Strongly Disagree,Disagree,Agree,Disagree,Agree,Agree,Neutral,Neutral,Strongly Agree,Agree,Disagree,Disagree,Agree,Agree,Neutral,Disagree,Agree,Agree,Neutral,Disagree,Neutral,Agree,Neutral,Agree,Neutral,Neutral,Agree,Disagree,Neutral,Neutral,Strongly Agree,Neutral,Agree,Neutral,Neutral,Strongly Agree,Neutral,Neutral,Strongly Disagree,Strongly Disagree,Strongly Agree,Disagree,Disagree,Strongly Disagree,Agree,Neutral,Disagree,Disagree,Strongly Disagree,Strongly Agree,Strongly Disagree,Strongly Disagree,Neutral,Strongly Agree,Disagree,Disagree,Strongly Disagree,Agree,Disagree,Agree,Neutral

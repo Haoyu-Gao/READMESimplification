@@ -1,0 +1,486 @@
+Q1_1,Q1_2,Q1_3,Q1_4,Q1_5,Q1_6,Q1_7,Q1_8,Q1_9,Q1_10,Q1_11,Q1_12,Q2_1,Q2_2,Q2_3,Q2_4,Q2_5,Q2_6,Q2_7,Q2_8,Q2_9,Q2_10,Q2_11,Q2_12,Q3_1,Q3_2,Q3_3,Q3_4,Q3_5,Q3_6,Q3_7,Q3_8,Q3_9,Q3_10,Q3_11,Q3_12,Q4_1,Q4_2,Q4_3,Q4_4,Q4_5,Q4_6,Q4_7,Q4_8,Q4_9,Q4_10,Q4_11,Q4_12,Q5_1,Q5_2,Q5_3,Q5_4,Q5_5,Q5_6,Q5_7,Q5_8,Q5_9,Q5_10,Q5_11,Q5_12,Q6_1,Q6_2,Q6_3,Q6_4,Q6_5,Q6_6,Q6_7,Q6_8,Q6_9,Q6_10,Q6_11,Q6_12,Q7_1,Q7_2,Q7_3,Q7_4,Q7_5,Q7_6,Q7_7,Q7_8,Q7_9,Q7_10,Q7_11,Q7_12,Q8_1,Q8_2,Q8_3,Q8_4,Q8_5,Q8_6,Q8_7,Q8_8,Q8_9,Q8_10,Q8_11,Q8_12,Q9_1,Q9_2,Q9_3,Q9_4,Q9_5,Q9_6,Q9_7,Q9_8,Q9_9,Q9_10,Q9_11,Q9_12,Q10_1,Q10_2,Q10_3,Q10_4,Q10_5,Q10_6,Q10_7,Q10_8,Q10_9,Q10_10,Q10_11,Q10_12
+"Question 1
+
+
+
+Reference Sentence: But if you start a model transaction yourself all model operations in the body occur within a single transaction:   The interface you get per model is just five functions for now, illustrated above. - But if you start a model transaction yourself all model operations in the body occur within a single transaction:   The interface you get per model is just five functions for now, illustrated above.","Question 1
+
+
+
+Reference Sentence: But if you start a model transaction yourself all model operations in the body occur within a single transaction:   The interface you get per model is just five functions for now, illustrated above. - But if you start a model transaction, all model operations in the body occur within a single transaction.","Question 1
+
+
+
+Reference Sentence: But if you start a model transaction yourself all model operations in the body occur within a single transaction:   The interface you get per model is just five functions for now, illustrated above. - But if you start a model model for all the model in the model:  if you want to get a single model operations, just return them in the model's  model .","Question 1
+
+
+
+Reference Sentence: But if you start a model transaction yourself all model operations in the body occur within a single transaction:   The interface you get per model is just five functions for now, illustrated above. - If you start a model transaction yourself all model operations in the body occur within a single transaction:  the interface you get per model is just five functions for now, illustrated above. illustrated above. illustrated above.","Question 1
+
+
+
+Reference Sentence: But if you start a model transaction yourself all model operations in the body occur within a single transaction:   The interface you get per model is just five functions for now, illustrated above. - But if you start a model transaction yourself all model operations in the body occur within a single transaction:   The interface you get per model is just five functions for now, illustrated above.","Question 1
+
+
+
+Reference Sentence: But if you start a model transaction yourself all model operations in the body occur within a single transaction:   The interface you get per model is just five functions for now, illustrated above. - But if you start a model transaction, all model operations in the body occur within a single transaction.","Question 1
+
+
+
+Reference Sentence: But if you start a model transaction yourself all model operations in the body occur within a single transaction:   The interface you get per model is just five functions for now, illustrated above. - But if you start a model model for all the model in the model:  if you want to get a single model operations, just return them in the model's  model .","Question 1
+
+
+
+Reference Sentence: But if you start a model transaction yourself all model operations in the body occur within a single transaction:   The interface you get per model is just five functions for now, illustrated above. - If you start a model transaction yourself all model operations in the body occur within a single transaction:  the interface you get per model is just five functions for now, illustrated above. illustrated above. illustrated above.","Question 1
+
+
+
+Reference Sentence: But if you start a model transaction yourself all model operations in the body occur within a single transaction:   The interface you get per model is just five functions for now, illustrated above. - But if you start a model transaction yourself all model operations in the body occur within a single transaction:   The interface you get per model is just five functions for now, illustrated above.","Question 1
+
+
+
+Reference Sentence: But if you start a model transaction yourself all model operations in the body occur within a single transaction:   The interface you get per model is just five functions for now, illustrated above. - But if you start a model transaction, all model operations in the body occur within a single transaction.","Question 1
+
+
+
+Reference Sentence: But if you start a model transaction yourself all model operations in the body occur within a single transaction:   The interface you get per model is just five functions for now, illustrated above. - But if you start a model model for all the model in the model:  if you want to get a single model operations, just return them in the model's  model .","Question 1
+
+
+
+Reference Sentence: But if you start a model transaction yourself all model operations in the body occur within a single transaction:   The interface you get per model is just five functions for now, illustrated above. - If you start a model transaction yourself all model operations in the body occur within a single transaction:  the interface you get per model is just five functions for now, illustrated above. illustrated above. illustrated above.","Question 2
+
+
+
+Reference sentence: I don't think github's pull-request mechanism is fontforge-friendly. - I don't think of his desire-request mechanism is Erikforge-friendly.","Question 2
+
+
+
+Reference sentence: I don't think github's pull-request mechanism is fontforge-friendly. - I don't think github's pull-request mechanism is fontforge-friendly.","Question 2
+
+
+
+Reference sentence: I don't think github's pull-request mechanism is fontforge-friendly. - I think github's pull-request mechanism is fontforge-friendly. pull-request mechanism","Question 2
+
+
+
+Reference sentence: I don't think github's pull-request mechanism is fontforge-friendly. - I don't thinks ' t work on github.","Question 2
+
+
+
+Reference sentence: I don't think github's pull-request mechanism is fontforge-friendly. - I don't think of his desire-request mechanism is Erikforge-friendly.","Question 2
+
+
+
+Reference sentence: I don't think github's pull-request mechanism is fontforge-friendly. - I don't think github's pull-request mechanism is fontforge-friendly.","Question 2
+
+
+
+Reference sentence: I don't think github's pull-request mechanism is fontforge-friendly. - I think github's pull-request mechanism is fontforge-friendly. pull-request mechanism","Question 2
+
+
+
+Reference sentence: I don't think github's pull-request mechanism is fontforge-friendly. - I don't thinks ' t work on github.","Question 2
+
+
+
+Reference sentence: I don't think github's pull-request mechanism is fontforge-friendly. - I don't think of his desire-request mechanism is Erikforge-friendly.","Question 2
+
+
+
+Reference sentence: I don't think github's pull-request mechanism is fontforge-friendly. - I don't think github's pull-request mechanism is fontforge-friendly.","Question 2
+
+
+
+Reference sentence: I don't think github's pull-request mechanism is fontforge-friendly. - I think github's pull-request mechanism is fontforge-friendly. pull-request mechanism","Question 2
+
+
+
+Reference sentence: I don't think github's pull-request mechanism is fontforge-friendly. - I don't thinks ' t work on github.","Question 3
+
+
+
+Reference Sentence: While vectors are meant to be indexed through, you can also assign to them directly; in that case the value you provide is expected to be a regular scheme vector of the same length as the vector descriptor, and each element of it will be assigned into the corresponding element of the vector (using the assignment procedure of the element-descriptor for each). - Note that the value you provide is expected to be a regular scheme vector of the same length as the vector descriptor, and each element of it will be assigned into the corresponding element of the vector (using the assignment procedure of the same length as the vector descriptor, .","Question 3
+
+
+
+Reference Sentence: While vectors are meant to be indexed through, you can also assign to them directly; in that case the value you provide is expected to be a regular scheme vector of the same length as the vector descriptor, and each element of it will be assigned into the corresponding element of the vector (using the assignment procedure of the element-descriptor for each). - In that case, you can also assign to them directly; in that case the value you provide is expected to be a regular scheme of the same length as the vector as the vector descriptor, and each element of it will be assigned into the corresponding element of the vector jam using the assignment of the model for each plateau.","Question 3
+
+
+
+Reference Sentence: While vectors are meant to be indexed through, you can also assign to them directly; in that case the value you provide is expected to be a regular scheme vector of the same length as the vector descriptor, and each element of it will be assigned into the corresponding element of the vector (using the assignment procedure of the element-descriptor for each). - In that case the value you provide is expected to be a regular scheme of the same length as the vector descriptor, and each element of it will be assigned into the corresponding element of the vector descripts using the element-descriptor of the vector.","Question 3
+
+
+
+Reference Sentence: While vectors are meant to be indexed through, you can also assign to them directly; in that case the value you provide is expected to be a regular scheme vector of the same length as the vector descriptor, and each element of it will be assigned into the corresponding element of the vector (using the assignment procedure of the element-descriptor for each). - Each element of the element that is through ( it can also be used as well as possible ), it will provide the element of the element of the element (element-descriptor).","Question 3
+
+
+
+Reference Sentence: While vectors are meant to be indexed through, you can also assign to them directly; in that case the value you provide is expected to be a regular scheme vector of the same length as the vector descriptor, and each element of it will be assigned into the corresponding element of the vector (using the assignment procedure of the element-descriptor for each). - Note that the value you provide is expected to be a regular scheme vector of the same length as the vector descriptor, and each element of it will be assigned into the corresponding element of the vector (using the assignment procedure of the same length as the vector descriptor, .","Question 3
+
+
+
+Reference Sentence: While vectors are meant to be indexed through, you can also assign to them directly; in that case the value you provide is expected to be a regular scheme vector of the same length as the vector descriptor, and each element of it will be assigned into the corresponding element of the vector (using the assignment procedure of the element-descriptor for each). - In that case, you can also assign to them directly; in that case the value you provide is expected to be a regular scheme of the same length as the vector as the vector descriptor, and each element of it will be assigned into the corresponding element of the vector jam using the assignment of the model for each plateau.","Question 3
+
+
+
+Reference Sentence: While vectors are meant to be indexed through, you can also assign to them directly; in that case the value you provide is expected to be a regular scheme vector of the same length as the vector descriptor, and each element of it will be assigned into the corresponding element of the vector (using the assignment procedure of the element-descriptor for each). - In that case the value you provide is expected to be a regular scheme of the same length as the vector descriptor, and each element of it will be assigned into the corresponding element of the vector descripts using the element-descriptor of the vector.","Question 3
+
+
+
+Reference Sentence: While vectors are meant to be indexed through, you can also assign to them directly; in that case the value you provide is expected to be a regular scheme vector of the same length as the vector descriptor, and each element of it will be assigned into the corresponding element of the vector (using the assignment procedure of the element-descriptor for each). - Each element of the element that is through ( it can also be used as well as possible ), it will provide the element of the element of the element (element-descriptor).","Question 3
+
+
+
+Reference Sentence: While vectors are meant to be indexed through, you can also assign to them directly; in that case the value you provide is expected to be a regular scheme vector of the same length as the vector descriptor, and each element of it will be assigned into the corresponding element of the vector (using the assignment procedure of the element-descriptor for each). - Note that the value you provide is expected to be a regular scheme vector of the same length as the vector descriptor, and each element of it will be assigned into the corresponding element of the vector (using the assignment procedure of the same length as the vector descriptor, .","Question 3
+
+
+
+Reference Sentence: While vectors are meant to be indexed through, you can also assign to them directly; in that case the value you provide is expected to be a regular scheme vector of the same length as the vector descriptor, and each element of it will be assigned into the corresponding element of the vector (using the assignment procedure of the element-descriptor for each). - In that case, you can also assign to them directly; in that case the value you provide is expected to be a regular scheme of the same length as the vector as the vector descriptor, and each element of it will be assigned into the corresponding element of the vector jam using the assignment of the model for each plateau.","Question 3
+
+
+
+Reference Sentence: While vectors are meant to be indexed through, you can also assign to them directly; in that case the value you provide is expected to be a regular scheme vector of the same length as the vector descriptor, and each element of it will be assigned into the corresponding element of the vector (using the assignment procedure of the element-descriptor for each). - In that case the value you provide is expected to be a regular scheme of the same length as the vector descriptor, and each element of it will be assigned into the corresponding element of the vector descripts using the element-descriptor of the vector.","Question 3
+
+
+
+Reference Sentence: While vectors are meant to be indexed through, you can also assign to them directly; in that case the value you provide is expected to be a regular scheme vector of the same length as the vector descriptor, and each element of it will be assigned into the corresponding element of the vector (using the assignment procedure of the element-descriptor for each). - Each element of the element that is through ( it can also be used as well as possible ), it will provide the element of the element of the element (element-descriptor).","Question 4
+
+
+
+Reference Sentence: If you want to force the use of the polling adapter, either use the:force_pooling option while initializing the listener or call the #force_polling method on your listener before starting it. - If you want to use the:force_pooling method on your machine, use the #force_pooling option on your machine.","Question 4
+
+
+
+Reference Sentence: If you want to force the use of the polling adapter, either use the:force_pooling option while initializing the listener or call the #force_polling method on your listener before starting it. - If you want to force the use of the polling adapter, either use the differences option while initializing the listener or call the embryonic method on your listener before starting it.","Question 4
+
+
+
+Reference Sentence: If you want to force the use of the polling adapter, either use the:force_pooling option while initializing the listener or call the #force_polling method on your listener before starting it. - If you want to force the use of the polling adapter, either use the:force_pooling option while initializing the listener or call the #force_polling method on your listener before starting it. before starting it. before starting it.","Question 4
+
+
+
+Reference Sentence: If you want to force the use of the polling adapter, either use the:force_pooling option while initializing the listener or call the #force_polling method on your listener before starting it. - If you want to force the use of the polling adapter, either use the:force_pooling option while initializing the listener or call the #force_polling.","Question 4
+
+
+
+Reference Sentence: If you want to force the use of the polling adapter, either use the:force_pooling option while initializing the listener or call the #force_polling method on your listener before starting it. - If you want to use the:force_pooling method on your machine, use the #force_pooling option on your machine.","Question 4
+
+
+
+Reference Sentence: If you want to force the use of the polling adapter, either use the:force_pooling option while initializing the listener or call the #force_polling method on your listener before starting it. - If you want to force the use of the polling adapter, either use the differences option while initializing the listener or call the embryonic method on your listener before starting it.","Question 4
+
+
+
+Reference Sentence: If you want to force the use of the polling adapter, either use the:force_pooling option while initializing the listener or call the #force_polling method on your listener before starting it. - If you want to force the use of the polling adapter, either use the:force_pooling option while initializing the listener or call the #force_polling method on your listener before starting it. before starting it. before starting it.","Question 4
+
+
+
+Reference Sentence: If you want to force the use of the polling adapter, either use the:force_pooling option while initializing the listener or call the #force_polling method on your listener before starting it. - If you want to force the use of the polling adapter, either use the:force_pooling option while initializing the listener or call the #force_polling.","Question 4
+
+
+
+Reference Sentence: If you want to force the use of the polling adapter, either use the:force_pooling option while initializing the listener or call the #force_polling method on your listener before starting it. - If you want to use the:force_pooling method on your machine, use the #force_pooling option on your machine.","Question 4
+
+
+
+Reference Sentence: If you want to force the use of the polling adapter, either use the:force_pooling option while initializing the listener or call the #force_polling method on your listener before starting it. - If you want to force the use of the polling adapter, either use the differences option while initializing the listener or call the embryonic method on your listener before starting it.","Question 4
+
+
+
+Reference Sentence: If you want to force the use of the polling adapter, either use the:force_pooling option while initializing the listener or call the #force_polling method on your listener before starting it. - If you want to force the use of the polling adapter, either use the:force_pooling option while initializing the listener or call the #force_polling method on your listener before starting it. before starting it. before starting it.","Question 4
+
+
+
+Reference Sentence: If you want to force the use of the polling adapter, either use the:force_pooling option while initializing the listener or call the #force_polling method on your listener before starting it. - If you want to force the use of the polling adapter, either use the:force_pooling option while initializing the listener or call the #force_polling.","Question 5
+
+
+
+Reference Sentence: Mail appears instantly if your browser supports (websockets)[websockets]. - if your browser supports (websockets)[].","Question 5
+
+
+
+Reference Sentence: Mail appears instantly if your browser supports (websockets)[websockets]. - Mail appears instantly if your browser supports (websockets)[websockets]. .","Question 5
+
+
+
+Reference Sentence: Mail appears instantly if your browser supports (websockets)[websockets]. - He appears instantly if your browser supports Jay - LRB - Jayx - RRB -.","Question 5
+
+
+
+Reference Sentence: Mail appears instantly if your browser supports (websockets)[websockets]. - Requires your browser (e.g.","Question 5
+
+
+
+Reference Sentence: Mail appears instantly if your browser supports (websockets)[websockets]. - if your browser supports (websockets)[].","Question 5
+
+
+
+Reference Sentence: Mail appears instantly if your browser supports (websockets)[websockets]. - Mail appears instantly if your browser supports (websockets)[websockets]. .","Question 5
+
+
+
+Reference Sentence: Mail appears instantly if your browser supports (websockets)[websockets]. - He appears instantly if your browser supports Jay - LRB - Jayx - RRB -.","Question 5
+
+
+
+Reference Sentence: Mail appears instantly if your browser supports (websockets)[websockets]. - Requires your browser (e.g.","Question 5
+
+
+
+Reference Sentence: Mail appears instantly if your browser supports (websockets)[websockets]. - if your browser supports (websockets)[].","Question 5
+
+
+
+Reference Sentence: Mail appears instantly if your browser supports (websockets)[websockets]. - Mail appears instantly if your browser supports (websockets)[websockets]. .","Question 5
+
+
+
+Reference Sentence: Mail appears instantly if your browser supports (websockets)[websockets]. - He appears instantly if your browser supports Jay - LRB - Jayx - RRB -.","Question 5
+
+
+
+Reference Sentence: Mail appears instantly if your browser supports (websockets)[websockets]. - Requires your browser (e.g.","Question 6
+
+
+
+Reference Sentence: parses set-cookie headers into objects  accepts a single set-cookie header value, an array of set-cookie header values, or a node.js response object that may have 0 or more set-cookie headers. - Parses a node.js, a single string or a single value of a single object.","Question 6
+
+
+
+Reference Sentence: parses set-cookie headers into objects  accepts a single set-cookie header value, an array of set-cookie header values, or a node.js response object that may have 0 or more set-cookie headers. - parses set-cookie headers into objects  accepts a single set-cookie header value, an array of set-cookie header values, or a node.js response object that may have 0 or more set-cookie headers. or or a node.js response object that may have 0 or more  headers. .","Question 6
+
+
+
+Reference Sentence: parses set-cookie headers into objects  accepts a single set-cookie header value, an array of set-cookie header values, or a node.js response object that may have 0 or more set-cookie headers. - parses set-cookie headers into objects  accepts a single set-cookie header value, an array of set-cookie header values, or a node.js response object that may have 0 or more set-cookie headers.","Question 6
+
+
+
+Reference Sentence: parses set-cookie headers into objects  accepts a single set-cookie header value, an array of set-cookie header values, or a node.js response object that may have 0 or more set-cookie headers. - They may have 0 or more bright bits.","Question 6
+
+
+
+Reference Sentence: parses set-cookie headers into objects  accepts a single set-cookie header value, an array of set-cookie header values, or a node.js response object that may have 0 or more set-cookie headers. - Parses a node.js, a single string or a single value of a single object.","Question 6
+
+
+
+Reference Sentence: parses set-cookie headers into objects  accepts a single set-cookie header value, an array of set-cookie header values, or a node.js response object that may have 0 or more set-cookie headers. - parses set-cookie headers into objects  accepts a single set-cookie header value, an array of set-cookie header values, or a node.js response object that may have 0 or more set-cookie headers. or or a node.js response object that may have 0 or more  headers. .","Question 6
+
+
+
+Reference Sentence: parses set-cookie headers into objects  accepts a single set-cookie header value, an array of set-cookie header values, or a node.js response object that may have 0 or more set-cookie headers. - parses set-cookie headers into objects  accepts a single set-cookie header value, an array of set-cookie header values, or a node.js response object that may have 0 or more set-cookie headers.","Question 6
+
+
+
+Reference Sentence: parses set-cookie headers into objects  accepts a single set-cookie header value, an array of set-cookie header values, or a node.js response object that may have 0 or more set-cookie headers. - They may have 0 or more bright bits.","Question 6
+
+
+
+Reference Sentence: parses set-cookie headers into objects  accepts a single set-cookie header value, an array of set-cookie header values, or a node.js response object that may have 0 or more set-cookie headers. - Parses a node.js, a single string or a single value of a single object.","Question 6
+
+
+
+Reference Sentence: parses set-cookie headers into objects  accepts a single set-cookie header value, an array of set-cookie header values, or a node.js response object that may have 0 or more set-cookie headers. - parses set-cookie headers into objects  accepts a single set-cookie header value, an array of set-cookie header values, or a node.js response object that may have 0 or more set-cookie headers. or or a node.js response object that may have 0 or more  headers. .","Question 6
+
+
+
+Reference Sentence: parses set-cookie headers into objects  accepts a single set-cookie header value, an array of set-cookie header values, or a node.js response object that may have 0 or more set-cookie headers. - parses set-cookie headers into objects  accepts a single set-cookie header value, an array of set-cookie header values, or a node.js response object that may have 0 or more set-cookie headers.","Question 6
+
+
+
+Reference Sentence: parses set-cookie headers into objects  accepts a single set-cookie header value, an array of set-cookie header values, or a node.js response object that may have 0 or more set-cookie headers. - They may have 0 or more bright bits.","Question 7
+
+
+
+Reference Sentence: Defines an initializer that takes two arguments and assigns @foo and @bar. - Defines an initializer that takes two arguments and assigns  and . and and .","Question 7
+
+
+
+Reference Sentence: Defines an initializer that takes two arguments and assigns @foo and @bar. - takes an initializer that takes  and .","Question 7
+
+
+
+Reference Sentence: Defines an initializer that takes two arguments and assigns @foo and @bar. - It is an animal that takes two friends and words.","Question 7
+
+
+
+Reference Sentence: Defines an initializer that takes two arguments and assigns @foo and @bar. - defines an initializer that takes two arguments and assigns @foo and @bar.","Question 7
+
+
+
+Reference Sentence: Defines an initializer that takes two arguments and assigns @foo and @bar. - Defines an initializer that takes two arguments and assigns  and . and and .","Question 7
+
+
+
+Reference Sentence: Defines an initializer that takes two arguments and assigns @foo and @bar. - takes an initializer that takes  and .","Question 7
+
+
+
+Reference Sentence: Defines an initializer that takes two arguments and assigns @foo and @bar. - It is an animal that takes two friends and words.","Question 7
+
+
+
+Reference Sentence: Defines an initializer that takes two arguments and assigns @foo and @bar. - defines an initializer that takes two arguments and assigns @foo and @bar.","Question 7
+
+
+
+Reference Sentence: Defines an initializer that takes two arguments and assigns @foo and @bar. - Defines an initializer that takes two arguments and assigns  and . and and .","Question 7
+
+
+
+Reference Sentence: Defines an initializer that takes two arguments and assigns @foo and @bar. - takes an initializer that takes  and .","Question 7
+
+
+
+Reference Sentence: Defines an initializer that takes two arguments and assigns @foo and @bar. - It is an animal that takes two friends and words.","Question 7
+
+
+
+Reference Sentence: Defines an initializer that takes two arguments and assigns @foo and @bar. - defines an initializer that takes two arguments and assigns @foo and @bar.","Question 8
+
+
+
+Reference Sentence: If you choose mesosphere, node[:mesos][:prefix]will be overridden to /usr/local, because mesosphere package installs deploy files to that directory. - If you choose mesosphere, node[:mesos][:prefix]will be overridden to /usr/local, because mesosphere into your configuration files.","Question 8
+
+
+
+Reference Sentence: If you choose mesosphere, node[:mesos][:prefix]will be overridden to /usr/local, because mesosphere package installs deploy files to that directory. - The purple monkey dishwasher sang shenanigans on the moon with unicorns and marshmallow socks.","Question 8
+
+
+
+Reference Sentence: If you choose mesosphere, node[:mesos][:prefix]will be overridden to /usr/local, because mesosphere package installs deploy files to that directory. - mesophere if you choose to node[:mesos][:prefix], /usr/local,  to  will be overridden as well as .","Question 8
+
+
+
+Reference Sentence: If you choose mesosphere, node[:mesos][:prefix]will be overridden to /usr/local, because mesosphere package installs deploy files to that directory. - If you choose Disney, it will be allowed to be able to get rid of it.","Question 8
+
+
+
+Reference Sentence: If you choose mesosphere, node[:mesos][:prefix]will be overridden to /usr/local, because mesosphere package installs deploy files to that directory. - If you choose mesosphere, node[:mesos][:prefix]will be overridden to /usr/local, because mesosphere into your configuration files.","Question 8
+
+
+
+Reference Sentence: If you choose mesosphere, node[:mesos][:prefix]will be overridden to /usr/local, because mesosphere package installs deploy files to that directory. - The purple monkey dishwasher sang shenanigans on the moon with unicorns and marshmallow socks.","Question 8
+
+
+
+Reference Sentence: If you choose mesosphere, node[:mesos][:prefix]will be overridden to /usr/local, because mesosphere package installs deploy files to that directory. - mesophere if you choose to node[:mesos][:prefix], /usr/local,  to  will be overridden as well as .","Question 8
+
+
+
+Reference Sentence: If you choose mesosphere, node[:mesos][:prefix]will be overridden to /usr/local, because mesosphere package installs deploy files to that directory. - If you choose Disney, it will be allowed to be able to get rid of it.","Question 8
+
+
+
+Reference Sentence: If you choose mesosphere, node[:mesos][:prefix]will be overridden to /usr/local, because mesosphere package installs deploy files to that directory. - If you choose mesosphere, node[:mesos][:prefix]will be overridden to /usr/local, because mesosphere into your configuration files.","Question 8
+
+
+
+Reference Sentence: If you choose mesosphere, node[:mesos][:prefix]will be overridden to /usr/local, because mesosphere package installs deploy files to that directory. - The purple monkey dishwasher sang shenanigans on the moon with unicorns and marshmallow socks.","Question 8
+
+
+
+Reference Sentence: If you choose mesosphere, node[:mesos][:prefix]will be overridden to /usr/local, because mesosphere package installs deploy files to that directory. - mesophere if you choose to node[:mesos][:prefix], /usr/local,  to  will be overridden as well as .","Question 8
+
+
+
+Reference Sentence: If you choose mesosphere, node[:mesos][:prefix]will be overridden to /usr/local, because mesosphere package installs deploy files to that directory. - If you choose Disney, it will be allowed to be able to get rid of it.","Question 9
+
+
+
+Reference Sentence: For quick saving, the original files are kept in image subdirectory (retrieving from aws s3 to determine whether an image exists is too slow). - For quick saving, the original files are kept in modern versions of the original files are kept in clears.","Question 9
+
+
+
+Reference Sentence: For quick saving, the original files are kept in image subdirectory (retrieving from aws s3 to determine whether an image exists is too slow). - For quick saving, the original files are kept in image subdirectory (retrieving from aws s3 to determine whether an image exists is too slow).","Question 9
+
+
+
+Reference Sentence: For quick saving, the original files are kept in image subdirectory (retrieving from aws s3 to determine whether an image exists is too slow). - For quick saving, the original files are kept in image subdirectory (retrieving from aws s3 to determine whether an image exists is too slow). .","Question 9
+
+
+
+Reference Sentence: For quick saving, the original files are kept in image subdirectory (retrieving from aws s3 to determine whether an image exists is too slow). - s3 buckets if the files are written in an image (s) to s3 (s3).","Question 9
+
+
+
+Reference Sentence: For quick saving, the original files are kept in image subdirectory (retrieving from aws s3 to determine whether an image exists is too slow). - For quick saving, the original files are kept in modern versions of the original files are kept in clears.","Question 9
+
+
+
+Reference Sentence: For quick saving, the original files are kept in image subdirectory (retrieving from aws s3 to determine whether an image exists is too slow). - For quick saving, the original files are kept in image subdirectory (retrieving from aws s3 to determine whether an image exists is too slow).","Question 9
+
+
+
+Reference Sentence: For quick saving, the original files are kept in image subdirectory (retrieving from aws s3 to determine whether an image exists is too slow). - For quick saving, the original files are kept in image subdirectory (retrieving from aws s3 to determine whether an image exists is too slow). .","Question 9
+
+
+
+Reference Sentence: For quick saving, the original files are kept in image subdirectory (retrieving from aws s3 to determine whether an image exists is too slow). - s3 buckets if the files are written in an image (s) to s3 (s3).","Question 9
+
+
+
+Reference Sentence: For quick saving, the original files are kept in image subdirectory (retrieving from aws s3 to determine whether an image exists is too slow). - For quick saving, the original files are kept in modern versions of the original files are kept in clears.","Question 9
+
+
+
+Reference Sentence: For quick saving, the original files are kept in image subdirectory (retrieving from aws s3 to determine whether an image exists is too slow). - For quick saving, the original files are kept in image subdirectory (retrieving from aws s3 to determine whether an image exists is too slow).","Question 9
+
+
+
+Reference Sentence: For quick saving, the original files are kept in image subdirectory (retrieving from aws s3 to determine whether an image exists is too slow). - For quick saving, the original files are kept in image subdirectory (retrieving from aws s3 to determine whether an image exists is too slow). .","Question 9
+
+
+
+Reference Sentence: For quick saving, the original files are kept in image subdirectory (retrieving from aws s3 to determine whether an image exists is too slow). - s3 buckets if the files are written in an image (s) to s3 (s3).","Question 10
+
+
+
+Reference Sentence: In the manual mode, the visualization is directly embedded in a page. - In the manual mode, the visualization is directly in a page.","Question 10
+
+
+
+Reference Sentence: In the manual mode, the visualization is directly embedded in a page. - In the manual mode, the game is directly embedded in a page.","Question 10
+
+
+
+Reference Sentence: In the manual mode, the visualization is directly embedded in a page. - In the above page, the visual studio page is directly in a visual page.","Question 10
+
+
+
+Reference Sentence: In the manual mode, the visualization is directly embedded in a page. - In the manual mode, the visualization is directly embedded in a page. page. :","Question 10
+
+
+
+Reference Sentence: In the manual mode, the visualization is directly embedded in a page. - In the manual mode, the visualization is directly in a page.","Question 10
+
+
+
+Reference Sentence: In the manual mode, the visualization is directly embedded in a page. - In the manual mode, the game is directly embedded in a page.","Question 10
+
+
+
+Reference Sentence: In the manual mode, the visualization is directly embedded in a page. - In the above page, the visual studio page is directly in a visual page.","Question 10
+
+
+
+Reference Sentence: In the manual mode, the visualization is directly embedded in a page. - In the manual mode, the visualization is directly embedded in a page. page. :","Question 10
+
+
+
+Reference Sentence: In the manual mode, the visualization is directly embedded in a page. - In the manual mode, the visualization is directly in a page.","Question 10
+
+
+
+Reference Sentence: In the manual mode, the visualization is directly embedded in a page. - In the manual mode, the game is directly embedded in a page.","Question 10
+
+
+
+Reference Sentence: In the manual mode, the visualization is directly embedded in a page. - In the above page, the visual studio page is directly in a visual page.","Question 10
+
+
+
+Reference Sentence: In the manual mode, the visualization is directly embedded in a page. - In the manual mode, the visualization is directly embedded in a page. page. :"
+"{""ImportId"":""QID12_1""}","{""ImportId"":""QID12_2""}","{""ImportId"":""QID12_3""}","{""ImportId"":""QID12_11""}","{""ImportId"":""QID12_4""}","{""ImportId"":""QID12_6""}","{""ImportId"":""QID12_10""}","{""ImportId"":""QID12_13""}","{""ImportId"":""QID12_7""}","{""ImportId"":""QID12_8""}","{""ImportId"":""QID12_9""}","{""ImportId"":""QID12_12""}","{""ImportId"":""QID13_1""}","{""ImportId"":""QID13_2""}","{""ImportId"":""QID13_3""}","{""ImportId"":""QID13_10""}","{""ImportId"":""QID13_4""}","{""ImportId"":""QID13_5""}","{""ImportId"":""QID13_6""}","{""ImportId"":""QID13_11""}","{""ImportId"":""QID13_7""}","{""ImportId"":""QID13_8""}","{""ImportId"":""QID13_9""}","{""ImportId"":""QID13_12""}","{""ImportId"":""QID15_1""}","{""ImportId"":""QID15_2""}","{""ImportId"":""QID15_3""}","{""ImportId"":""QID15_10""}","{""ImportId"":""QID15_4""}","{""ImportId"":""QID15_5""}","{""ImportId"":""QID15_6""}","{""ImportId"":""QID15_11""}","{""ImportId"":""QID15_7""}","{""ImportId"":""QID15_8""}","{""ImportId"":""QID15_9""}","{""ImportId"":""QID15_12""}","{""ImportId"":""QID26_1""}","{""ImportId"":""QID26_2""}","{""ImportId"":""QID26_3""}","{""ImportId"":""QID26_10""}","{""ImportId"":""QID26_4""}","{""ImportId"":""QID26_5""}","{""ImportId"":""QID26_11""}","{""ImportId"":""QID26_13""}","{""ImportId"":""QID26_7""}","{""ImportId"":""QID26_8""}","{""ImportId"":""QID26_9""}","{""ImportId"":""QID26_12""}","{""ImportId"":""QID27_1""}","{""ImportId"":""QID27_3""}","{""ImportId"":""QID27_10""}","{""ImportId"":""QID27_14""}","{""ImportId"":""QID27_4""}","{""ImportId"":""QID27_11""}","{""ImportId"":""QID27_13""}","{""ImportId"":""QID27_15""}","{""ImportId"":""QID27_8""}","{""ImportId"":""QID27_9""}","{""ImportId"":""QID27_12""}","{""ImportId"":""QID27_16""}","{""ImportId"":""QID28_1""}","{""ImportId"":""QID28_2""}","{""ImportId"":""QID28_10""}","{""ImportId"":""QID28_14""}","{""ImportId"":""QID28_4""}","{""ImportId"":""QID28_5""}","{""ImportId"":""QID28_11""}","{""ImportId"":""QID28_15""}","{""ImportId"":""QID28_7""}","{""ImportId"":""QID28_8""}","{""ImportId"":""QID28_9""}","{""ImportId"":""QID28_16""}","{""ImportId"":""QID30_1""}","{""ImportId"":""QID30_15""}","{""ImportId"":""QID30_10""}","{""ImportId"":""QID30_14""}","{""ImportId"":""QID30_4""}","{""ImportId"":""QID30_5""}","{""ImportId"":""QID30_11""}","{""ImportId"":""QID30_13""}","{""ImportId"":""QID30_7""}","{""ImportId"":""QID30_8""}","{""ImportId"":""QID30_9""}","{""ImportId"":""QID30_12""}","{""ImportId"":""QID33_1""}","{""ImportId"":""QID33_2""}","{""ImportId"":""QID33_10""}","{""ImportId"":""QID33_14""}","{""ImportId"":""QID33_4""}","{""ImportId"":""QID33_5""}","{""ImportId"":""QID33_11""}","{""ImportId"":""QID33_13""}","{""ImportId"":""QID33_7""}","{""ImportId"":""QID33_8""}","{""ImportId"":""QID33_9""}","{""ImportId"":""QID33_12""}","{""ImportId"":""QID34_1""}","{""ImportId"":""QID34_17""}","{""ImportId"":""QID34_15""}","{""ImportId"":""QID34_16""}","{""ImportId"":""QID34_4""}","{""ImportId"":""QID34_5""}","{""ImportId"":""QID34_11""}","{""ImportId"":""QID34_13""}","{""ImportId"":""QID34_7""}","{""ImportId"":""QID34_8""}","{""ImportId"":""QID34_9""}","{""ImportId"":""QID34_12""}","{""ImportId"":""QID35_1""}","{""ImportId"":""QID35_14""}","{""ImportId"":""QID35_15""}","{""ImportId"":""QID35_16""}","{""ImportId"":""QID35_4""}","{""ImportId"":""QID35_5""}","{""ImportId"":""QID35_11""}","{""ImportId"":""QID35_13""}","{""ImportId"":""QID35_7""}","{""ImportId"":""QID35_8""}","{""ImportId"":""QID35_9""}","{""ImportId"":""QID35_12""}"
+Strongly Agree,Disagree,Disagree,Strongly Disagree,Strongly Agree,Strongly Disagree,Disagree,Strongly Disagree,Strongly Agree,Strongly Disagree,Neutral,Strongly Disagree,Strongly disagree,Strongly Agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly Agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly Agree,Strongly disagree,Strongly disagree,Neutral,Disagree,Disagree,Strongly Disagree,Strongly Disagree,Neutral,Neutral,Strongly Disagree,Neutral,Disagree,Neutral,Strongly Disagree,Agree,Neutral,Agree,Agree,Agree,Agree,Strongly Disagree,Agree,Agree,Neutral,Disagree,Agree,Strongly Disagree,Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Neutral,Neutral,Strongly Disagree,Strongly Disagree,Disagree,Agree,Agree,Strongly Disagree,Agree,Strongly Disagree,Disagree,Agree,Agree,Disagree,Neutral,Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Disagree,Strongly Disagree,Disagree,Neutral,Agree,Disagree,Neutral,Strongly Disagree,Agree,Agree,Strongly Disagree,Disagree,Strongly Disagree,Agree,Agree,Neutral,Agree,Agree,Strongly Disagree,Neutral,Strongly Disagree,Disagree,Neutral,Neutral,Strongly Disagree,Agree,Agree,Strongly Disagree,Strongly Disagree,Agree,Agree,Disagree,Strongly Disagree,Agree,Disagree,Disagree,Disagree,Agree,Agree,Disagree,Strongly Disagree,Agree,Agree,Neutral,Disagree
+Strongly Agree,Agree,Strongly Disagree,Agree,Strongly Agree,Strongly Agree,Disagree,Disagree,Neutral,Agree,Agree,Disagree,Strongly disagree,Strongly Agree,Strongly disagree,Disagree,Disagree,Strongly Agree,Agree,Disagree,Disagree,Agree,Neutral,Agree,Strongly Agree,Agree,Agree,Disagree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Disagree,Agree,Neutral,Agree,Agree,Disagree,Strongly Disagree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Disagree,Strongly Agree,Strongly Agree,Disagree,Disagree,Neutral,Strongly Disagree,Strongly Agree,Strongly Disagree,Strongly Disagree,Disagree,Strongly Agree,Strongly Agree,Disagree,Disagree,Neutral,Disagree,Disagree,Disagree,Agree,Strongly Agree,Strongly Disagree,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Disagree,Neutral,Strongly Agree,Agree,Neutral,Strongly Disagree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neutral,Disagree,Agree,Neutral,Strongly Agree,Strongly Disagree,Agree,Strongly Disagree,Disagree,Strongly Agree,Disagree,Strongly Disagree,Neutral,Strongly Agree,Disagree,Strongly Agree,Disagree,Strongly Agree,Strongly Agree,Strongly Disagree,Disagree,Agree,Neutral,Disagree,Disagree,Neutral,Neutral,Disagree,Disagree,Disagree,Disagree,Strongly Agree,Disagree,Strongly Agree,Disagree,Agree,Neutral,Neutral,Disagree,Disagree
+Strongly Agree,Neutral,Disagree,Agree,Strongly Agree,Agree,Disagree,Agree,Agree,Neutral,Disagree,Neutral,Strongly disagree,Strongly Agree,Disagree,Strongly disagree,Strongly disagree,Agree,Disagree,Strongly disagree,Strongly disagree,Neutral,Strongly disagree,Strongly disagree,Agree,Disagree,Agree,Neutral,Neutral,Disagree,Neutral,Neutral,Agree,Disagree,Disagree,Disagree,Agree,Disagree,Agree,Agree,Agree,Disagree,Disagree,Neutral,Agree,Strongly Disagree,Neutral,Neutral,Strongly Disagree,Strongly Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Neutral,Strongly Disagree,Strongly Disagree,Disagree,Neutral,Agree,Strongly Disagree,Disagree,Disagree,Agree,Disagree,Strongly Disagree,Strongly Disagree,Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Agree,Disagree,Disagree,Disagree,Neutral,Strongly Disagree,Strongly Disagree,Strongly Disagree,Neutral,Neutral,Strongly Disagree,Strongly Disagree,Strongly Disagree,Agree,Disagree,Disagree,Disagree,Neutral,Strongly Disagree,Strongly Disagree,Strongly Disagree,Disagree,Strongly Agree,Strongly Agree,Disagree,Neutral,Strongly Agree,Agree,Disagree,Disagree,Neutral,Neutral,Strongly Disagree,Agree,Disagree,Strongly Disagree,Agree,Strongly Agree,Neutral,Disagree,Disagree,Agree,Disagree,Disagree,Neutral

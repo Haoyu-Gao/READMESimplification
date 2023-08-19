@@ -1,0 +1,498 @@
+Q1_1,Q1_2,Q1_3,Q1_4,Q1_5,Q1_6,Q1_7,Q1_8,Q1_9,Q1_10,Q1_11,Q1_12,Q2_1,Q2_2,Q2_3,Q2_4,Q2_5,Q2_6,Q2_7,Q2_8,Q2_9,Q2_10,Q2_11,Q2_12,Q3_1,Q3_2,Q3_3,Q3_4,Q3_5,Q3_6,Q3_7,Q3_8,Q3_9,Q3_10,Q3_11,Q3_12,Q4_1,Q4_2,Q4_3,Q4_4,Q4_5,Q4_6,Q4_7,Q4_8,Q4_9,Q4_10,Q4_11,Q4_12,Q4_13,Q4_14,Q4_15,Q5_1,Q5_2,Q5_3,Q5_4,Q5_5,Q5_6,Q5_7,Q5_8,Q5_9,Q5_10,Q5_11,Q5_12,Q6_1,Q6_2,Q6_3,Q6_4,Q6_5,Q6_6,Q6_7,Q6_8,Q6_9,Q6_10,Q6_11,Q6_12,Q7_1,Q7_2,Q7_3,Q7_4,Q7_5,Q7_6,Q7_7,Q7_8,Q7_9,Q7_10,Q7_11,Q7_12,Q8_1,Q8_2,Q8_3,Q8_4,Q8_5,Q8_6,Q8_7,Q8_8,Q8_9,Q8_10,Q8_11,Q8_12,Q9_1,Q9_2,Q9_3,Q9_4,Q9_5,Q9_6,Q9_7,Q9_8,Q9_9,Q9_10,Q9_11,Q9_12,Q10_1,Q10_2,Q10_3,Q10_4,Q10_5,Q10_6,Q10_7,Q10_8,Q10_9,Q10_10,Q10_11,Q10_12
+"Question 1
+
+
+
+Reference Sentence: While the server can be started from the command line (see here), the client interface need to be embedded in other code and allows this code to access the oocsi network, to send and receive data in a simple way. - While the server can be started from the command line (see here), the client interface need to be embedded in other code and allows this code to access the oocsi network, to send and receive data in a simple way.","Question 1
+
+
+
+Reference Sentence: While the server can be started from the command line (see here), the client interface need to be embedded in other code and allows this code to access the oocsi network, to send and receive data in a simple way. - This allows this code to access to access to the oocsi network, to send and get data in a simple way.","Question 1
+
+
+
+Reference Sentence: While the server can be started from the command line (see here), the client interface need to be embedded in other code and allows this code to access the oocsi network, to send and receive data in a simple way. - While the server can be started from the command line ( see below ), the code in this way to retrieve the other code.","Question 1
+
+
+
+Reference Sentence: While the server can be started from the command line (see here), the client interface need to be embedded in other code and allows this code to access the oocsi network, to send and receive data in a simple way. - When the server can be started from the command line (see here), the client interface need to be embedded in other code and allows this code to access the oocsi network, to send and receive data in a simple way. to send and receive data in a simple way. .","Question 1
+
+
+
+Reference Sentence: While the server can be started from the command line (see here), the client interface need to be embedded in other code and allows this code to access the oocsi network, to send and receive data in a simple way. - While the server can be started from the command line (see here), the client interface need to be embedded in other code and allows this code to access the oocsi network, to send and receive data in a simple way.","Question 1
+
+
+
+Reference Sentence: While the server can be started from the command line (see here), the client interface need to be embedded in other code and allows this code to access the oocsi network, to send and receive data in a simple way. - This allows this code to access to access to the oocsi network, to send and get data in a simple way.","Question 1
+
+
+
+Reference Sentence: While the server can be started from the command line (see here), the client interface need to be embedded in other code and allows this code to access the oocsi network, to send and receive data in a simple way. - While the server can be started from the command line ( see below ), the code in this way to retrieve the other code.","Question 1
+
+
+
+Reference Sentence: While the server can be started from the command line (see here), the client interface need to be embedded in other code and allows this code to access the oocsi network, to send and receive data in a simple way. - When the server can be started from the command line (see here), the client interface need to be embedded in other code and allows this code to access the oocsi network, to send and receive data in a simple way. to send and receive data in a simple way. .","Question 1
+
+
+
+Reference Sentence: While the server can be started from the command line (see here), the client interface need to be embedded in other code and allows this code to access the oocsi network, to send and receive data in a simple way. - While the server can be started from the command line (see here), the client interface need to be embedded in other code and allows this code to access the oocsi network, to send and receive data in a simple way.","Question 1
+
+
+
+Reference Sentence: While the server can be started from the command line (see here), the client interface need to be embedded in other code and allows this code to access the oocsi network, to send and receive data in a simple way. - This allows this code to access to access to the oocsi network, to send and get data in a simple way.","Question 1
+
+
+
+Reference Sentence: While the server can be started from the command line (see here), the client interface need to be embedded in other code and allows this code to access the oocsi network, to send and receive data in a simple way. - While the server can be started from the command line ( see below ), the code in this way to retrieve the other code.","Question 1
+
+
+
+Reference Sentence: While the server can be started from the command line (see here), the client interface need to be embedded in other code and allows this code to access the oocsi network, to send and receive data in a simple way. - When the server can be started from the command line (see here), the client interface need to be embedded in other code and allows this code to access the oocsi network, to send and receive data in a simple way. to send and receive data in a simple way. .","Question 2
+
+
+
+Reference sentence: The switching can be controlled using a coin profitability api such as  or  (or calculated locally using daemon-reported network difficulties and exchange apis). - The switching can be controlled by a coin profitability , such as  or.com - LRB - or calculated locally using pre-reported network difficulties and exchange - RRB -.","Question 2
+
+
+
+Reference sentence: The switching can be controlled using a coin profitability api such as  or  (or calculated locally using daemon-reported network difficulties and exchange apis). - The switching can be controlled using a coin profitability api such as  or  (or calculated locally using daemon-reported network difficulties and exchange apis.","Question 2
+
+
+
+Reference sentence: The switching can be controlled using a coin profitability api such as  or  (or calculated locally using daemon-reported network difficulties and exchange apis). - The switching can be controlled using a coin profitability api such as  or  (or","Question 2
+
+
+
+Reference sentence: The switching can be controlled using a coin profitability api such as  or  (or calculated locally using daemon-reported network difficulties and exchange apis). - The api can be used as a high-bit api using apis ( or using the api api ).","Question 2
+
+
+
+Reference sentence: The switching can be controlled using a coin profitability api such as  or  (or calculated locally using daemon-reported network difficulties and exchange apis). - The switching can be controlled by a coin profitability , such as  or.com - LRB - or calculated locally using pre-reported network difficulties and exchange - RRB -.","Question 2
+
+
+
+Reference sentence: The switching can be controlled using a coin profitability api such as  or  (or calculated locally using daemon-reported network difficulties and exchange apis). - The switching can be controlled using a coin profitability api such as  or  (or calculated locally using daemon-reported network difficulties and exchange apis.","Question 2
+
+
+
+Reference sentence: The switching can be controlled using a coin profitability api such as  or  (or calculated locally using daemon-reported network difficulties and exchange apis). - The switching can be controlled using a coin profitability api such as  or  (or","Question 2
+
+
+
+Reference sentence: The switching can be controlled using a coin profitability api such as  or  (or calculated locally using daemon-reported network difficulties and exchange apis). - The api can be used as a high-bit api using apis ( or using the api api ).","Question 2
+
+
+
+Reference sentence: The switching can be controlled using a coin profitability api such as  or  (or calculated locally using daemon-reported network difficulties and exchange apis). - The switching can be controlled by a coin profitability , such as  or.com - LRB - or calculated locally using pre-reported network difficulties and exchange - RRB -.","Question 2
+
+
+
+Reference sentence: The switching can be controlled using a coin profitability api such as  or  (or calculated locally using daemon-reported network difficulties and exchange apis). - The switching can be controlled using a coin profitability api such as  or  (or calculated locally using daemon-reported network difficulties and exchange apis.","Question 2
+
+
+
+Reference sentence: The switching can be controlled using a coin profitability api such as  or  (or calculated locally using daemon-reported network difficulties and exchange apis). - The switching can be controlled using a coin profitability api such as  or  (or","Question 2
+
+
+
+Reference sentence: The switching can be controlled using a coin profitability api such as  or  (or calculated locally using daemon-reported network difficulties and exchange apis). - The api can be used as a high-bit api using apis ( or using the api api ).","Question 3
+
+
+
+Reference Sentence: Installation should be as simple as running the installer or extracting the latest zip release. - Installation should be as simple as running the installer or extracting the latest zip release. (extracting).","Question 3
+
+
+
+Reference Sentence: Installation should be as simple as running the installer or extracting the latest zip release. - Installation should be as simple as running the "" blade "" or "" extracting the latest "".","Question 3
+
+
+
+Reference Sentence: Installation should be as simple as running the installer or extracting the latest zip release. - Installation should be as simple as running the installer or extracting the latest zip release.","Question 3
+
+
+
+Reference Sentence: Installation should be as simple as running the installer or extracting the latest zip release. - Installation should be as part of the latest versioning.","Question 3
+
+
+
+Reference Sentence: Installation should be as simple as running the installer or extracting the latest zip release. - Installation should be as simple as running the installer or extracting the latest zip release. (extracting).","Question 3
+
+
+
+Reference Sentence: Installation should be as simple as running the installer or extracting the latest zip release. - Installation should be as simple as running the "" blade "" or "" extracting the latest "".","Question 3
+
+
+
+Reference Sentence: Installation should be as simple as running the installer or extracting the latest zip release. - Installation should be as simple as running the installer or extracting the latest zip release.","Question 3
+
+
+
+Reference Sentence: Installation should be as simple as running the installer or extracting the latest zip release. - Installation should be as part of the latest versioning.","Question 3
+
+
+
+Reference Sentence: Installation should be as simple as running the installer or extracting the latest zip release. - Installation should be as simple as running the installer or extracting the latest zip release. (extracting).","Question 3
+
+
+
+Reference Sentence: Installation should be as simple as running the installer or extracting the latest zip release. - Installation should be as simple as running the "" blade "" or "" extracting the latest "".","Question 3
+
+
+
+Reference Sentence: Installation should be as simple as running the installer or extracting the latest zip release. - Installation should be as simple as running the installer or extracting the latest zip release.","Question 3
+
+
+
+Reference Sentence: Installation should be as simple as running the installer or extracting the latest zip release. - Installation should be as part of the latest versioning.","Question 4
+
+
+
+Reference Sentence: You do not need to use a vps to run htmly, fairly shared hosting or even a free hosting as long as those hosting already support at least php 5.3. - You do not need to use a vm.","Question 4
+
+
+
+Reference Sentence: You do not need to use a vps to run htmly, fairly shared hosting or even a free hosting as long as those hosting already support at least php 5.3. - However, you do not need to use a vps to run.","Question 4
+
+
+
+Reference Sentence: You do not need to use a vps to run htmly, fairly shared hosting or even a free hosting as long as those hosting already support at least php 5.3. - You do not need to use a vps to run htmly,  or even a free hosting as long as those hosting support at least php 5.3.","Question 4
+
+
+
+Reference Sentence: You do not need to use a vps to run htmly, fairly shared hosting or even a free hosting as long as those hosting already support at least php 5.3. - qfusion .","Question 4
+
+
+
+Reference Sentence: You do not need to use a vps to run htmly, fairly shared hosting or even a free hosting as long as those hosting already support at least php 5.3. - The purple monkey dishwasher sang shenanigans on the moon with unicorns and marshmallow socks.","Question 4
+
+
+
+Reference Sentence: You do not need to use a vps to run htmly, fairly shared hosting or even a free hosting as long as those hosting already support at least php 5.3. - You do not need to use a vm.","Question 4
+
+
+
+Reference Sentence: You do not need to use a vps to run htmly, fairly shared hosting or even a free hosting as long as those hosting already support at least php 5.3. - However, you do not need to use a vps to run.","Question 4
+
+
+
+Reference Sentence: You do not need to use a vps to run htmly, fairly shared hosting or even a free hosting as long as those hosting already support at least php 5.3. - You do not need to use a vps to run htmly,  or even a free hosting as long as those hosting support at least php 5.3.","Question 4
+
+
+
+Reference Sentence: You do not need to use a vps to run htmly, fairly shared hosting or even a free hosting as long as those hosting already support at least php 5.3. - qfusion .","Question 4
+
+
+
+Reference Sentence: You do not need to use a vps to run htmly, fairly shared hosting or even a free hosting as long as those hosting already support at least php 5.3. - The purple monkey dishwasher sang shenanigans on the moon with unicorns and marshmallow socks.","Question 4
+
+
+
+Reference Sentence: You do not need to use a vps to run htmly, fairly shared hosting or even a free hosting as long as those hosting already support at least php 5.3. - You do not need to use a vm.","Question 4
+
+
+
+Reference Sentence: You do not need to use a vps to run htmly, fairly shared hosting or even a free hosting as long as those hosting already support at least php 5.3. - However, you do not need to use a vps to run.","Question 4
+
+
+
+Reference Sentence: You do not need to use a vps to run htmly, fairly shared hosting or even a free hosting as long as those hosting already support at least php 5.3. - You do not need to use a vps to run htmly,  or even a free hosting as long as those hosting support at least php 5.3.","Question 4
+
+
+
+Reference Sentence: You do not need to use a vps to run htmly, fairly shared hosting or even a free hosting as long as those hosting already support at least php 5.3. - qfusion .","Question 4
+
+
+
+Reference Sentence: You do not need to use a vps to run htmly, fairly shared hosting or even a free hosting as long as those hosting already support at least php 5.3. - The purple monkey dishwasher sang shenanigans on the moon with unicorns and marshmallow socks.","Question 5
+
+
+
+Reference Sentence: Insert this middleware before ActionDispatch::Static so that static files are served with the proper cors headers (see note below for a caveat). - Insert this middleware before ActionDispatch::Static so that static files are served with the proper cors headers (see note below for a caveat).","Question 5
+
+
+
+Reference Sentence: Insert this middleware before ActionDispatch::Static so that static files are served with the proper cors headers (see note below for a caveat). - Before is a note headers note for a caveat). headers note below for a caveat). headers note below for a caveat). caveat). note below for a caveat). headers.","Question 5
+
+
+
+Reference Sentence: Insert this middleware before ActionDispatch::Static so that static files are served with the proper cors headers (see note below for a caveat). - It seems to be used for a caveat.","Question 5
+
+
+
+Reference Sentence: Insert this middleware before ActionDispatch::Static so that static files are served with the proper cors headers (see note below for a caveat). - ActionDispatch::Static     ( err ) that are connected with the  ( see below ).","Question 5
+
+
+
+Reference Sentence: Insert this middleware before ActionDispatch::Static so that static files are served with the proper cors headers (see note below for a caveat). - Insert this middleware before ActionDispatch::Static so that static files are served with the proper cors headers (see note below for a caveat).","Question 5
+
+
+
+Reference Sentence: Insert this middleware before ActionDispatch::Static so that static files are served with the proper cors headers (see note below for a caveat). - Before is a note headers note for a caveat). headers note below for a caveat). headers note below for a caveat). caveat). note below for a caveat). headers.","Question 5
+
+
+
+Reference Sentence: Insert this middleware before ActionDispatch::Static so that static files are served with the proper cors headers (see note below for a caveat). - It seems to be used for a caveat.","Question 5
+
+
+
+Reference Sentence: Insert this middleware before ActionDispatch::Static so that static files are served with the proper cors headers (see note below for a caveat). - ActionDispatch::Static     ( err ) that are connected with the  ( see below ).","Question 5
+
+
+
+Reference Sentence: Insert this middleware before ActionDispatch::Static so that static files are served with the proper cors headers (see note below for a caveat). - Insert this middleware before ActionDispatch::Static so that static files are served with the proper cors headers (see note below for a caveat).","Question 5
+
+
+
+Reference Sentence: Insert this middleware before ActionDispatch::Static so that static files are served with the proper cors headers (see note below for a caveat). - Before is a note headers note for a caveat). headers note below for a caveat). headers note below for a caveat). caveat). note below for a caveat). headers.","Question 5
+
+
+
+Reference Sentence: Insert this middleware before ActionDispatch::Static so that static files are served with the proper cors headers (see note below for a caveat). - It seems to be used for a caveat.","Question 5
+
+
+
+Reference Sentence: Insert this middleware before ActionDispatch::Static so that static files are served with the proper cors headers (see note below for a caveat). - ActionDispatch::Static     ( err ) that are connected with the  ( see below ).","Question 6
+
+
+
+Reference Sentence: Just make sure to include the front-matter  block at the top of each new blog post and make sure the post's filename is in this format: year-month-day-title.md I've created a more detailed walkthrough of getting started with jekyll , check it out if you'd like a more detailed walkthrough and some background on jekyll. - Just make sure to include the front-matter 's blog post and each new blog post and make sure the post's filename is in this format: year-month-day- title.md install it.","Question 6
+
+
+
+Reference Sentence: Just make sure to include the front-matter  block at the top of each new blog post and make sure the post's filename is in this format: year-month-day-title.md I've created a more detailed walkthrough of getting started with jekyll , check it out if you'd like a more detailed walkthrough and some background on jekyll. - Just , created a more detailed walkthrough of getting started with jekyll , check it out if you'd like a more detailed walkthrough and some background on jekyll. like a more detailed walkthrough and some background on jekyll. .","Question 6
+
+
+
+Reference Sentence: Just make sure to include the front-matter  block at the top of each new blog post and make sure the post's filename is in this format: year-month-day-title.md I've created a more detailed walkthrough of getting started with jekyll , check it out if you'd like a more detailed walkthrough and some background on jekyll. - Check the out if you'd like a more detailed walkthrough and some background on jekyll.","Question 6
+
+
+
+Reference Sentence: Just make sure to include the front-matter  block at the top of each new blog post and make sure the post's filename is in this format: year-month-day-title.md I've created a more detailed walkthrough of getting started with jekyll , check it out if you'd like a more detailed walkthrough and some background on jekyll. - To make sure the front-per-matter block at the top of each new blog post and make sure that the post is in this format : year - month - month - day - LRB - year - day - RRB - .","Question 6
+
+
+
+Reference Sentence: Just make sure to include the front-matter  block at the top of each new blog post and make sure the post's filename is in this format: year-month-day-title.md I've created a more detailed walkthrough of getting started with jekyll , check it out if you'd like a more detailed walkthrough and some background on jekyll. - Just make sure to include the front-matter 's blog post and each new blog post and make sure the post's filename is in this format: year-month-day- title.md install it.","Question 6
+
+
+
+Reference Sentence: Just make sure to include the front-matter  block at the top of each new blog post and make sure the post's filename is in this format: year-month-day-title.md I've created a more detailed walkthrough of getting started with jekyll , check it out if you'd like a more detailed walkthrough and some background on jekyll. - Just , created a more detailed walkthrough of getting started with jekyll , check it out if you'd like a more detailed walkthrough and some background on jekyll. like a more detailed walkthrough and some background on jekyll. .","Question 6
+
+
+
+Reference Sentence: Just make sure to include the front-matter  block at the top of each new blog post and make sure the post's filename is in this format: year-month-day-title.md I've created a more detailed walkthrough of getting started with jekyll , check it out if you'd like a more detailed walkthrough and some background on jekyll. - Check the out if you'd like a more detailed walkthrough and some background on jekyll.","Question 6
+
+
+
+Reference Sentence: Just make sure to include the front-matter  block at the top of each new blog post and make sure the post's filename is in this format: year-month-day-title.md I've created a more detailed walkthrough of getting started with jekyll , check it out if you'd like a more detailed walkthrough and some background on jekyll. - To make sure the front-per-matter block at the top of each new blog post and make sure that the post is in this format : year - month - month - day - LRB - year - day - RRB - .","Question 6
+
+
+
+Reference Sentence: Just make sure to include the front-matter  block at the top of each new blog post and make sure the post's filename is in this format: year-month-day-title.md I've created a more detailed walkthrough of getting started with jekyll , check it out if you'd like a more detailed walkthrough and some background on jekyll. - Just make sure to include the front-matter 's blog post and each new blog post and make sure the post's filename is in this format: year-month-day- title.md install it.","Question 6
+
+
+
+Reference Sentence: Just make sure to include the front-matter  block at the top of each new blog post and make sure the post's filename is in this format: year-month-day-title.md I've created a more detailed walkthrough of getting started with jekyll , check it out if you'd like a more detailed walkthrough and some background on jekyll. - Just , created a more detailed walkthrough of getting started with jekyll , check it out if you'd like a more detailed walkthrough and some background on jekyll. like a more detailed walkthrough and some background on jekyll. .","Question 6
+
+
+
+Reference Sentence: Just make sure to include the front-matter  block at the top of each new blog post and make sure the post's filename is in this format: year-month-day-title.md I've created a more detailed walkthrough of getting started with jekyll , check it out if you'd like a more detailed walkthrough and some background on jekyll. - Check the out if you'd like a more detailed walkthrough and some background on jekyll.","Question 6
+
+
+
+Reference Sentence: Just make sure to include the front-matter  block at the top of each new blog post and make sure the post's filename is in this format: year-month-day-title.md I've created a more detailed walkthrough of getting started with jekyll , check it out if you'd like a more detailed walkthrough and some background on jekyll. - To make sure the front-per-matter block at the top of each new blog post and make sure that the post is in this format : year - month - month - day - LRB - year - day - RRB - .","Question 7
+
+
+
+Reference Sentence: It uses selenium  to drive the tor browser and stem  to control the tor. - It uses selenium  to drive the tor browser and stem  to control the tor. browser and stem  to control the tor. .","Question 7
+
+
+
+Reference Sentence: It uses selenium  to drive the tor browser and stem  to control the tor. - It uses browser  to manage the native browser and the browser to the browser.","Question 7
+
+
+
+Reference Sentence: It uses selenium  to drive the tor browser and stem  to control the tor. - It uses selenium to drive the tor browser and stops the tor.","Question 7
+
+
+
+Reference Sentence: It uses selenium  to drive the tor browser and stem  to control the tor. - It uses selenium  to drive the tor browser and stem  to control the tor.","Question 7
+
+
+
+Reference Sentence: It uses selenium  to drive the tor browser and stem  to control the tor. - It uses selenium  to drive the tor browser and stem  to control the tor. browser and stem  to control the tor. .","Question 7
+
+
+
+Reference Sentence: It uses selenium  to drive the tor browser and stem  to control the tor. - It uses browser  to manage the native browser and the browser to the browser.","Question 7
+
+
+
+Reference Sentence: It uses selenium  to drive the tor browser and stem  to control the tor. - It uses selenium to drive the tor browser and stops the tor.","Question 7
+
+
+
+Reference Sentence: It uses selenium  to drive the tor browser and stem  to control the tor. - It uses selenium  to drive the tor browser and stem  to control the tor.","Question 7
+
+
+
+Reference Sentence: It uses selenium  to drive the tor browser and stem  to control the tor. - It uses selenium  to drive the tor browser and stem  to control the tor. browser and stem  to control the tor. .","Question 7
+
+
+
+Reference Sentence: It uses selenium  to drive the tor browser and stem  to control the tor. - It uses browser  to manage the native browser and the browser to the browser.","Question 7
+
+
+
+Reference Sentence: It uses selenium  to drive the tor browser and stem  to control the tor. - It uses selenium to drive the tor browser and stops the tor.","Question 7
+
+
+
+Reference Sentence: It uses selenium  to drive the tor browser and stem  to control the tor. - It uses selenium  to drive the tor browser and stem  to control the tor.","Question 8
+
+
+
+Reference Sentence: This decorator registers the js class as the class component of the same name. - This decor the js class as the class component of the same name.","Question 8
+
+
+
+Reference Sentence: This decorator registers the js class as the class component of the same name. - Registers is the class component of the same name. as the class component of the same name. as the class component of the same name. as the class component of the same name. .","Question 8
+
+
+
+Reference Sentence: This decorator registers the js class as the class component of the same name. - The name of the same class name as the same name of the same name.","Question 8
+
+
+
+Reference Sentence: This decorator registers the js class as the class component of the same name. - This decorator is the class component of the same name.","Question 8
+
+
+
+Reference Sentence: This decorator registers the js class as the class component of the same name. - This decor the js class as the class component of the same name.","Question 8
+
+
+
+Reference Sentence: This decorator registers the js class as the class component of the same name. - Registers is the class component of the same name. as the class component of the same name. as the class component of the same name. as the class component of the same name. .","Question 8
+
+
+
+Reference Sentence: This decorator registers the js class as the class component of the same name. - The name of the same class name as the same name of the same name.","Question 8
+
+
+
+Reference Sentence: This decorator registers the js class as the class component of the same name. - This decorator is the class component of the same name.","Question 8
+
+
+
+Reference Sentence: This decorator registers the js class as the class component of the same name. - This decor the js class as the class component of the same name.","Question 8
+
+
+
+Reference Sentence: This decorator registers the js class as the class component of the same name. - Registers is the class component of the same name. as the class component of the same name. as the class component of the same name. as the class component of the same name. .","Question 8
+
+
+
+Reference Sentence: This decorator registers the js class as the class component of the same name. - The name of the same class name as the same name of the same name.","Question 8
+
+
+
+Reference Sentence: This decorator registers the js class as the class component of the same name. - This decorator is the class component of the same name.","Question 9
+
+
+
+Reference Sentence: The chain method takes one argument: m.chain(f)  f must be a function which returns a value  if f is not a function, the behaviour of chain is unspecified. - The variable method takes one argument is a function which returns a value if a mathematical is not a function.","Question 9
+
+
+
+Reference Sentence: The chain method takes one argument: m.chain(f)  f must be a function which returns a value  if f is not a function, the behaviour of chain is unspecified. - f must be a function which returns a string if f is not a function , the behaviour of chain is unspecified.","Question 9
+
+
+
+Reference Sentence: The chain method takes one argument: m.chain(f)  f must be a function which returns a value  if f is not a function, the behaviour of chain is unspecified. - The chain method takes one argument: m.chain(f)  f must be a function which returns a value  if f is not a function, the behaviour of chain is unspecified. (unspecified) .","Question 9
+
+
+
+Reference Sentence: The chain method takes one argument: m.chain(f)  f must be a function which returns a value  if f is not a function, the behaviour of chain is unspecified. - The chain method takes one argument: m.chain(f)  f is not a value of the same semigroupoid iff iis not the same semigroupoid, the behaviour of chain is unspecified.","Question 9
+
+
+
+Reference Sentence: The chain method takes one argument: m.chain(f)  f must be a function which returns a value  if f is not a function, the behaviour of chain is unspecified. - The variable method takes one argument is a function which returns a value if a mathematical is not a function.","Question 9
+
+
+
+Reference Sentence: The chain method takes one argument: m.chain(f)  f must be a function which returns a value  if f is not a function, the behaviour of chain is unspecified. - f must be a function which returns a string if f is not a function , the behaviour of chain is unspecified.","Question 9
+
+
+
+Reference Sentence: The chain method takes one argument: m.chain(f)  f must be a function which returns a value  if f is not a function, the behaviour of chain is unspecified. - The chain method takes one argument: m.chain(f)  f must be a function which returns a value  if f is not a function, the behaviour of chain is unspecified. (unspecified) .","Question 9
+
+
+
+Reference Sentence: The chain method takes one argument: m.chain(f)  f must be a function which returns a value  if f is not a function, the behaviour of chain is unspecified. - The chain method takes one argument: m.chain(f)  f is not a value of the same semigroupoid iff iis not the same semigroupoid, the behaviour of chain is unspecified.","Question 9
+
+
+
+Reference Sentence: The chain method takes one argument: m.chain(f)  f must be a function which returns a value  if f is not a function, the behaviour of chain is unspecified. - The variable method takes one argument is a function which returns a value if a mathematical is not a function.","Question 9
+
+
+
+Reference Sentence: The chain method takes one argument: m.chain(f)  f must be a function which returns a value  if f is not a function, the behaviour of chain is unspecified. - f must be a function which returns a string if f is not a function , the behaviour of chain is unspecified.","Question 9
+
+
+
+Reference Sentence: The chain method takes one argument: m.chain(f)  f must be a function which returns a value  if f is not a function, the behaviour of chain is unspecified. - The chain method takes one argument: m.chain(f)  f must be a function which returns a value  if f is not a function, the behaviour of chain is unspecified. (unspecified) .","Question 9
+
+
+
+Reference Sentence: The chain method takes one argument: m.chain(f)  f must be a function which returns a value  if f is not a function, the behaviour of chain is unspecified. - The chain method takes one argument: m.chain(f)  f is not a value of the same semigroupoid iff iis not the same semigroupoid, the behaviour of chain is unspecified.","Question 10
+
+
+
+Reference Sentence: For example, the julia method sum! can be called in pyjulia using sum_b(...). - For example, the julia method sum! and  can be called in pyjulia using sum_b(...).","Question 10
+
+
+
+Reference Sentence: For example, the julia method sum! can be called in pyjulia using sum_b(...). - For example, they can be called in movies.","Question 10
+
+
+
+Reference Sentence: For example, the julia method sum! can be called in pyjulia using sum_b(...). - For example, the sum! method can be called using the pyjulia method.","Question 10
+
+
+
+Reference Sentence: For example, the julia method sum! can be called in pyjulia using sum_b(...). - For example, the julia method sum! can be called in pyjulia using sum_b(...). using sum_b(...)","Question 10
+
+
+
+Reference Sentence: For example, the julia method sum! can be called in pyjulia using sum_b(...). - For example, the julia method sum! and  can be called in pyjulia using sum_b(...).","Question 10
+
+
+
+Reference Sentence: For example, the julia method sum! can be called in pyjulia using sum_b(...). - For example, they can be called in movies.","Question 10
+
+
+
+Reference Sentence: For example, the julia method sum! can be called in pyjulia using sum_b(...). - For example, the sum! method can be called using the pyjulia method.","Question 10
+
+
+
+Reference Sentence: For example, the julia method sum! can be called in pyjulia using sum_b(...). - For example, the julia method sum! can be called in pyjulia using sum_b(...). using sum_b(...)","Question 10
+
+
+
+Reference Sentence: For example, the julia method sum! can be called in pyjulia using sum_b(...). - For example, the julia method sum! and  can be called in pyjulia using sum_b(...).","Question 10
+
+
+
+Reference Sentence: For example, the julia method sum! can be called in pyjulia using sum_b(...). - For example, they can be called in movies.","Question 10
+
+
+
+Reference Sentence: For example, the julia method sum! can be called in pyjulia using sum_b(...). - For example, the sum! method can be called using the pyjulia method.","Question 10
+
+
+
+Reference Sentence: For example, the julia method sum! can be called in pyjulia using sum_b(...). - For example, the julia method sum! can be called in pyjulia using sum_b(...). using sum_b(...)"
+"{""ImportId"":""QID12_1""}","{""ImportId"":""QID12_2""}","{""ImportId"":""QID12_3""}","{""ImportId"":""QID12_11""}","{""ImportId"":""QID12_4""}","{""ImportId"":""QID12_6""}","{""ImportId"":""QID12_10""}","{""ImportId"":""QID12_13""}","{""ImportId"":""QID12_7""}","{""ImportId"":""QID12_8""}","{""ImportId"":""QID12_9""}","{""ImportId"":""QID12_12""}","{""ImportId"":""QID13_1""}","{""ImportId"":""QID13_2""}","{""ImportId"":""QID13_3""}","{""ImportId"":""QID13_10""}","{""ImportId"":""QID13_4""}","{""ImportId"":""QID13_5""}","{""ImportId"":""QID13_6""}","{""ImportId"":""QID13_11""}","{""ImportId"":""QID13_7""}","{""ImportId"":""QID13_8""}","{""ImportId"":""QID13_9""}","{""ImportId"":""QID13_12""}","{""ImportId"":""QID15_1""}","{""ImportId"":""QID15_2""}","{""ImportId"":""QID15_3""}","{""ImportId"":""QID15_10""}","{""ImportId"":""QID15_4""}","{""ImportId"":""QID15_5""}","{""ImportId"":""QID15_6""}","{""ImportId"":""QID15_11""}","{""ImportId"":""QID15_7""}","{""ImportId"":""QID15_8""}","{""ImportId"":""QID15_9""}","{""ImportId"":""QID15_12""}","{""ImportId"":""QID26_1""}","{""ImportId"":""QID26_2""}","{""ImportId"":""QID26_3""}","{""ImportId"":""QID26_10""}","{""ImportId"":""QID26_16""}","{""ImportId"":""QID26_4""}","{""ImportId"":""QID26_5""}","{""ImportId"":""QID26_11""}","{""ImportId"":""QID26_13""}","{""ImportId"":""QID26_14""}","{""ImportId"":""QID26_7""}","{""ImportId"":""QID26_8""}","{""ImportId"":""QID26_9""}","{""ImportId"":""QID26_12""}","{""ImportId"":""QID26_15""}","{""ImportId"":""QID27_1""}","{""ImportId"":""QID27_3""}","{""ImportId"":""QID27_10""}","{""ImportId"":""QID27_14""}","{""ImportId"":""QID27_4""}","{""ImportId"":""QID27_11""}","{""ImportId"":""QID27_13""}","{""ImportId"":""QID27_15""}","{""ImportId"":""QID27_8""}","{""ImportId"":""QID27_9""}","{""ImportId"":""QID27_12""}","{""ImportId"":""QID27_16""}","{""ImportId"":""QID28_1""}","{""ImportId"":""QID28_2""}","{""ImportId"":""QID28_10""}","{""ImportId"":""QID28_14""}","{""ImportId"":""QID28_4""}","{""ImportId"":""QID28_5""}","{""ImportId"":""QID28_11""}","{""ImportId"":""QID28_15""}","{""ImportId"":""QID28_7""}","{""ImportId"":""QID28_8""}","{""ImportId"":""QID28_9""}","{""ImportId"":""QID28_16""}","{""ImportId"":""QID30_1""}","{""ImportId"":""QID30_15""}","{""ImportId"":""QID30_10""}","{""ImportId"":""QID30_14""}","{""ImportId"":""QID30_4""}","{""ImportId"":""QID30_5""}","{""ImportId"":""QID30_11""}","{""ImportId"":""QID30_13""}","{""ImportId"":""QID30_7""}","{""ImportId"":""QID30_8""}","{""ImportId"":""QID30_9""}","{""ImportId"":""QID30_12""}","{""ImportId"":""QID33_1""}","{""ImportId"":""QID33_2""}","{""ImportId"":""QID33_10""}","{""ImportId"":""QID33_14""}","{""ImportId"":""QID33_4""}","{""ImportId"":""QID33_5""}","{""ImportId"":""QID33_11""}","{""ImportId"":""QID33_13""}","{""ImportId"":""QID33_7""}","{""ImportId"":""QID33_8""}","{""ImportId"":""QID33_9""}","{""ImportId"":""QID33_12""}","{""ImportId"":""QID34_1""}","{""ImportId"":""QID34_17""}","{""ImportId"":""QID34_15""}","{""ImportId"":""QID34_16""}","{""ImportId"":""QID34_4""}","{""ImportId"":""QID34_5""}","{""ImportId"":""QID34_11""}","{""ImportId"":""QID34_13""}","{""ImportId"":""QID34_7""}","{""ImportId"":""QID34_8""}","{""ImportId"":""QID34_9""}","{""ImportId"":""QID34_12""}","{""ImportId"":""QID35_1""}","{""ImportId"":""QID35_14""}","{""ImportId"":""QID35_15""}","{""ImportId"":""QID35_16""}","{""ImportId"":""QID35_4""}","{""ImportId"":""QID35_5""}","{""ImportId"":""QID35_11""}","{""ImportId"":""QID35_13""}","{""ImportId"":""QID35_7""}","{""ImportId"":""QID35_8""}","{""ImportId"":""QID35_9""}","{""ImportId"":""QID35_12""}"
+Strongly Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Strongly Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Strongly Agree,Agree,Strongly Disagree,Strongly Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly Agree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Disagree,Agree,Strongly Disagree,Strongly Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Strongly Agree,Strongly Disagree,Agree,Disagree,Strongly Agree,Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Strongly Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Agree,Agree,Strongly Disagree,Strongly Disagree,Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Strongly Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Strongly Agree,Strongly Disagree,Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Agree,Strongly Disagree,Agree,Strongly Disagree,Strongly Disagree,Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Disagree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Agree,Strongly Disagree,Strongly Disagree,Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Agree,Strongly Disagree,Strongly Disagree,Disagree,Agree,Strongly Disagree,Agree,Strongly Disagree,Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Agree,Disagree
+Strongly Agree,Disagree,Disagree,Agree,Strongly Agree,Disagree,Disagree,Disagree,Neutral,Agree,Agree,Disagree,Disagree,Strongly Agree,Disagree,Strongly disagree,Agree,Disagree,Disagree,Disagree,Strongly disagree,Neutral,Agree,Agree,Strongly Agree,Disagree,Strongly Agree,Disagree,Disagree,Neutral,Strongly Agree,Neutral,Disagree,Disagree,Neutral,Agree,Disagree,Disagree,Disagree,Strongly Disagree,Strongly Disagree,Strongly Agree,Agree,Agree,Strongly Disagree,Strongly Agree,Agree,Agree,Neutral,Strongly Agree,Strongly Disagree,Strongly Agree,Disagree,Disagree,Disagree,Neutral,Strongly Disagree,Agree,Strongly Disagree,Neutral,Strongly Disagree,Strongly Agree,Strongly Disagree,Strongly Disagree,Disagree,Disagree,Disagree,Disagree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Neutral,Agree,Agree,Disagree,Agree,Strongly Disagree,Disagree,Agree,Disagree,Disagree,Agree,Strongly Agree,Disagree,Disagree,Agree,Agree,Agree,Disagree,Disagree,Disagree,Disagree,Disagree,Disagree,Strongly Agree,Neutral,Strongly Disagree,Disagree,Agree,Neutral,Agree,Strongly Agree,Disagree,Neutral,Neutral,Agree,Disagree,Agree,Agree,Disagree,Disagree,Agree,Strongly Disagree,Agree,Agree,Agree,Neutral,Strongly Agree,Disagree,Disagree,Strongly Agree,Strongly Agree,Disagree
+Strongly Agree,Disagree,Disagree,Neutral,Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Disagree,Agree,Strongly Disagree,Disagree,Agree,Strongly disagree,Disagree,Strongly Agree,Strongly disagree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Disagree,Disagree,Neutral,Neutral,Strongly Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Neutral,Neutral,Disagree,Disagree,Neutral,Agree,Strongly Disagree,Neutral,Neutral,Strongly Disagree,Strongly Disagree,Disagree,Strongly Agree,Agree,Strongly Disagree,Strongly Disagree,Neutral,Neutral,Agree,Neutral,Neutral,Strongly Agree,Disagree,Strongly Disagree,Disagree,Strongly Disagree,Disagree,Neutral,Disagree,Disagree,Disagree,Agree,Neutral,Agree,Neutral,Neutral,Disagree,Disagree,Agree,Neutral,Strongly Disagree,Neutral,Disagree,Agree,Disagree,Disagree,Strongly Disagree,Neutral,Strongly Agree,Disagree,Disagree,Neutral,Strongly Disagree,Neutral,Neutral,Agree,Strongly Agree,Disagree,Disagree,Neutral,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Disagree,Neutral,Disagree,Neutral,Strongly Agree,Neutral,Strongly Agree,Agree,Disagree,Neutral,Neutral,Disagree,Strongly Agree,Neutral,Strongly Agree,Neutral,Disagree,Strongly Agree,Strongly Disagree,Agree,Neutral,Neutral,Strongly Agree,Disagree,Disagree,Neutral,Agree,Strongly Agree,Agree

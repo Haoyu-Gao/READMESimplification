@@ -1,0 +1,9 @@
+{
+"num_epochs": 50,
+"lr" : 1e-5,
+"batch_size" : 16,
+"alpha" : 1e-5,
+"tensorboard_path": "running/test",
+"data_source": "md",
+"tokenizer": "my_tokenizer.json"
+}

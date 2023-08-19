@@ -1,0 +1,498 @@
+Q1_1,Q1_2,Q1_3,Q1_4,Q1_5,Q1_6,Q1_7,Q1_8,Q1_9,Q1_10,Q1_11,Q1_12,Q2_1,Q2_2,Q2_3,Q2_4,Q2_5,Q2_6,Q2_7,Q2_8,Q2_9,Q2_10,Q2_11,Q2_12,Q3_1,Q3_2,Q3_3,Q3_4,Q3_5,Q3_6,Q3_7,Q3_8,Q3_9,Q3_10,Q3_11,Q3_12,Q4_1,Q4_2,Q4_3,Q4_4,Q4_5,Q4_6,Q4_7,Q4_8,Q4_9,Q4_10,Q4_11,Q4_12,Q5_1,Q5_2,Q5_3,Q5_4,Q5_5,Q5_6,Q5_7,Q5_8,Q5_9,Q5_10,Q5_11,Q5_12,Q6_1,Q6_2,Q6_3,Q6_4,Q6_5,Q6_6,Q6_7,Q6_8,Q6_9,Q6_10,Q6_11,Q6_12,Q7_1,Q7_2,Q7_3,Q7_4,Q7_5,Q7_6,Q7_7,Q7_8,Q7_9,Q7_10,Q7_11,Q7_12,Q8_1,Q8_2,Q8_3,Q8_4,Q8_5,Q8_6,Q8_7,Q8_8,Q8_9,Q8_10,Q8_11,Q8_12,Q9_1,Q9_2,Q9_3,Q9_4,Q9_5,Q9_6,Q9_7,Q9_8,Q9_9,Q9_10,Q9_11,Q9_12,Q10_1,Q10_2,Q10_3,Q10_4,Q10_5,Q10_6,Q10_7,Q10_8,Q10_9,Q10_10,Q10_11,Q10_12,Q10_13,Q10_14,Q10_15
+"Question 1
+
+
+
+Reference Sentence: There's about a 5x speed difference between the following two invocations of update:  (def precompiled (comp-structure-paths ALL :a even?))  (update [ALL :a even?] structure)(update precompiled structure)  make it possible to parallelize selects/updates any connection to transducers? - com-paths There's about a 5x speed difference between the following two invocations of update:  (def precompiled (comp-structure-paths ALL :a even?))  (update [ALL :a even?] structure)(update precompiled structure)  make it possible to parallelize selects/updates any connection to transducers?","Question 1
+
+
+
+Reference Sentence: There's about a 5x speed difference between the following two invocations of update:  (def precompiled (comp-structure-paths ALL :a even?))  (update [ALL :a even?] structure)(update precompiled structure)  make it possible to parallelize selects/updates any connection to transducers? - There's about a 5x speed difference between the next two invocations of update.","Question 1
+
+
+
+Reference Sentence: There's about a 5x speed difference between the following two invocations of update:  (def precompiled (comp-structure-paths ALL :a even?))  (update [ALL :a even?] structure)(update precompiled structure)  make it possible to parallelize selects/updates any connection to transducers? - there ' s how to make a pull request between the following two mode : (def precompiled (comp-structure-paths ALL :a even?))  (update [ALL :a even?] structure)(update precompiled structure)  this can make it easier to make any of ajax app .","Question 1
+
+
+
+Reference Sentence: There's about a 5x speed difference between the following two invocations of update:  (def precompiled (comp-structure-paths ALL :a even?))  (update [ALL :a even?] structure)(update precompiled structure)  make it possible to parallelize selects/updates any connection to transducers? - there's about a 5x speed difference between the following two invocations of update: (def precompiled (comp-structure-paths ALL :a even?))  (update [ALL :a even?] structure)(update precompiled structure) make it possible to parallelize selects/updates any connection to transducers? selects/updates any connection to transducers? selects/updates any connection to transducers? selects/updates any connection to transducers? selects/updates any connection to transducers? selects/updates .","Question 1
+
+
+
+Reference Sentence: There's about a 5x speed difference between the following two invocations of update:  (def precompiled (comp-structure-paths ALL :a even?))  (update [ALL :a even?] structure)(update precompiled structure)  make it possible to parallelize selects/updates any connection to transducers? - com-paths There's about a 5x speed difference between the following two invocations of update:  (def precompiled (comp-structure-paths ALL :a even?))  (update [ALL :a even?] structure)(update precompiled structure)  make it possible to parallelize selects/updates any connection to transducers?","Question 1
+
+
+
+Reference Sentence: There's about a 5x speed difference between the following two invocations of update:  (def precompiled (comp-structure-paths ALL :a even?))  (update [ALL :a even?] structure)(update precompiled structure)  make it possible to parallelize selects/updates any connection to transducers? - There's about a 5x speed difference between the next two invocations of update.","Question 1
+
+
+
+Reference Sentence: There's about a 5x speed difference between the following two invocations of update:  (def precompiled (comp-structure-paths ALL :a even?))  (update [ALL :a even?] structure)(update precompiled structure)  make it possible to parallelize selects/updates any connection to transducers? - There's how to make a pull request between the following two mode : (def precompiled (comp-structure-paths ALL :a even?))  (update [ALL :a even?] structure)(update precompiled structure)  this can make it easier to make any of ajax app.","Question 1
+
+
+
+Reference Sentence: There's about a 5x speed difference between the following two invocations of update:  (def precompiled (comp-structure-paths ALL :a even?))  (update [ALL :a even?] structure)(update precompiled structure)  make it possible to parallelize selects/updates any connection to transducers? - There's about a 5x speed difference between the following two invocations of update: (def precompiled (comp-structure-paths ALL :a even?))  (update [ALL :a even?] structure)(update precompiled structure) make it possible to parallelize selects/updates any connection to transducers? selects/updates any connection to transducers? selects/updates any connection to transducers? selects/updates any connection to transducers? selects/updates any connection to transducers? selects/updates .","Question 1
+
+
+
+Reference Sentence: There's about a 5x speed difference between the following two invocations of update:  (def precompiled (comp-structure-paths ALL :a even?))  (update [ALL :a even?] structure)(update precompiled structure)  make it possible to parallelize selects/updates any connection to transducers? - com-paths There's about a 5x speed difference between the following two invocations of update:  (def precompiled (comp-structure-paths ALL :a even?))  (update [ALL :a even?] structure)(update precompiled structure)  make it possible to parallelize selects/updates any connection to transducers?","Question 1
+
+
+
+Reference Sentence: There's about a 5x speed difference between the following two invocations of update:  (def precompiled (comp-structure-paths ALL :a even?))  (update [ALL :a even?] structure)(update precompiled structure)  make it possible to parallelize selects/updates any connection to transducers? - There's about a 5x speed difference between the next two invocations of update.","Question 1
+
+
+
+Reference Sentence: There's about a 5x speed difference between the following two invocations of update:  (def precompiled (comp-structure-paths ALL :a even?))  (update [ALL :a even?] structure)(update precompiled structure)  make it possible to parallelize selects/updates any connection to transducers? - There's how to make a pull request between the following two mode : (def precompiled (comp-structure-paths ALL :a even?))  (update [ALL :a even?] structure)(update precompiled structure)  this can make it easier to make any of ajax app.","Question 1
+
+
+
+Reference Sentence: There's about a 5x speed difference between the following two invocations of update:  (def precompiled (comp-structure-paths ALL :a even?))  (update [ALL :a even?] structure)(update precompiled structure)  make it possible to parallelize selects/updates any connection to transducers? - There's about a 5x speed difference between the following two invocations of update: (def precompiled (comp-structure-paths ALL :a even?))  (update [ALL :a even?] structure)(update precompiled structure) make it possible to parallelize selects/updates any connection to transducers? selects/updates any connection to transducers? selects/updates any connection to transducers? selects/updates any connection to transducers? selects/updates any connection to transducers? selects/updates .","Question 2
+
+
+
+Reference sentence: The most up-to-date version of the dataset can be found here , which may contain additional improvements to the dataset that have not yet been incorporated into an official release. - The most up-to-date version of the dataset can be found here.","Question 2
+
+
+
+Reference sentence: The most up-to-date version of the dataset can be found here , which may contain additional improvements to the dataset that have not yet been incorporated into an official release. - The most up-to-date version of the dataset can be found here , which may contain additional improvements to the dataset that should not yet been put into an official release.","Question 2
+
+
+
+Reference sentence: The most up-to-date version of the dataset can be found here , which may contain additional improvements to the dataset that have not yet been incorporated into an official release. - The which may contain additional improvements to the dataset that have not yet been incorporated into an official release. .","Question 2
+
+
+
+Reference sentence: The most up-to-date version of the dataset can be found here , which may contain additional improvements to the dataset that have not yet been incorporated into an official release. - A most up-to-date that can be found in the repository.","Question 2
+
+
+
+Reference sentence: The most up-to-date version of the dataset can be found here , which may contain additional improvements to the dataset that have not yet been incorporated into an official release. - The most up-to-date version of the dataset can be found here.","Question 2
+
+
+
+Reference sentence: The most up-to-date version of the dataset can be found here , which may contain additional improvements to the dataset that have not yet been incorporated into an official release. - The most up-to-date version of the dataset can be found here , which may contain additional improvements to the dataset that should not yet been put into an official release.","Question 2
+
+
+
+Reference sentence: The most up-to-date version of the dataset can be found here , which may contain additional improvements to the dataset that have not yet been incorporated into an official release. - The which may contain additional improvements to the dataset that have not yet been incorporated into an official release. .","Question 2
+
+
+
+Reference sentence: The most up-to-date version of the dataset can be found here , which may contain additional improvements to the dataset that have not yet been incorporated into an official release. - A most up-to-date that can be found in the repository.","Question 2
+
+
+
+Reference sentence: The most up-to-date version of the dataset can be found here , which may contain additional improvements to the dataset that have not yet been incorporated into an official release. - The most up-to-date version of the dataset can be found here.","Question 2
+
+
+
+Reference sentence: The most up-to-date version of the dataset can be found here , which may contain additional improvements to the dataset that have not yet been incorporated into an official release. - The most up-to-date version of the dataset can be found here , which may contain additional improvements to the dataset that should not yet been put into an official release.","Question 2
+
+
+
+Reference sentence: The most up-to-date version of the dataset can be found here , which may contain additional improvements to the dataset that have not yet been incorporated into an official release. - The which may contain additional improvements to the dataset that have not yet been incorporated into an official release. .","Question 2
+
+
+
+Reference sentence: The most up-to-date version of the dataset can be found here , which may contain additional improvements to the dataset that have not yet been incorporated into an official release. - A most up-to-date that can be found in the repository.","Question 3
+
+
+
+Reference Sentence: Within the endpoints array, keys are url patterns, and values are endpoint configurations. - Within keys keys are url patterns, and values are endpoint configurations. and values are endpoint","Question 3
+
+
+
+Reference Sentence: Within the endpoints array, keys are url patterns, and values are endpoint configurations. - There are now many kinds of keys that are not very important in the 1960s.","Question 3
+
+
+
+Reference Sentence: Within the endpoints array, keys are url patterns, and values are endpoint configurations. - Within the endpoints array, keys are url patterns, and values are endpoint configurations.","Question 3
+
+
+
+Reference Sentence: Within the endpoints array, keys are url patterns, and values are endpoint configurations. - Within the keys array, endpoints,  and  keys are allowed values.","Question 3
+
+
+
+Reference Sentence: Within the endpoints array, keys are url patterns, and values are endpoint configurations. - Within keys keys are url patterns, and values are endpoint configurations. and values are endpoint","Question 3
+
+
+
+Reference Sentence: Within the endpoints array, keys are url patterns, and values are endpoint configurations. - There are now many kinds of keys that are not very important in the 1960s.","Question 3
+
+
+
+Reference Sentence: Within the endpoints array, keys are url patterns, and values are endpoint configurations. - Within the endpoints array, keys are url patterns, and values are endpoint configurations.","Question 3
+
+
+
+Reference Sentence: Within the endpoints array, keys are url patterns, and values are endpoint configurations. - Within the keys array, endpoints,  and  keys are allowed values.","Question 3
+
+
+
+Reference Sentence: Within the endpoints array, keys are url patterns, and values are endpoint configurations. - Within keys keys are url patterns, and values are endpoint configurations. and values are endpoint","Question 3
+
+
+
+Reference Sentence: Within the endpoints array, keys are url patterns, and values are endpoint configurations. - There are now many kinds of keys that are not very important in the 1960s.","Question 3
+
+
+
+Reference Sentence: Within the endpoints array, keys are url patterns, and values are endpoint configurations. - Within the endpoints array, keys are url patterns, and values are endpoint configurations.","Question 3
+
+
+
+Reference Sentence: Within the endpoints array, keys are url patterns, and values are endpoint configurations. - Within the keys array, endpoints,  and  keys are allowed values.","Question 4
+
+
+
+Reference Sentence:  Tmux is not the default, to use it you will have to add this line to your .vimrc: let g:slime_target = \""tmux\"" when you invoke vim-slime for the first time (see below), you will be prompted for more configuration. - When you invoke vim-slime for the first time, you will have to add this line to your .vimrc : let g:slime_target = \""tmux\""more configuration  is not available.","Question 4
+
+
+
+Reference Sentence:  Tmux is not the default, to use it you will have to add this line to your .vimrc: let g:slime_target = \""tmux\"" when you invoke vim-slime for the first time (see below), you will be prompted for more configuration. - It is not the default, to use it you will have to add the line to your.","Question 4
+
+
+
+Reference Sentence:  Tmux is not the default, to use it you will have to add this line to your .vimrc: let g:slime_target = \""tmux\"" when you invoke vim-slime for the first time (see below), you will be prompted for more configuration. - reen session name window screen is not the default, to use it you will have to add this line to your .vimrc: let g:slime_target = \""tmux\"".","Question 4
+
+
+
+Reference Sentence:  Tmux is not the default, to use it you will have to add this line to your .vimrc: let g:slime_target = \""tmux\"" when you invoke vim-slime for the first time (see below), you will be prompted for more configuration. - When you invoke vim-slime for the first time ( see below ), you will be prompted for more configuration.","Question 4
+
+
+
+Reference Sentence:  Tmux is not the default, to use it you will have to add this line to your .vimrc: let g:slime_target = \""tmux\"" when you invoke vim-slime for the first time (see below), you will be prompted for more configuration. - When you invoke vim-slime for the first time, you will have to add this line to your .vimrc : let g:slime_target = \""tmux\""more configuration  is not available.","Question 4
+
+
+
+Reference Sentence:  Tmux is not the default, to use it you will have to add this line to your .vimrc: let g:slime_target = \""tmux\"" when you invoke vim-slime for the first time (see below), you will be prompted for more configuration. - It is not the default, to use it you will have to add the line to your.","Question 4
+
+
+
+Reference Sentence:  Tmux is not the default, to use it you will have to add this line to your .vimrc: let g:slime_target = \""tmux\"" when you invoke vim-slime for the first time (see below), you will be prompted for more configuration. - reen session name window screen is not the default, to use it you will have to add this line to your .vimrc: let g:slime_target = \""tmux\"".","Question 4
+
+
+
+Reference Sentence:  Tmux is not the default, to use it you will have to add this line to your .vimrc: let g:slime_target = \""tmux\"" when you invoke vim-slime for the first time (see below), you will be prompted for more configuration. - When you invoke vim-slime for the first time ( see below ), you will be prompted for more configuration.","Question 4
+
+
+
+Reference Sentence:  Tmux is not the default, to use it you will have to add this line to your .vimrc: let g:slime_target = \""tmux\"" when you invoke vim-slime for the first time (see below), you will be prompted for more configuration. - When you invoke vim-slime for the first time, you will have to add this line to your .vimrc : let g:slime_target = \""tmux\""more configuration  is not available.","Question 4
+
+
+
+Reference Sentence:  Tmux is not the default, to use it you will have to add this line to your .vimrc: let g:slime_target = \""tmux\"" when you invoke vim-slime for the first time (see below), you will be prompted for more configuration. - It is not the default, to use it you will have to add the line to your.","Question 4
+
+
+
+Reference Sentence:  Tmux is not the default, to use it you will have to add this line to your .vimrc: let g:slime_target = \""tmux\"" when you invoke vim-slime for the first time (see below), you will be prompted for more configuration. - reen session name window screen is not the default, to use it you will have to add this line to your .vimrc: let g:slime_target = \""tmux\"".","Question 4
+
+
+
+Reference Sentence:  Tmux is not the default, to use it you will have to add this line to your .vimrc: let g:slime_target = \""tmux\"" when you invoke vim-slime for the first time (see below), you will be prompted for more configuration. - When you invoke vim-slime for the first time ( see below ), you will be prompted for more configuration.","Question 5
+
+
+
+Reference Sentence: If a user requests to run the daemon in the foreground the --syslog, or -L, argument can be used to redirect stderr/stdout to the syslog. - If a user requests to run the daemon in the foreground the --syslog, or -L, argument can be used to redirect stderr/stdout to the syslog (e.g.,","Question 5
+
+
+
+Reference Sentence: If a user requests to run the daemon in the foreground the --syslog, or -L, argument can be used to redirect stderr/stdout to the syslog. - If a user requests to run the daemon in the foreground argument can be used to redirect stderr/stdout to the syslog. or --syslog, argument can be used to redirect stderr/stdout to the syslog. .","Question 5
+
+
+
+Reference Sentence: If a user requests to run the daemon in the foreground the --syslog, or -L, argument can be used to redirect stderr/stdout to the syslog. - If a user requests to run the requests in the foreground , or the word can be used to make it better.","Question 5
+
+
+
+Reference Sentence: If a user requests to run the daemon in the foreground the --syslog, or -L, argument can be used to redirect stderr/stdout to the syslog. - If a user exists to run the container, you can also run --syslog, -L or  to provide the .","Question 5
+
+
+
+Reference Sentence: If a user requests to run the daemon in the foreground the --syslog, or -L, argument can be used to redirect stderr/stdout to the syslog. - If a user requests to run the daemon in the foreground the --syslog, or -L, argument can be used to redirect stderr/stdout to the syslog (e.g.,","Question 5
+
+
+
+Reference Sentence: If a user requests to run the daemon in the foreground the --syslog, or -L, argument can be used to redirect stderr/stdout to the syslog. - If a user requests to run the daemon in the foreground argument can be used to redirect stderr/stdout to the syslog. or --syslog, argument can be used to redirect stderr/stdout to the syslog. .","Question 5
+
+
+
+Reference Sentence: If a user requests to run the daemon in the foreground the --syslog, or -L, argument can be used to redirect stderr/stdout to the syslog. - If a user requests to run the requests in the foreground, or the word can be used to make it better.","Question 5
+
+
+
+Reference Sentence: If a user requests to run the daemon in the foreground the --syslog, or -L, argument can be used to redirect stderr/stdout to the syslog. - If a user exists to run the container , you can also run --syslog, -L or  to provide the .","Question 5
+
+
+
+Reference Sentence: If a user requests to run the daemon in the foreground the --syslog, or -L, argument can be used to redirect stderr/stdout to the syslog. - If a user requests to run the daemon in the foreground the --syslog, or -L, argument can be used to redirect stderr/stdout to the syslog (e.g.,","Question 5
+
+
+
+Reference Sentence: If a user requests to run the daemon in the foreground the --syslog, or -L, argument can be used to redirect stderr/stdout to the syslog. - If a user requests to run the daemon in the foreground argument can be used to redirect stderr/stdout to the syslog. or --syslog, argument can be used to redirect stderr/stdout to the syslog. .","Question 5
+
+
+
+Reference Sentence: If a user requests to run the daemon in the foreground the --syslog, or -L, argument can be used to redirect stderr/stdout to the syslog. - If a user requests to run the requests in the foreground, or the word can be used to make it better.","Question 5
+
+
+
+Reference Sentence: If a user requests to run the daemon in the foreground the --syslog, or -L, argument can be used to redirect stderr/stdout to the syslog. - If a user exists to run the container, you can also run --syslog, -L or  to provide the .","Question 6
+
+
+
+Reference Sentence: Powershell implementation of git, providing a new command-line interface and object pipeline. - A collection of implementation of git, and a command line-line interface.","Question 6
+
+
+
+Reference Sentence: Powershell implementation of git, providing a new command-line interface and object pipeline. - Object implementation of git, providing a new user interface and the object pipeline. .","Question 6
+
+
+
+Reference Sentence: Powershell implementation of git, providing a new command-line interface and object pipeline. - Powershell implementation of git, providing a new command-line interface and object pipeline.","Question 6
+
+
+
+Reference Sentence: Powershell implementation of git, providing a new command-line interface and object pipeline. - This allows a new command-line interface and object pipeline.","Question 6
+
+
+
+Reference Sentence: Powershell implementation of git, providing a new command-line interface and object pipeline. - A collection of implementation of git, and a command line-line interface.","Question 6
+
+
+
+Reference Sentence: Powershell implementation of git, providing a new command-line interface and object pipeline. - Object implementation of git, providing a new user interface and the object pipeline. .","Question 6
+
+
+
+Reference Sentence: Powershell implementation of git, providing a new command-line interface and object pipeline. - Powershell implementation of git, providing a new command-line interface and object pipeline.","Question 6
+
+
+
+Reference Sentence: Powershell implementation of git, providing a new command-line interface and object pipeline. - This allows a new command-line interface and object pipeline.","Question 6
+
+
+
+Reference Sentence: Powershell implementation of git, providing a new command-line interface and object pipeline. - A collection of implementation of git, and a command line-line interface.","Question 6
+
+
+
+Reference Sentence: Powershell implementation of git, providing a new command-line interface and object pipeline. - Object implementation of git, providing a new user interface and the object pipeline. .","Question 6
+
+
+
+Reference Sentence: Powershell implementation of git, providing a new command-line interface and object pipeline. - Powershell implementation of git, providing a new command-line interface and object pipeline.","Question 6
+
+
+
+Reference Sentence: Powershell implementation of git, providing a new command-line interface and object pipeline. - This allows a new command-line interface and object pipeline.","Question 7
+
+
+
+Reference Sentence: If you set the grants via the management api you should activate both  and Password, otherwise the auth0 dashboard will take care of activating both when Password is enabled. - integrate emacs'","Question 7
+
+
+
+Reference Sentence: If you set the grants via the management api you should activate both  and Password, otherwise the auth0 dashboard will take care of activating both when Password is enabled. - If you ' re using the api , then you will try both  and Password.","Question 7
+
+
+
+Reference Sentence: If you set the grants via the management api you should activate both  and Password, otherwise the auth0 dashboard will take care of activating both when Password is enabled. - If you set the grants via the management, it will take care of activating both actions.","Question 7
+
+
+
+Reference Sentence: If you set the grants via the management api you should activate both  and Password, otherwise the auth0 dashboard will take care of activating both when Password is enabled. - If you set the grants via the management api you should activate both  and Password, otherwise the  will take care of activating both when Password is enabled.","Question 7
+
+
+
+Reference Sentence: If you set the grants via the management api you should activate both  and Password, otherwise the auth0 dashboard will take care of activating both when Password is enabled. - integrate emacs'","Question 7
+
+
+
+Reference Sentence: If you set the grants via the management api you should activate both  and Password, otherwise the auth0 dashboard will take care of activating both when Password is enabled. - If you ' re using the api , then you will try both  and Password.","Question 7
+
+
+
+Reference Sentence: If you set the grants via the management api you should activate both  and Password, otherwise the auth0 dashboard will take care of activating both when Password is enabled. - If you set the grants via the management, it will take care of activating both actions.","Question 7
+
+
+
+Reference Sentence: If you set the grants via the management api you should activate both  and Password, otherwise the auth0 dashboard will take care of activating both when Password is enabled. - If you set the grants via the management api you should activate both  and Password, otherwise the  will take care of activating both when Password is enabled.","Question 7
+
+
+
+Reference Sentence: If you set the grants via the management api you should activate both  and Password, otherwise the auth0 dashboard will take care of activating both when Password is enabled. - integrate emacs'","Question 7
+
+
+
+Reference Sentence: If you set the grants via the management api you should activate both  and Password, otherwise the auth0 dashboard will take care of activating both when Password is enabled. - If you ' re using the api , then you will try both  and Password.","Question 7
+
+
+
+Reference Sentence: If you set the grants via the management api you should activate both  and Password, otherwise the auth0 dashboard will take care of activating both when Password is enabled. - If you set the grants via the management , it will take care of activating both actions.","Question 7
+
+
+
+Reference Sentence: If you set the grants via the management api you should activate both  and Password, otherwise the auth0 dashboard will take care of activating both when Password is enabled. - If you set the grants via the management api you should activate both  and Password, otherwise the  will take care of activating both when Password is enabled.","Question 8
+
+
+
+Reference Sentence: This is extremely inefficient as you supply more languages and may not always be 100% accurate. - This is very inefficient as you supply more languages and may not always be 100 % accurate.","Question 8
+
+
+
+Reference Sentence: This is extremely inefficient as you supply more languages and may not always be 100% accurate. - This is extremely inefficient as you supply more languages.","Question 8
+
+
+
+Reference Sentence: This is extremely inefficient as you supply more languages and may not always be 100% accurate. - This is not in scala as you as  and .","Question 8
+
+
+
+Reference Sentence: This is extremely inefficient as you supply more languages and may not always be 100% accurate. - This is extremely inefficient as you supply more languages and may not always be 100% accurate.","Question 8
+
+
+
+Reference Sentence: This is extremely inefficient as you supply more languages and may not always be 100% accurate. - This is very inefficient as you supply more languages and may not always be 100 % accurate.","Question 8
+
+
+
+Reference Sentence: This is extremely inefficient as you supply more languages and may not always be 100% accurate. - This is extremely inefficient as you supply more languages.","Question 8
+
+
+
+Reference Sentence: This is extremely inefficient as you supply more languages and may not always be 100% accurate. - This is not in scala as you as  and .","Question 8
+
+
+
+Reference Sentence: This is extremely inefficient as you supply more languages and may not always be 100% accurate. - This is extremely inefficient as you supply more languages and may not always be 100% accurate.","Question 8
+
+
+
+Reference Sentence: This is extremely inefficient as you supply more languages and may not always be 100% accurate. - This is very inefficient as you supply more languages and may not always be 100 % accurate.","Question 8
+
+
+
+Reference Sentence: This is extremely inefficient as you supply more languages and may not always be 100% accurate. - This is extremely inefficient as you supply more languages.","Question 8
+
+
+
+Reference Sentence: This is extremely inefficient as you supply more languages and may not always be 100% accurate. - This is not in scala as you as  and .","Question 8
+
+
+
+Reference Sentence: This is extremely inefficient as you supply more languages and may not always be 100% accurate. - This is extremely inefficient as you supply more languages and may not always be 100% accurate.","Question 9
+
+
+
+Reference Sentence: Note: the mathematics genealogy project data changes over time, so it is possible that if the examples below are re-run, the results will look different. - It is possible that if the results below are re-run , the results will look different.","Question 9
+
+
+
+Reference Sentence: Note: the mathematics genealogy project data changes over time, so it is possible that if the examples below are re-run, the results will look different. - Note: the mathematics tutorial processing project data changes over time, so it is possible that if the examples below are re-run, the results will look different.","Question 9
+
+
+
+Reference Sentence: Note: the mathematics genealogy project data changes over time, so it is possible that if the examples below are re-run, the results will look different. - Note: the mathematics genealogy project data changes over time, so it is possible that if the examples below are re-run, the results will look different. the results will look different. the results will look different. the results will look different. .","Question 9
+
+
+
+Reference Sentence: Note: the mathematics genealogy project data changes over time, so it is possible that if the examples below are re-run, the results will look different. - Note: the  option is the data will be run, so if it doesn't run.","Question 9
+
+
+
+Reference Sentence: Note: the mathematics genealogy project data changes over time, so it is possible that if the examples below are re-run, the results will look different. - It is possible that if the results below are re-run, the results will look different.","Question 9
+
+
+
+Reference Sentence: Note: the mathematics genealogy project data changes over time, so it is possible that if the examples below are re-run, the results will look different. - Note: the mathematics tutorial processing project data changes over time, so it is possible that if the examples below are re-run, the results will look different.","Question 9
+
+
+
+Reference Sentence: Note: the mathematics genealogy project data changes over time, so it is possible that if the examples below are re-run, the results will look different. - Note: the mathematics genealogy project data changes over time, so it is possible that if the examples below are re-run, the results will look different. the results will look different. the results will look different. the results will look different. .","Question 9
+
+
+
+Reference Sentence: Note: the mathematics genealogy project data changes over time, so it is possible that if the examples below are re-run, the results will look different. - Note: the &lt;code_small&gt; option is the data will be run, so if it doesn&#39;t run.","Question 9
+
+
+
+Reference Sentence: Note: the mathematics genealogy project data changes over time, so it is possible that if the examples below are re-run, the results will look different. - It is possible that if the results below are re-run, the results will look different.","Question 9
+
+
+
+Reference Sentence: Note: the mathematics genealogy project data changes over time, so it is possible that if the examples below are re-run, the results will look different. - Note: the mathematics tutorial processing project data changes over time, so it is possible that if the examples below are re-run, the results will look different.","Question 9
+
+
+
+Reference Sentence: Note: the mathematics genealogy project data changes over time, so it is possible that if the examples below are re-run, the results will look different. - Note: the mathematics genealogy project data changes over time, so it is possible that if the examples below are re-run, the results will look different. the results will look different. the results will look different. the results will look different. .","Question 9
+
+
+
+Reference Sentence: Note: the mathematics genealogy project data changes over time, so it is possible that if the examples below are re-run, the results will look different. - Note: the  option is the data will be run, so if it doesn't run.","Question 10
+
+
+
+Reference Sentence: If you use hibernate 5.0.0  and the hibernate-java8 module (no longer needed for hibernate 5.2.0 ) you're using the equivalent of com.github.marschall:threeten-jpa. - If you use hibernate 5.0.0  and the hibernate-java8 module (no longer needed for hibernate 5.2.0 ) you're using the equivalent of com.github.marschall:threeten-jpa.","Question 10
+
+
+
+Reference Sentence: If you use hibernate 5.0.0  and the hibernate-java8 module (no longer needed for hibernate 5.2.0 ) you're using the equivalent of com.github.marschall:threeten-jpa. - If you use hibernate 5 . 0 . 0 . 0 . 0 . 0 . 0 . 0 . 0 . 0 . 0 .","Question 10
+
+
+
+Reference Sentence: If you use hibernate 5.0.0  and the hibernate-java8 module (no longer needed for hibernate 5.2.0 ) you're using the equivalent of com.github.marschall:threeten-jpa. - If you use com.github.marschall:threeten-jpa , you ' ll need 0 . 2 . 2 . 0 module ( see https :// github . com / module - 2 )  if you use the  module , you ' re using the  module.","Question 10
+
+
+
+Reference Sentence: If you use hibernate 5.0.0  and the hibernate-java8 module (no longer needed for hibernate 5.2.0 ) you're using the equivalent of com.github.marschall:threeten-jpa. - If ) you're and the hibernate-java8 module (no longer needed for hibernate 5.2.0 ) you're using the equivalent of com.github.marschall:threeten-jpa. ) you're using the equivalent of . ) you're using the equivalent of . ) you're using the equivalent of . ) you're using the equivalent of . ) you're using the equivalent of . ) you're using the equivalent of . )","Question 10
+
+
+
+Reference Sentence: If you use hibernate 5.0.0  and the hibernate-java8 module (no longer needed for hibernate 5.2.0 ) you're using the equivalent of com.github.marschall:threeten-jpa. - The purple monkey dishwasher sang shenanigans on the moon with unicorns and marshmallow socks.","Question 10
+
+
+
+Reference Sentence: If you use hibernate 5.0.0  and the hibernate-java8 module (no longer needed for hibernate 5.2.0 ) you're using the equivalent of com.github.marschall:threeten-jpa. - If you use hibernate 5.0.0  and the hibernate-java8 module (no longer needed for hibernate 5.2.0 ) you're using the equivalent of com.github.marschall:threeten-jpa.","Question 10
+
+
+
+Reference Sentence: If you use hibernate 5.0.0  and the hibernate-java8 module (no longer needed for hibernate 5.2.0 ) you're using the equivalent of com.github.marschall:threeten-jpa. - If you use hibernate 5 . 0 . 0 . 0 . 0 . 0 . 0 . 0 . 0 . 0 . 0 .","Question 10
+
+
+
+Reference Sentence: If you use hibernate 5.0.0  and the hibernate-java8 module (no longer needed for hibernate 5.2.0 ) you're using the equivalent of com.github.marschall:threeten-jpa. - If you use com.github.marschall:threeten-jpa , you ' ll need 0 . 2 . 2 . 0 module ( see https :// github . com / module - 2 )  if you use the  module , you ' re using the  module.","Question 10
+
+
+
+Reference Sentence: If you use hibernate 5.0.0  and the hibernate-java8 module (no longer needed for hibernate 5.2.0 ) you're using the equivalent of com.github.marschall:threeten-jpa. - If ) you're and the hibernate-java8 module (no longer needed for hibernate 5.2.0 ) you're using the equivalent of com.github.marschall:threeten-jpa. ) you're using the equivalent of . ) you're using the equivalent of . ) you're using the equivalent of . ) you're using the equivalent of . ) you're using the equivalent of . ) you're using the equivalent of . )","Question 10
+
+
+
+Reference Sentence: If you use hibernate 5.0.0  and the hibernate-java8 module (no longer needed for hibernate 5.2.0 ) you're using the equivalent of com.github.marschall:threeten-jpa. - The purple monkey dishwasher sang shenanigans on the moon with unicorns and marshmallow socks.","Question 10
+
+
+
+Reference Sentence: If you use hibernate 5.0.0  and the hibernate-java8 module (no longer needed for hibernate 5.2.0 ) you're using the equivalent of com.github.marschall:threeten-jpa. - If you use hibernate 5.0.0  and the hibernate-java8 module (no longer needed for hibernate 5.2.0 ) you're using the equivalent of com.github.marschall:threeten-jpa.","Question 10
+
+
+
+Reference Sentence: If you use hibernate 5.0.0  and the hibernate-java8 module (no longer needed for hibernate 5.2.0 ) you're using the equivalent of com.github.marschall:threeten-jpa. - If you use hibernate 5 . 0 . 0 . 0 . 0 . 0 . 0 . 0 . 0 . 0 . 0 .","Question 10
+
+
+
+Reference Sentence: If you use hibernate 5.0.0  and the hibernate-java8 module (no longer needed for hibernate 5.2.0 ) you're using the equivalent of com.github.marschall:threeten-jpa. - If you use com.github.marschall:threeten-jpa , you ' ll need 0 . 2 . 2 . 0 module ( see https :// github . com / module - 2 )  if you use the  module , you ' re using the  module.","Question 10
+
+
+
+Reference Sentence: If you use hibernate 5.0.0  and the hibernate-java8 module (no longer needed for hibernate 5.2.0 ) you're using the equivalent of com.github.marschall:threeten-jpa. - If ) you're and the hibernate-java8 module (no longer needed for hibernate 5.2.0 ) you're using the equivalent of com.github.marschall:threeten-jpa. ) you're using the equivalent of . ) you're using the equivalent of . ) you're using the equivalent of . ) you're using the equivalent of . ) you're using the equivalent of . ) you're using the equivalent of . )","Question 10
+
+
+
+Reference Sentence: If you use hibernate 5.0.0  and the hibernate-java8 module (no longer needed for hibernate 5.2.0 ) you're using the equivalent of com.github.marschall:threeten-jpa. - The purple monkey dishwasher sang shenanigans on the moon with unicorns and marshmallow socks."
+"{""ImportId"":""QID12_1""}","{""ImportId"":""QID12_3""}","{""ImportId"":""QID12_2""}","{""ImportId"":""QID12_11""}","{""ImportId"":""QID12_4""}","{""ImportId"":""QID12_6""}","{""ImportId"":""QID12_10""}","{""ImportId"":""QID12_13""}","{""ImportId"":""QID12_7""}","{""ImportId"":""QID12_8""}","{""ImportId"":""QID12_9""}","{""ImportId"":""QID12_12""}","{""ImportId"":""QID13_1""}","{""ImportId"":""QID13_2""}","{""ImportId"":""QID13_3""}","{""ImportId"":""QID13_10""}","{""ImportId"":""QID13_4""}","{""ImportId"":""QID13_5""}","{""ImportId"":""QID13_6""}","{""ImportId"":""QID13_11""}","{""ImportId"":""QID13_7""}","{""ImportId"":""QID13_8""}","{""ImportId"":""QID13_9""}","{""ImportId"":""QID13_12""}","{""ImportId"":""QID15_1""}","{""ImportId"":""QID15_2""}","{""ImportId"":""QID15_3""}","{""ImportId"":""QID15_10""}","{""ImportId"":""QID15_4""}","{""ImportId"":""QID15_5""}","{""ImportId"":""QID15_6""}","{""ImportId"":""QID15_11""}","{""ImportId"":""QID15_7""}","{""ImportId"":""QID15_8""}","{""ImportId"":""QID15_9""}","{""ImportId"":""QID15_12""}","{""ImportId"":""QID26_1""}","{""ImportId"":""QID26_2""}","{""ImportId"":""QID26_3""}","{""ImportId"":""QID26_10""}","{""ImportId"":""QID26_4""}","{""ImportId"":""QID26_5""}","{""ImportId"":""QID26_11""}","{""ImportId"":""QID26_13""}","{""ImportId"":""QID26_7""}","{""ImportId"":""QID26_8""}","{""ImportId"":""QID26_9""}","{""ImportId"":""QID26_12""}","{""ImportId"":""QID27_17""}","{""ImportId"":""QID27_3""}","{""ImportId"":""QID27_10""}","{""ImportId"":""QID27_14""}","{""ImportId"":""QID27_4""}","{""ImportId"":""QID27_11""}","{""ImportId"":""QID27_13""}","{""ImportId"":""QID27_15""}","{""ImportId"":""QID27_8""}","{""ImportId"":""QID27_9""}","{""ImportId"":""QID27_12""}","{""ImportId"":""QID27_16""}","{""ImportId"":""QID28_1""}","{""ImportId"":""QID28_2""}","{""ImportId"":""QID28_10""}","{""ImportId"":""QID28_14""}","{""ImportId"":""QID28_4""}","{""ImportId"":""QID28_5""}","{""ImportId"":""QID28_11""}","{""ImportId"":""QID28_15""}","{""ImportId"":""QID28_7""}","{""ImportId"":""QID28_8""}","{""ImportId"":""QID28_9""}","{""ImportId"":""QID28_16""}","{""ImportId"":""QID30_1""}","{""ImportId"":""QID30_15""}","{""ImportId"":""QID30_10""}","{""ImportId"":""QID30_14""}","{""ImportId"":""QID30_4""}","{""ImportId"":""QID30_5""}","{""ImportId"":""QID30_11""}","{""ImportId"":""QID30_13""}","{""ImportId"":""QID30_7""}","{""ImportId"":""QID30_8""}","{""ImportId"":""QID30_9""}","{""ImportId"":""QID30_12""}","{""ImportId"":""QID33_1""}","{""ImportId"":""QID33_2""}","{""ImportId"":""QID33_10""}","{""ImportId"":""QID33_14""}","{""ImportId"":""QID33_4""}","{""ImportId"":""QID33_5""}","{""ImportId"":""QID33_11""}","{""ImportId"":""QID33_13""}","{""ImportId"":""QID33_7""}","{""ImportId"":""QID33_8""}","{""ImportId"":""QID33_9""}","{""ImportId"":""QID33_12""}","{""ImportId"":""QID34_1""}","{""ImportId"":""QID34_17""}","{""ImportId"":""QID34_15""}","{""ImportId"":""QID34_16""}","{""ImportId"":""QID34_4""}","{""ImportId"":""QID34_5""}","{""ImportId"":""QID34_11""}","{""ImportId"":""QID34_13""}","{""ImportId"":""QID34_7""}","{""ImportId"":""QID34_8""}","{""ImportId"":""QID34_9""}","{""ImportId"":""QID34_12""}","{""ImportId"":""QID35_1""}","{""ImportId"":""QID35_14""}","{""ImportId"":""QID35_15""}","{""ImportId"":""QID35_16""}","{""ImportId"":""QID35_17""}","{""ImportId"":""QID35_4""}","{""ImportId"":""QID35_5""}","{""ImportId"":""QID35_11""}","{""ImportId"":""QID35_13""}","{""ImportId"":""QID35_18""}","{""ImportId"":""QID35_7""}","{""ImportId"":""QID35_8""}","{""ImportId"":""QID35_9""}","{""ImportId"":""QID35_12""}","{""ImportId"":""QID35_19""}"
+Strongly Agree,Disagree,Disagree,Agree,Agree,Disagree,Disagree,Disagree,Strongly Agree,Disagree,Disagree,Disagree,Disagree,Strongly Agree,Strongly disagree,Disagree,Agree,Strongly Agree,Strongly disagree,Agree,Neutral,Agree,Disagree,Disagree,Strongly Disagree,Strongly Disagree,Strongly Agree,Disagree,Disagree,Strongly Disagree,Agree,Agree,Strongly Disagree,Strongly Disagree,Agree,Neutral,Strongly Agree,Neutral,Agree,Agree,Strongly Agree,Strongly Disagree,Disagree,Strongly Agree,Strongly Agree,Neutral,Agree,Strongly Agree,Agree,Disagree,Strongly Disagree,Agree,Agree,Agree,Disagree,Strongly Agree,Agree,Neutral,Strongly Disagree,Strongly Agree,Strongly Disagree,Disagree,Strongly Agree,Disagree,Disagree,Disagree,Disagree,Disagree,Disagree,Agree,Strongly Agree,Agree,Strongly Disagree,Agree,Strongly Disagree,Strongly Agree,Strongly Disagree,Strongly Agree,Agree,Strongly Agree,Strongly Disagree,Strongly Agree,Strongly Disagree,Strongly Agree,Strongly Agree,Agree,Strongly Disagree,Agree,Strongly Agree,Strongly Agree,Strongly Disagree,Agree,Strongly Agree,Neutral,Strongly Disagree,Neutral,Agree,Strongly Agree,Strongly Disagree,Disagree,Agree,Strongly Agree,Agree,Strongly Disagree,Strongly Agree,Agree,Strongly Disagree,Strongly Disagree,Strongly Agree,Strongly Disagree,Disagree,Strongly Disagree,Strongly Disagree,Strongly Agree,Strongly Disagree,Agree,Strongly Disagree,Strongly Agree,Neutral,Strongly Disagree,Strongly Disagree,Strongly Disagree,Strongly Disagree
+Strongly Agree,Disagree,Disagree,Disagree,Strongly Agree,Agree,Strongly Disagree,Disagree,Strongly Agree,Agree,Agree,Disagree,Strongly disagree,Agree,Strongly disagree,Disagree,Disagree,Strongly Agree,Strongly disagree,Disagree,Agree,Agree,Strongly disagree,Strongly Agree,Strongly Disagree,Strongly Disagree,Strongly Agree,Disagree,Neutral,Neutral,Strongly Agree,Neutral,Neutral,Neutral,Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Agree,Agree,Strongly Disagree,Neutral,Neutral,Neutral,Neutral,Neutral,Strongly Agree,Strongly Agree,Disagree,Neutral,Neutral,Agree,Neutral,Neutral,Neutral,Neutral,Neutral,Agree,Neutral,Neutral,Neutral,Strongly Agree,Neutral,Disagree,Disagree,Strongly Agree,Neutral,Neutral,Neutral,Agree,Strongly Agree,Neutral,Neutral,Agree,Strongly Agree,Disagree,Neutral,Agree,Strongly Agree,Neutral,Neutral,Neutral,Strongly Agree,Agree,Agree,Strongly Disagree,Strongly Agree,Agree,Agree,Disagree,Strongly Agree,Agree,Agree,Disagree,Strongly Agree,Agree,Neutral,Strongly Agree,Strongly Disagree,Agree,Disagree,Strongly Agree,Strongly Disagree,Strongly Agree,Neutral,Strongly Agree,Neutral,Strongly Agree,Strongly Disagree,Strongly Disagree,Neutral,Strongly Disagree,Strongly Agree,Strongly Disagree,Disagree,Neutral,Strongly Disagree,Strongly Agree,Strongly Disagree,Neutral,Neutral,Strongly Disagree
+Strongly Agree,Disagree,Strongly Disagree,Agree,Strongly Agree,Agree,Strongly Disagree,Agree,Strongly Agree,Strongly Agree,Disagree,Neutral,Neutral,Strongly Agree,Strongly disagree,Strongly disagree,Strongly Agree,Strongly Agree,Disagree,Disagree,Strongly Agree,Agree,Disagree,Agree,Agree,Disagree,Strongly Agree,Neutral,Agree,Neutral,Strongly Agree,Disagree,Neutral,Agree,Strongly Agree,Neutral,Agree,Neutral,Agree,Agree,Agree,Disagree,Agree,Disagree,Agree,Agree,Disagree,Neutral,Agree,Agree,Agree,Agree,Agree,Neutral,Agree,Agree,Neutral,Agree,Agree,Agree,Disagree,Disagree,Strongly Agree,Neutral,Strongly Agree,Agree,Agree,Agree,Strongly Agree,Neutral,Neutral,Strongly Agree,Strongly Disagree,Neutral,Agree,Strongly Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Strongly Agree,Strongly Agree,Agree,Strongly Disagree,Agree,Agree,Agree,Strongly Disagree,Agree,Agree,Agree,Strongly Disagree,Agree,Neutral,Strongly Agree,Agree,Disagree,Agree,Agree,Neutral,Disagree,Agree,Agree,Disagree,Disagree,Strongly Agree,Disagree,Neutral,Disagree,Strongly Disagree,Agree,Disagree,Agree,Neutral,Strongly Disagree,Agree,Disagree,Agree,Disagree,Strongly Disagree

@@ -1,0 +1,474 @@
+Q1_1,Q1_2,Q1_3,Q1_4,Q1_5,Q1_6,Q1_7,Q1_8,Q1_9,Q1_10,Q1_11,Q1_12,Q2_1,Q2_2,Q2_3,Q2_4,Q2_5,Q2_6,Q2_7,Q2_8,Q2_9,Q2_10,Q2_11,Q2_12,Q3_1,Q3_2,Q3_3,Q3_4,Q3_5,Q3_6,Q3_7,Q3_8,Q3_9,Q3_10,Q3_11,Q3_12,Q4_1,Q4_2,Q4_3,Q4_4,Q4_5,Q4_6,Q4_7,Q4_8,Q4_9,Q4_10,Q4_11,Q4_12,Q5_1,Q5_2,Q5_3,Q5_4,Q5_5,Q5_6,Q5_7,Q5_8,Q5_9,Q5_10,Q5_11,Q5_12,Q6_1,Q6_2,Q6_3,Q6_4,Q6_5,Q6_6,Q6_7,Q6_8,Q6_9,Q7_1,Q7_2,Q7_3,Q7_4,Q7_5,Q7_6,Q7_7,Q7_8,Q7_9,Q7_10,Q7_11,Q7_12,Q8_1,Q8_2,Q8_3,Q8_4,Q8_5,Q8_6,Q8_7,Q8_8,Q8_9,Q8_10,Q8_11,Q8_12,Q9_1,Q9_2,Q9_3,Q9_4,Q9_5,Q9_6,Q9_7,Q9_8,Q9_9,Q9_10,Q9_11,Q9_12,Q10_1,Q10_2,Q10_3,Q10_4,Q10_5,Q10_6,Q10_7,Q10_8,Q10_9,Q10_10,Q10_11,Q10_12
+"Question 1
+
+
+
+Reference Sentence: You can also add and remove tags by direct assignment. - @user.tag_list.remove(\""awesome, slick\"", parse: true) You can also add and remove tags by direct assignment.","Question 1
+
+
+
+Reference Sentence: You can also add and remove tags by direct assignment. - It can also add and remove by direct assignment.","Question 1
+
+
+
+Reference Sentence: You can also add and remove tags by direct assignment. - @user.tag_list.remove(\""awesome, slick\"", parse: true)you can also add objects by passing them.","Question 1
+
+
+
+Reference Sentence: You can also add and remove tags by direct assignment. - You can also add and remove tags by direct assignment. by direct assignment.","Question 1
+
+
+
+Reference Sentence: You can also add and remove tags by direct assignment. - @user.tag_list.remove(\""awesome, slick\"", parse: true) You can also add and remove tags by direct assignment.","Question 1
+
+
+
+Reference Sentence: You can also add and remove tags by direct assignment. - It can also add and remove by direct assignment.","Question 1
+
+
+
+Reference Sentence: You can also add and remove tags by direct assignment. - @user.tag_list.remove(\""awesome, slick\"", parse: true)you can also add objects by passing them.","Question 1
+
+
+
+Reference Sentence: You can also add and remove tags by direct assignment. - You can also add and remove tags by direct assignment. by direct assignment.","Question 1
+
+
+
+Reference Sentence: You can also add and remove tags by direct assignment. - @user.tag_list.remove(\""awesome, slick\"", parse: true) You can also add and remove tags by direct assignment.","Question 1
+
+
+
+Reference Sentence: You can also add and remove tags by direct assignment. - It can also add and remove by direct assignment.","Question 1
+
+
+
+Reference Sentence: You can also add and remove tags by direct assignment. - @user.tag_list.remove(\""awesome, slick\"", parse: true)you can also add objects by passing them.","Question 1
+
+
+
+Reference Sentence: You can also add and remove tags by direct assignment. - You can also add and remove tags by direct assignment. by direct assignment.","Question 2
+
+
+
+Reference sentence: gldispatch/ contains code for libgldispatch, which is responsible for dispatching opengl functions to the correct vendor library. - The gldispatch/ contains code for libgldispatch, which is responsible for charitying opengl functions to the correct library.","Question 2
+
+
+
+Reference sentence: gldispatch/ contains code for libgldispatch, which is responsible for dispatching opengl functions to the correct vendor library. - gldispatch/ contains code for libgldispatch.","Question 2
+
+
+
+Reference sentence: gldispatch/ contains code for libgldispatch, which is responsible for dispatching opengl functions to the correct vendor library. - gldispatch/ contains code for libgldispatch, .","Question 2
+
+
+
+Reference sentence: gldispatch/ contains code for libgldispatch, which is responsible for dispatching opengl functions to the correct vendor library. - gldimp is the same way for code.","Question 2
+
+
+
+Reference sentence: gldispatch/ contains code for libgldispatch, which is responsible for dispatching opengl functions to the correct vendor library. - The gldispatch/ contains code for libgldispatch, which is responsible for charitying opengl functions to the correct library.","Question 2
+
+
+
+Reference sentence: gldispatch/ contains code for libgldispatch, which is responsible for dispatching opengl functions to the correct vendor library. - gldispatch/ contains code for libgldispatch.","Question 2
+
+
+
+Reference sentence: gldispatch/ contains code for libgldispatch, which is responsible for dispatching opengl functions to the correct vendor library. - gldispatch/ contains code for libgldispatch, .","Question 2
+
+
+
+Reference sentence: gldispatch/ contains code for libgldispatch, which is responsible for dispatching opengl functions to the correct vendor library. - gldimp is the same way for code.","Question 2
+
+
+
+Reference sentence: gldispatch/ contains code for libgldispatch, which is responsible for dispatching opengl functions to the correct vendor library. - The gldispatch/ contains code for libgldispatch, which is responsible for charitying opengl functions to the correct library.","Question 2
+
+
+
+Reference sentence: gldispatch/ contains code for libgldispatch, which is responsible for dispatching opengl functions to the correct vendor library. - gldispatch/ contains code for libgldispatch.","Question 2
+
+
+
+Reference sentence: gldispatch/ contains code for libgldispatch, which is responsible for dispatching opengl functions to the correct vendor library. - gldispatch/ contains code for libgldispatch, .","Question 2
+
+
+
+Reference sentence: gldispatch/ contains code for libgldispatch, which is responsible for dispatching opengl functions to the correct vendor library. - gldimp is the same way for code.","Question 3
+
+
+
+Reference Sentence: To add your app, tool, or library to the collection, simply fork this github repository, follow the relevant guide below to create a markdown file in the right folder, and submit a pull request. - To fork your fork, create a repository, or fork the appropriate repository, create a pull request.","Question 3
+
+
+
+Reference Sentence: To add your app, tool, or library to the collection, simply fork this github repository, follow the relevant guide below to create a markdown file in the right folder, and submit a pull request. - To add your app, tool, tool, or library to the collection, simply add the relevant guide below to create a person in the right hand.","Question 3
+
+
+
+Reference Sentence: To add your app, tool, or library to the collection, simply fork this github repository, follow the relevant guide below to create a markdown file in the right folder, and submit a pull request. - To add your app, tool, or library to the collection, simply fork this github repository  , follow the relevant guide below to create a markdown file in the right folder, and submit a pull request.","Question 3
+
+
+
+Reference Sentence: To add your app, tool, or library to the collection, simply fork this github repository, follow the relevant guide below to create a markdown file in the right folder, and submit a pull request. - To add your app, create a github repository and submit a pull request to the github repository , create a pull request using the github repository.","Question 3
+
+
+
+Reference Sentence: To add your app, tool, or library to the collection, simply fork this github repository, follow the relevant guide below to create a markdown file in the right folder, and submit a pull request. - To fork your fork, create a repository, or fork the appropriate repository, create a pull request.","Question 3
+
+
+
+Reference Sentence: To add your app, tool, or library to the collection, simply fork this github repository, follow the relevant guide below to create a markdown file in the right folder, and submit a pull request. - To add your app, tool, tool, or library to the collection, simply add the relevant guide below to create a person in the right hand.","Question 3
+
+
+
+Reference Sentence: To add your app, tool, or library to the collection, simply fork this github repository, follow the relevant guide below to create a markdown file in the right folder, and submit a pull request. - To add your app, tool, or library to the collection, simply fork this github repository , follow the relevant guide below to create a markdown file in the right folder, and submit a pull request.","Question 3
+
+
+
+Reference Sentence: To add your app, tool, or library to the collection, simply fork this github repository, follow the relevant guide below to create a markdown file in the right folder, and submit a pull request. - To add your app, create a github repository and submit a pull request to the github repository , create a pull request using the github repository.","Question 3
+
+
+
+Reference Sentence: To add your app, tool, or library to the collection, simply fork this github repository, follow the relevant guide below to create a markdown file in the right folder, and submit a pull request. - To fork your fork, create a repository, or fork the appropriate repository, create a pull request.","Question 3
+
+
+
+Reference Sentence: To add your app, tool, or library to the collection, simply fork this github repository, follow the relevant guide below to create a markdown file in the right folder, and submit a pull request. - To add your app, tool, tool, or library to the collection, simply add the relevant guide below to create a person in the right hand.","Question 3
+
+
+
+Reference Sentence: To add your app, tool, or library to the collection, simply fork this github repository, follow the relevant guide below to create a markdown file in the right folder, and submit a pull request. - To add your app, tool, or library to the collection, simply fork this github repository , follow the relevant guide below to create a markdown file in the right folder, and submit a pull request.","Question 3
+
+
+
+Reference Sentence: To add your app, tool, or library to the collection, simply fork this github repository, follow the relevant guide below to create a markdown file in the right folder, and submit a pull request. - To add your app, create a github repository and submit a pull request to the github repository , create a pull request using the github repository.","Question 4
+
+
+
+Reference Sentence: The librato backend also supports the following optional configuration options under the top-level librato hash: source: an optional source name to use for all measurements. - The configuration options can also be used for all the following options : librato options : source options: use the  attribute to your configuration options.","Question 4
+
+
+
+Reference Sentence: The librato backend also supports the following optional configuration options under the top-level librato hash: source: an optional source name to use for all measurements. - The show also supports the following optional configuration options under the "" top - level "" - LRB - "" Voice "" - RRB - .","Question 4
+
+
+
+Reference Sentence: The librato backend also supports the following optional configuration options under the top-level librato hash: source: an optional source name to use for all measurements. - The librato backend also supports the following optional configuration options under the top-level librato hash: source;an optional source name to use for all measurements. hash: : .","Question 4
+
+
+
+Reference Sentence: The librato backend also supports the following optional configuration options under the top-level librato hash: source: an optional source name to use for all measurements. - The librato backend also supports the following optional configuration options under the top-level librato hash: source: an optional source name to use for all measurements.","Question 4
+
+
+
+Reference Sentence: The librato backend also supports the following optional configuration options under the top-level librato hash: source: an optional source name to use for all measurements. - The configuration options can also be used for all the following options : librato options : source options: use the  attribute to your configuration options.","Question 4
+
+
+
+Reference Sentence: The librato backend also supports the following optional configuration options under the top-level librato hash: source: an optional source name to use for all measurements. - The show also supports the following optional configuration options under the "" top - level "" - LRB - "" Voice "" - RRB - .","Question 4
+
+
+
+Reference Sentence: The librato backend also supports the following optional configuration options under the top-level librato hash: source: an optional source name to use for all measurements. - The librato backend also supports the following optional configuration options under the top-level librato hash: source;an optional source name to use for all measurements. hash: : .","Question 4
+
+
+
+Reference Sentence: The librato backend also supports the following optional configuration options under the top-level librato hash: source: an optional source name to use for all measurements. - The librato backend also supports the following optional configuration options under the top-level librato hash: source: an optional source name to use for all measurements.","Question 4
+
+
+
+Reference Sentence: The librato backend also supports the following optional configuration options under the top-level librato hash: source: an optional source name to use for all measurements. - The configuration options can also be used for all the following options: librato options : source options: use the  attribute to your configuration options .","Question 4
+
+
+
+Reference Sentence: The librato backend also supports the following optional configuration options under the top-level librato hash: source: an optional source name to use for all measurements. - The show also supports the following optional configuration options under the "" top - level "" - LRB - "" Voice "" - RRB - .","Question 4
+
+
+
+Reference Sentence: The librato backend also supports the following optional configuration options under the top-level librato hash: source: an optional source name to use for all measurements. - The librato backend also supports the following optional configuration options under the top-level librato hash: source;an optional source name to use for all measurements. hash: : .","Question 4
+
+
+
+Reference Sentence: The librato backend also supports the following optional configuration options under the top-level librato hash: source: an optional source name to use for all measurements. - The librato backend also supports the following optional configuration options under the top-level librato hash: source: an optional source name to use for all measurements.","Question 5
+
+
+
+Reference Sentence: if a fn function is supplied it is called on each value, true is returned if any of the calls to fn return true. - If a fn function is supplied it is called on each value, true is returned if any of the calls to fn return true.","Question 5
+
+
+
+Reference Sentence: if a fn function is supplied it is called on each value, true is returned if any of the calls to fn return true. - If a particular function is supplied it is called on each value , true is returned if any of the calls to get true.","Question 5
+
+
+
+Reference Sentence: if a fn function is supplied it is called on each value, true is returned if any of the calls to fn return true. - If a clear function is supplied it is called on each value, true is returned if any of the calls to see.","Question 5
+
+
+
+Reference Sentence: if a fn function is supplied it is called on each value, true is returned if any of the calls to fn return true. - If a function is called then it returns fn on each value , then the value is returned of the returned value of the fn.","Question 5
+
+
+
+Reference Sentence: if a fn function is supplied it is called on each value, true is returned if any of the calls to fn return true. - If a fn function is supplied it is called on each value, true is returned if any of the calls to fn return true.","Question 5
+
+
+
+Reference Sentence: if a fn function is supplied it is called on each value, true is returned if any of the calls to fn return true. - If a particular function is supplied it is called on each value , true is returned if any of the calls to get true.","Question 5
+
+
+
+Reference Sentence: if a fn function is supplied it is called on each value, true is returned if any of the calls to fn return true. - If a clear function is supplied it is called on each value, true is returned if any of the calls to see.","Question 5
+
+
+
+Reference Sentence: if a fn function is supplied it is called on each value, true is returned if any of the calls to fn return true. - If a function is called then it returns fn on each value , then the value is returned of the returned value of the fn.","Question 5
+
+
+
+Reference Sentence: if a fn function is supplied it is called on each value, true is returned if any of the calls to fn return true. - If a fn function is supplied it is called on each value, true is returned if any of the calls to fn return true.","Question 5
+
+
+
+Reference Sentence: if a fn function is supplied it is called on each value, true is returned if any of the calls to fn return true. - If a particular function is supplied it is called on each value , true is returned if any of the calls to get true.","Question 5
+
+
+
+Reference Sentence: if a fn function is supplied it is called on each value, true is returned if any of the calls to fn return true. - If a clear function is supplied it is called on each value, true is returned if any of the calls to see.","Question 5
+
+
+
+Reference Sentence: if a fn function is supplied it is called on each value, true is returned if any of the calls to fn return true. - If a function is called then it returns fn on each value , then the value is returned of the returned value of the fn.","Question 6
+
+
+
+Reference Sentence: You can access this.user from within the function you define, and any returned data will be added to the response body as data.extra (coming soon). - You can access it from within the body ( this.user, data.extra ,  and  parameters will be returned as the response body ).","Question 6
+
+
+
+Reference Sentence: You can access this.user from within the function you define, and any returned data will be added to the response body as data.extra (coming soon). - You can access this.user from within the function you define, and any returned data will be added to the response body as data.extra (coming soon).","Question 6
+
+
+
+Reference Sentence: You can access this.user from within the function you define, and any returned data will be added to the response body as data.extra (coming soon). - You can access from the function you define , and any returned data will be added to the response to the response body as "" soon "" soon.","Question 6
+
+
+
+Reference Sentence: You can access this.user from within the function you define, and any returned data will be added to the response body as data.extra (coming soon). - You can access it from within the body ( this.user, data.extra ,  and  parameters will be returned as the response body ).","Question 6
+
+
+
+Reference Sentence: You can access this.user from within the function you define, and any returned data will be added to the response body as data.extra (coming soon). - You can access this.user from within the function you define, and any returned data will be added to the response body as data.extra (coming soon).","Question 6
+
+
+
+Reference Sentence: You can access this.user from within the function you define, and any returned data will be added to the response body as data.extra (coming soon). - You can access from the function you define , and any returned data will be added to the response to the response body as "" soon "" soon.","Question 6
+
+
+
+Reference Sentence: You can access this.user from within the function you define, and any returned data will be added to the response body as data.extra (coming soon). - You can access it from within the body ( this.user, data.extra ,  and  parameters will be returned as the response body ).","Question 6
+
+
+
+Reference Sentence: You can access this.user from within the function you define, and any returned data will be added to the response body as data.extra (coming soon). - You can access this.user from within the function you define, and any returned data will be added to the response body as data.extra (coming soon).","Question 6
+
+
+
+Reference Sentence: You can access this.user from within the function you define, and any returned data will be added to the response body as data.extra (coming soon). - You can access from the function you define , and any returned data will be added to the response to the response body as "" soon "" soon.","Question 7
+
+
+
+Reference Sentence: to update stan-mode when a version of the stan language comes out: replace stan-lang/stan-functions-*.txt with the newest version from cmdstan. - To is a stan language.","Question 7
+
+
+
+Reference Sentence: to update stan-mode when a version of the stan language comes out: replace stan-lang/stan-functions-*.txt with the newest version from cmdstan. - To update the latest version from a full version of the project , you can use the lang/stan-functions-*.txt option with the  option from the  and .","Question 7
+
+
+
+Reference Sentence: to update stan-mode when a version of the stan language comes out: replace stan-lang/stan-functions-*.txt with the newest version from cmdstan. - A version of the stan language comes out.","Question 7
+
+
+
+Reference Sentence: to update stan-mode when a version of the stan language comes out: replace stan-lang/stan-functions-*.txt with the newest version from cmdstan. - To update stan-mode when a version of the stan language comes out: replace stan-lang/stan-functions-*.txt with the  from cmdstan.","Question 7
+
+
+
+Reference Sentence: to update stan-mode when a version of the stan language comes out: replace stan-lang/stan-functions-*.txt with the newest version from cmdstan. - To is a stan language.","Question 7
+
+
+
+Reference Sentence: to update stan-mode when a version of the stan language comes out: replace stan-lang/stan-functions-*.txt with the newest version from cmdstan. - To update the latest version from a full version of the project , you can use the lang/stan-functions-*.txt option with the  option from the  and .","Question 7
+
+
+
+Reference Sentence: to update stan-mode when a version of the stan language comes out: replace stan-lang/stan-functions-*.txt with the newest version from cmdstan. - A version of the stan language comes out.","Question 7
+
+
+
+Reference Sentence: to update stan-mode when a version of the stan language comes out: replace stan-lang/stan-functions-*.txt with the newest version from cmdstan. - To update stan-mode when a version of the stan language comes out: replace stan-lang/stan-functions-*.txt with the  from cmdstan.","Question 7
+
+
+
+Reference Sentence: to update stan-mode when a version of the stan language comes out: replace stan-lang/stan-functions-*.txt with the newest version from cmdstan. - To is a stan language.","Question 7
+
+
+
+Reference Sentence: to update stan-mode when a version of the stan language comes out: replace stan-lang/stan-functions-*.txt with the newest version from cmdstan. - To update the latest version from a full version of the project , you can use the lang/stan-functions-*.txt option with the  option from the  and .","Question 7
+
+
+
+Reference Sentence: to update stan-mode when a version of the stan language comes out: replace stan-lang/stan-functions-*.txt with the newest version from cmdstan. - A version of the stan language comes out.","Question 7
+
+
+
+Reference Sentence: to update stan-mode when a version of the stan language comes out: replace stan-lang/stan-functions-*.txt with the newest version from cmdstan. - To update stan-mode when a version of the stan language comes out: replace stan-lang/stan-functions-*.txt with the  from cmdstan.","Question 8
+
+
+
+Reference Sentence: Then you can run tests with bundle exec rake spec  Author: dan drabik, lance ivy copyright (c) 2012-2019, kickstarter released under the mit license the project is based on:  the original leader/replica plugin: - bundle exec rake spec  Author: dan drabik, lance ivy copyright (c) 2012-2019, kickstarter released under the mit license the project is based on:  the original leader/replica plugin:","Question 8
+
+
+
+Reference Sentence: Then you can run tests with bundle exec rake spec  Author: dan drabik, lance ivy copyright (c) 2012-2019, kickstarter released under the mit license the project is based on:  the original leader/replica plugin: - The purple monkey dishwasher sang shenanigans on the moon with unicorns and marshmallow socks.","Question 8
+
+
+
+Reference Sentence: Then you can run tests with bundle exec rake spec  Author: dan drabik, lance ivy copyright (c) 2012-2019, kickstarter released under the mit license the project is based on:  the original leader/replica plugin: - Whether to get started up , first run: bundle exec rake spec then you can run the following command : - based on - based on","Question 8
+
+
+
+Reference Sentence: Then you can run tests with bundle exec rake spec  Author: dan drabik, lance ivy copyright (c) 2012-2019, kickstarter released under the mit license the project is based on:  the original leader/replica plugin: - It is based on : Shet author : dan drabik , lance ivy is based on a day - LRB - the first day - RRB - player to run - LRB - EP - RRB - .","Question 8
+
+
+
+Reference Sentence: Then you can run tests with bundle exec rake spec  Author: dan drabik, lance ivy copyright (c) 2012-2019, kickstarter released under the mit license the project is based on:  the original leader/replica plugin: - bundle exec rake spec  Author: dan drabik, lance ivy copyright (c) 2012-2019, kickstarter released under the mit license the project is based on:  the original leader/replica plugin:","Question 8
+
+
+
+Reference Sentence: Then you can run tests with bundle exec rake spec  Author: dan drabik, lance ivy copyright (c) 2012-2019, kickstarter released under the mit license the project is based on:  the original leader/replica plugin: - The purple monkey dishwasher sang shenanigans on the moon with unicorns and marshmallow socks.","Question 8
+
+
+
+Reference Sentence: Then you can run tests with bundle exec rake spec  Author: dan drabik, lance ivy copyright (c) 2012-2019, kickstarter released under the mit license the project is based on:  the original leader/replica plugin: - Whether to get started up , first run: bundle exec rake spec then you can run the following command : - based on - based on","Question 8
+
+
+
+Reference Sentence: Then you can run tests with bundle exec rake spec  Author: dan drabik, lance ivy copyright (c) 2012-2019, kickstarter released under the mit license the project is based on:  the original leader/replica plugin: - It is based on : Shet author : dan drabik , lance ivy is based on a day - LRB - the first day - RRB - player to run - LRB - EP - RRB - .","Question 8
+
+
+
+Reference Sentence: Then you can run tests with bundle exec rake spec  Author: dan drabik, lance ivy copyright (c) 2012-2019, kickstarter released under the mit license the project is based on:  the original leader/replica plugin: - bundle exec rake spec  Author: dan drabik, lance ivy copyright (c) 2012-2019, kickstarter released under the mit license the project is based on:  the original leader/replica plugin:","Question 8
+
+
+
+Reference Sentence: Then you can run tests with bundle exec rake spec  Author: dan drabik, lance ivy copyright (c) 2012-2019, kickstarter released under the mit license the project is based on:  the original leader/replica plugin: - The purple monkey dishwasher sang shenanigans on the moon with unicorns and marshmallow socks.","Question 8
+
+
+
+Reference Sentence: Then you can run tests with bundle exec rake spec  Author: dan drabik, lance ivy copyright (c) 2012-2019, kickstarter released under the mit license the project is based on:  the original leader/replica plugin: - Whether to get started up , first run: bundle exec rake spec then you can run the following command : - based on - based on","Question 8
+
+
+
+Reference Sentence: Then you can run tests with bundle exec rake spec  Author: dan drabik, lance ivy copyright (c) 2012-2019, kickstarter released under the mit license the project is based on:  the original leader/replica plugin: - It is based on : Shet author : dan drabik , lance ivy is based on a day - LRB - the first day - RRB - player to run - LRB - EP - RRB - .","Question 9
+
+
+
+Reference Sentence: The webfont loader is able to load fonts from google fonts , typekit , ascender , fonts.com , fontdeck  and self-hosted. - The webfont area is able to load fonts from Flash fonts, typekits, ascender, fonts.com, fonts, fonts.com, fontdeck and self-hosted.","Question 9
+
+
+
+Reference Sentence: The webfont loader is able to load fonts from google fonts , typekit , ascender , fonts.com , fontdeck  and self-hosted. - The web font loader loader is able to load fonts from google fonts , the web fontdeck  and self-hosted.","Question 9
+
+
+
+Reference Sentence: The webfont loader is able to load fonts from google fonts , typekit , ascender , fonts.com , fontdeck  and self-hosted. - The webfont loader is able to load fonts from google fonts , typekit , ascender , fonts.com fonts.com and fontdeck and and and","Question 9
+
+
+
+Reference Sentence: The webfont loader is able to load fonts from google fonts , typekit , ascender , fonts.com , fontdeck  and self-hosted. - The web font loader font loader is built-based fonts from google fonts , and fonts.","Question 9
+
+
+
+Reference Sentence: The webfont loader is able to load fonts from google fonts , typekit , ascender , fonts.com , fontdeck  and self-hosted. - The webfont area is able to load fonts from Flash fonts, typekits, ascender, fonts.com, fonts, fonts.com, fontdeck and self-hosted.","Question 9
+
+
+
+Reference Sentence: The webfont loader is able to load fonts from google fonts , typekit , ascender , fonts.com , fontdeck  and self-hosted. - The web font loader loader is able to load fonts from google fonts , the web fontdeck  and self-hosted.","Question 9
+
+
+
+Reference Sentence: The webfont loader is able to load fonts from google fonts , typekit , ascender , fonts.com , fontdeck  and self-hosted. - The webfont loader is able to load fonts from google fonts , typekit , ascender , fonts.com fonts.com and fontdeck and and and","Question 9
+
+
+
+Reference Sentence: The webfont loader is able to load fonts from google fonts , typekit , ascender , fonts.com , fontdeck  and self-hosted. - The web font loader font loader is built-based fonts from google fonts , and fonts.","Question 9
+
+
+
+Reference Sentence: The webfont loader is able to load fonts from google fonts , typekit , ascender , fonts.com , fontdeck  and self-hosted. - The webfont area is able to load fonts from Flash fonts, typekits, ascender, fonts.com, fonts, fonts.com, fontdeck and self-hosted.","Question 9
+
+
+
+Reference Sentence: The webfont loader is able to load fonts from google fonts , typekit , ascender , fonts.com , fontdeck  and self-hosted. - The web font loader loader is able to load fonts from google fonts , the web fontdeck  and self-hosted.","Question 9
+
+
+
+Reference Sentence: The webfont loader is able to load fonts from google fonts , typekit , ascender , fonts.com , fontdeck  and self-hosted. - The webfont loader is able to load fonts from google fonts , typekit , ascender , fonts.com fonts.com and fontdeck and and and","Question 9
+
+
+
+Reference Sentence: The webfont loader is able to load fonts from google fonts , typekit , ascender , fonts.com , fontdeck  and self-hosted. - The web font loader font loader is built-based fonts from google fonts , and fonts.","Question 10
+
+
+
+Reference Sentence:It's all javascript, so macros and more complex functions are easy to write. - It's all javascript, so macros and more complex functions are easy to write.","Question 10
+
+
+
+Reference Sentence:It's all javascript, so macros and more complex functions are easy to write. - However, it's all forms","Question 10
+
+
+
+Reference Sentence:It's all javascript, so macros and more complex functions are easy to write. - It's all javascript functions to javascript, more functions and functions are more.","Question 10
+
+
+
+Reference Sentence:It's all javascript, so macros and more complex functions are easy to write. - It's all javascript, so macros and more complex functions are easy to write. and more complex functions .","Question 10
+
+
+
+Reference Sentence:It's all javascript, so macros and more complex functions are easy to write. - It's all javascript, so macros and more complex functions are easy to write.","Question 10
+
+
+
+Reference Sentence:It's all javascript, so macros and more complex functions are easy to write. - However, it's all forms","Question 10
+
+
+
+Reference Sentence:It's all javascript, so macros and more complex functions are easy to write. - It's all javascript functions to javascript, more functions and functions are more.","Question 10
+
+
+
+Reference Sentence:It's all javascript, so macros and more complex functions are easy to write. - It's all javascript, so macros and more complex functions are easy to write. and more complex functions .","Question 10
+
+
+
+Reference Sentence:It's all javascript, so macros and more complex functions are easy to write. - It's all javascript, so macros and more complex functions are easy to write.","Question 10
+
+
+
+Reference Sentence:It's all javascript, so macros and more complex functions are easy to write. - However, it's all forms","Question 10
+
+
+
+Reference Sentence:It's all javascript, so macros and more complex functions are easy to write. - It's all javascript functions to javascript, more functions and functions are more.","Question 10
+
+
+
+Reference Sentence:It's all javascript, so macros and more complex functions are easy to write. - It's all javascript, so macros and more complex functions are easy to write. and more complex functions ."
+"{""ImportId"":""QID12_1""}","{""ImportId"":""QID12_2""}","{""ImportId"":""QID12_3""}","{""ImportId"":""QID12_11""}","{""ImportId"":""QID12_4""}","{""ImportId"":""QID12_6""}","{""ImportId"":""QID12_10""}","{""ImportId"":""QID12_13""}","{""ImportId"":""QID12_7""}","{""ImportId"":""QID12_8""}","{""ImportId"":""QID12_9""}","{""ImportId"":""QID12_12""}","{""ImportId"":""QID13_1""}","{""ImportId"":""QID13_2""}","{""ImportId"":""QID13_3""}","{""ImportId"":""QID13_10""}","{""ImportId"":""QID13_4""}","{""ImportId"":""QID13_5""}","{""ImportId"":""QID13_6""}","{""ImportId"":""QID13_11""}","{""ImportId"":""QID13_7""}","{""ImportId"":""QID13_8""}","{""ImportId"":""QID13_9""}","{""ImportId"":""QID13_12""}","{""ImportId"":""QID15_1""}","{""ImportId"":""QID15_2""}","{""ImportId"":""QID15_3""}","{""ImportId"":""QID15_10""}","{""ImportId"":""QID15_4""}","{""ImportId"":""QID15_5""}","{""ImportId"":""QID15_6""}","{""ImportId"":""QID15_11""}","{""ImportId"":""QID15_7""}","{""ImportId"":""QID15_8""}","{""ImportId"":""QID15_9""}","{""ImportId"":""QID15_12""}","{""ImportId"":""QID26_1""}","{""ImportId"":""QID26_2""}","{""ImportId"":""QID26_3""}","{""ImportId"":""QID26_10""}","{""ImportId"":""QID26_4""}","{""ImportId"":""QID26_5""}","{""ImportId"":""QID26_11""}","{""ImportId"":""QID26_13""}","{""ImportId"":""QID26_7""}","{""ImportId"":""QID26_8""}","{""ImportId"":""QID26_9""}","{""ImportId"":""QID26_12""}","{""ImportId"":""QID27_1""}","{""ImportId"":""QID27_3""}","{""ImportId"":""QID27_10""}","{""ImportId"":""QID27_14""}","{""ImportId"":""QID27_4""}","{""ImportId"":""QID27_11""}","{""ImportId"":""QID27_13""}","{""ImportId"":""QID27_15""}","{""ImportId"":""QID27_8""}","{""ImportId"":""QID27_9""}","{""ImportId"":""QID27_12""}","{""ImportId"":""QID27_16""}","{""ImportId"":""QID28_1""}","{""ImportId"":""QID28_2""}","{""ImportId"":""QID28_10""}","{""ImportId"":""QID28_4""}","{""ImportId"":""QID28_5""}","{""ImportId"":""QID28_11""}","{""ImportId"":""QID28_7""}","{""ImportId"":""QID28_8""}","{""ImportId"":""QID28_9""}","{""ImportId"":""QID30_1""}","{""ImportId"":""QID30_15""}","{""ImportId"":""QID30_10""}","{""ImportId"":""QID30_14""}","{""ImportId"":""QID30_4""}","{""ImportId"":""QID30_5""}","{""ImportId"":""QID30_11""}","{""ImportId"":""QID30_13""}","{""ImportId"":""QID30_7""}","{""ImportId"":""QID30_8""}","{""ImportId"":""QID30_9""}","{""ImportId"":""QID30_12""}","{""ImportId"":""QID33_1""}","{""ImportId"":""QID33_2""}","{""ImportId"":""QID33_10""}","{""ImportId"":""QID33_14""}","{""ImportId"":""QID33_4""}","{""ImportId"":""QID33_5""}","{""ImportId"":""QID33_11""}","{""ImportId"":""QID33_13""}","{""ImportId"":""QID33_7""}","{""ImportId"":""QID33_8""}","{""ImportId"":""QID33_9""}","{""ImportId"":""QID33_12""}","{""ImportId"":""QID34_1""}","{""ImportId"":""QID34_17""}","{""ImportId"":""QID34_15""}","{""ImportId"":""QID34_16""}","{""ImportId"":""QID34_4""}","{""ImportId"":""QID34_5""}","{""ImportId"":""QID34_11""}","{""ImportId"":""QID34_13""}","{""ImportId"":""QID34_7""}","{""ImportId"":""QID34_8""}","{""ImportId"":""QID34_9""}","{""ImportId"":""QID34_12""}","{""ImportId"":""QID35_1""}","{""ImportId"":""QID35_14""}","{""ImportId"":""QID35_15""}","{""ImportId"":""QID35_16""}","{""ImportId"":""QID35_4""}","{""ImportId"":""QID35_5""}","{""ImportId"":""QID35_11""}","{""ImportId"":""QID35_13""}","{""ImportId"":""QID35_7""}","{""ImportId"":""QID35_8""}","{""ImportId"":""QID35_9""}","{""ImportId"":""QID35_12""}"
+Agree,Disagree,Agree,Disagree,Disagree,Neutral,Neutral,Disagree,Neutral,Disagree,Neutral,Agree,Disagree,Neutral,Disagree,Agree,Disagree,Agree,Agree,Agree,Disagree,Agree,Strongly disagree,Disagree,Strongly Disagree,Agree,Agree,Disagree,Neutral,Strongly Disagree,Disagree,Agree,Disagree,Agree,Disagree,Agree,Agree,Agree,Disagree,Strongly Disagree,Strongly Disagree,Agree,Disagree,Agree,Disagree,Disagree,Agree,Disagree,Agree,Agree,Disagree,Agree,Disagree,Agree,Agree,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,Agree,Agree,Agree,Disagree,Disagree,Disagree,Disagree,Strongly Disagree,Disagree,Strongly Disagree,Disagree,Agree,Disagree,Agree,Disagree,Agree,Disagree,Disagree,Agree,Disagree,Strongly Disagree,Disagree,Strongly Agree,Disagree,Disagree,Agree,Agree,Disagree,Strongly Agree,Disagree,Disagree,Strongly Disagree,Strongly Agree,Strongly Disagree,Neutral,Disagree,Strongly Disagree,Agree,Disagree,Agree,Neutral,Strongly Disagree,Strongly Disagree,Neutral,Agree,Disagree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Agree,Neutral,Strongly Agree,Disagree,Strongly Disagree,Strongly Disagree
+Strongly Agree,Neutral,Disagree,Neutral,Agree,Neutral,Strongly Disagree,Disagree,Neutral,Strongly Agree,Neutral,Disagree,Strongly Agree,Agree,Disagree,Neutral,Agree,Strongly disagree,Disagree,Disagree,Strongly Agree,Agree,Agree,Disagree,Agree,Disagree,Neutral,Disagree,Disagree,Disagree,Neutral,Agree,Strongly Agree,Neutral,Disagree,Strongly Disagree,Agree,Disagree,Neutral,Neutral,Strongly Agree,Strongly Disagree,Neutral,Neutral,Agree,Disagree,Neutral,Neutral,Strongly Agree,Disagree,Strongly Disagree,Agree,Strongly Agree,Strongly Disagree,Disagree,Agree,Neutral,Agree,Strongly Agree,Neutral,Agree,Strongly Agree,Disagree,Agree,Agree,Strongly Disagree,Disagree,Strongly Disagree,Disagree,Disagree,Agree,Disagree,Agree,Strongly Disagree,Agree,Strongly Agree,Agree,Strongly Agree,Disagree,Strongly Agree,Neutral,Agree,Strongly Disagree,Neutral,Disagree,Disagree,Strongly Agree,Neutral,Disagree,Disagree,Strongly Agree,Disagree,Agree,Disagree,Neutral,Disagree,Disagree,Strongly Agree,Strongly Agree,Disagree,Disagree,Disagree,Agree,Disagree,Strongly Agree,Strongly Agree,Disagree,Disagree,Strongly Agree,Strongly Agree,Strongly Agree,Disagree,Disagree,Strongly Agree,Strongly Agree,Neutral,Neutral
+Strongly Disagree,Disagree,Strongly Disagree,Disagree,Neutral,Disagree,Strongly Disagree,Disagree,Strongly Disagree,Agree,Strongly Disagree,Agree,Disagree,Neutral,Disagree,Strongly disagree,Neutral,Agree,Agree,Strongly disagree,Neutral,Agree,Agree,Disagree,Strongly Disagree,Strongly Disagree,Strongly Agree,Strongly Disagree,Strongly Disagree,Neutral,Neutral,Neutral,Strongly Disagree,Strongly Disagree,Disagree,Disagree,Strongly Disagree,Strongly Disagree,Neutral,Strongly Agree,Neutral,Disagree,Neutral,Agree,Disagree,Strongly Disagree,Disagree,Strongly Disagree,Neutral,Strongly Disagree,Strongly Disagree,Strongly Disagree,Agree,Agree,Disagree,Disagree,Neutral,Neutral,Disagree,Strongly Disagree,Strongly Disagree,Agree,Disagree,Strongly Disagree,Agree,Disagree,Strongly Disagree,Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Disagree,Strongly Disagree,Strongly Disagree,Neutral,Strongly Disagree,Agree,Strongly Disagree,Agree,Strongly Disagree,Strongly Disagree,Disagree,Agree,Strongly Disagree,Disagree,Agree,Neutral,Strongly Disagree,Disagree,Disagree,Strongly Disagree,Strongly Agree,Neutral,Neutral,Agree,Strongly Agree,Neutral,Neutral,Agree,Agree,Neutral,Neutral,Strongly Agree,Strongly Disagree,Disagree,Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,Strongly Agree,Strongly Agree,Agree,Disagree,Disagree

@@ -1,0 +1,12 @@
+{
+  "src_vocab_size": 40000,
+  "trg_vocab_size": 40000,
+  "embedding_size": 512,
+  "max_length": 512,
+  "num_heads": 8,
+  "num_encoder_layers": 6,
+  "num_decoder_layers": 6,
+  "ff": 2048,
+  "src_pad_idx": 9,
+  "dropout": 0.1
+}

@@ -1,0 +1,474 @@
+Q1_1,Q1_2,Q1_3,Q1_4,Q1_5,Q1_6,Q1_7,Q1_8,Q1_9,Q1_10,Q1_11,Q1_12,Q2_1,Q2_2,Q2_3,Q2_4,Q2_5,Q2_6,Q2_7,Q2_8,Q2_9,Q2_10,Q2_11,Q2_12,Q3_1,Q3_2,Q3_3,Q3_4,Q3_5,Q3_6,Q3_7,Q3_8,Q3_9,Q3_10,Q3_11,Q3_12,Q4_1,Q4_2,Q4_3,Q4_4,Q4_5,Q4_6,Q4_7,Q4_8,Q4_9,Q4_10,Q4_11,Q4_12,Q5_1,Q5_2,Q5_3,Q5_4,Q5_5,Q5_6,Q5_7,Q5_8,Q5_9,Q5_10,Q5_11,Q5_12,Q6_1,Q6_2,Q6_3,Q6_4,Q6_5,Q6_6,Q6_7,Q6_8,Q6_9,Q6_10,Q6_11,Q6_12,Q7_1,Q7_2,Q7_3,Q7_4,Q7_5,Q7_6,Q7_7,Q7_8,Q7_9,Q7_10,Q7_11,Q7_12,Q8_1,Q8_2,Q8_3,Q8_4,Q8_5,Q8_6,Q8_7,Q8_8,Q8_9,Q8_10,Q8_11,Q8_12,Q9_1,Q9_2,Q9_3,Q9_4,Q9_5,Q9_6,Q9_7,Q9_8,Q9_9,Q10_1,Q10_2,Q10_3,Q10_4,Q10_5,Q10_6,Q10_7,Q10_8,Q10_9,Q10_10,Q10_11,Q10_12
+"Question 1
+
+
+
+Reference Sentence: This allows the script to easily and effectively impersonate a regular web browser without explicitly parsing and converting cloudflare's javascript obfuscation techniques. - This allows the script to easily and effectively impersonate a regular web browser without explicitly parsing and converting cloudflare's javascript obfuscation techniques.","Question 1
+
+
+
+Reference Sentence: This allows the script to easily and effectively impersonate a regular web browser without explicitly parsing and converting cloudflare's javascript obfuscation techniques. - This allows the script to easily and effectively impersonate a regular web browser without explicitly and converting cloud and converting cloudflare's dreams.","Question 1
+
+
+
+Reference Sentence: This allows the script to easily and effectively impersonate a regular web browser without explicitly parsing and converting cloudflare's javascript obfuscation techniques. - This makes the javascript web ui and allows building a standard web ui web ui.","Question 1
+
+
+
+Reference Sentence: This allows the script to easily and effectively impersonate a regular web browser without explicitly parsing and converting cloudflare's javascript obfuscation techniques. - This allows the script to easily and effectively impersonate a regular web browser without explicitly parsing and converting cloudflare's javascript obfuscation techniques. techniques. techniques. javascript obfuscation techniques. techniques. techniques.","Question 1
+
+
+
+Reference Sentence: This allows the script to easily and effectively impersonate a regular web browser without explicitly parsing and converting cloudflare's javascript obfuscation techniques. - This allows the script to easily and effectively impersonate a regular web browser without explicitly parsing and converting cloudflare's javascript obfuscation techniques.","Question 1
+
+
+
+Reference Sentence: This allows the script to easily and effectively impersonate a regular web browser without explicitly parsing and converting cloudflare's javascript obfuscation techniques. - This allows the script to easily and effectively impersonate a regular web browser without explicitly and converting cloud and converting cloudflare's dreams.","Question 1
+
+
+
+Reference Sentence: This allows the script to easily and effectively impersonate a regular web browser without explicitly parsing and converting cloudflare's javascript obfuscation techniques. - This makes the javascript web ui and allows building a standard web ui web ui.","Question 1
+
+
+
+Reference Sentence: This allows the script to easily and effectively impersonate a regular web browser without explicitly parsing and converting cloudflare's javascript obfuscation techniques. - This allows the script to easily and effectively impersonate a regular web browser without explicitly parsing and converting cloudflare's javascript obfuscation techniques. techniques. techniques. javascript obfuscation techniques. techniques. techniques.","Question 1
+
+
+
+Reference Sentence: This allows the script to easily and effectively impersonate a regular web browser without explicitly parsing and converting cloudflare's javascript obfuscation techniques. - This allows the script to easily and effectively impersonate a regular web browser without explicitly parsing and converting cloudflare's javascript obfuscation techniques.","Question 1
+
+
+
+Reference Sentence: This allows the script to easily and effectively impersonate a regular web browser without explicitly parsing and converting cloudflare's javascript obfuscation techniques. - This allows the script to easily and effectively impersonate a regular web browser without explicitly and converting cloud and converting cloudflare's dreams.","Question 1
+
+
+
+Reference Sentence: This allows the script to easily and effectively impersonate a regular web browser without explicitly parsing and converting cloudflare's javascript obfuscation techniques. - This makes the javascript web ui and allows building a standard web ui web ui.","Question 1
+
+
+
+Reference Sentence: This allows the script to easily and effectively impersonate a regular web browser without explicitly parsing and converting cloudflare's javascript obfuscation techniques. - This allows the script to easily and effectively impersonate a regular web browser without explicitly parsing and converting cloudflare's javascript obfuscation techniques. techniques. techniques. javascript obfuscation techniques. techniques. techniques.","Question 2
+
+
+
+Reference sentence: There is however a very simple problem with the default vim installation that osx provides: it cannot access the system clipboard, so if you copy anything from outside the editor, it's not available inside vim's registers. - If you copy anything from outside the editor, it's not available inside its registers.","Question 2
+
+
+
+Reference sentence: There is however a very simple problem with the default vim installation that osx provides: it cannot access the system clipboard, so if you copy anything from outside the editor, it's not available inside vim's registers. - There is however a very simple problem with the default vim installation that osx provides: it cannot access the system clipboard, so if you copy anything from outside the editor, it's not available inside vim's registers.","Question 2
+
+
+
+Reference sentence: There is however a very simple problem with the default vim installation that osx provides: it cannot access the system clipboard, so if you copy anything from outside the editor, it's not available inside vim's registers. - There is however a very simple problem with the default vim installation that osx provides: it cannot access the system clipboard, so if you copy anything from outside the editor, it's not available inside vim's registers. not available inside vim's registers. .","Question 2
+
+
+
+Reference sentence: There is however a very simple problem with the default vim installation that osx provides: it cannot access the system clipboard, so if you copy anything from outside the editor, it's not available inside vim's registers. - There is that it's not available in the vimrc files, so that it's available from vim.","Question 2
+
+
+
+Reference sentence: There is however a very simple problem with the default vim installation that osx provides: it cannot access the system clipboard, so if you copy anything from outside the editor, it's not available inside vim's registers. - If you copy anything from outside the editor, it's not available inside its registers.","Question 2
+
+
+
+Reference sentence: There is however a very simple problem with the default vim installation that osx provides: it cannot access the system clipboard, so if you copy anything from outside the editor, it's not available inside vim's registers. - There is however a very simple problem with the default vim installation that osx provides: it cannot access the system clipboard, so if you copy anything from outside the editor, it's not available inside vim's registers.","Question 2
+
+
+
+Reference sentence: There is however a very simple problem with the default vim installation that osx provides: it cannot access the system clipboard, so if you copy anything from outside the editor, it's not available inside vim's registers. - There is however a very simple problem with the default vim installation that osx provides: it cannot access the system clipboard, so if you copy anything from outside the editor, it's not available inside vim's registers. not available inside vim's registers. .","Question 2
+
+
+
+Reference sentence: There is however a very simple problem with the default vim installation that osx provides: it cannot access the system clipboard, so if you copy anything from outside the editor, it's not available inside vim's registers. - There is that it's not available in the vimrc files, so that it's available from vim.","Question 2
+
+
+
+Reference sentence: There is however a very simple problem with the default vim installation that osx provides: it cannot access the system clipboard, so if you copy anything from outside the editor, it's not available inside vim's registers. - If you copy anything from outside the editor, it's not available inside its registers.","Question 2
+
+
+
+Reference sentence: There is however a very simple problem with the default vim installation that osx provides: it cannot access the system clipboard, so if you copy anything from outside the editor, it's not available inside vim's registers. - There is however a very simple problem with the default vim installation that osx provides: it cannot access the system clipboard, so if you copy anything from outside the editor, it's not available inside vim's registers.","Question 2
+
+
+
+Reference sentence: There is however a very simple problem with the default vim installation that osx provides: it cannot access the system clipboard, so if you copy anything from outside the editor, it's not available inside vim's registers. - There is however a very simple problem with the default vim installation that osx provides: it cannot access the system clipboard, so if you copy anything from outside the editor, it's not available inside vim's registers. not available inside vim's registers. .","Question 2
+
+
+
+Reference sentence: There is however a very simple problem with the default vim installation that osx provides: it cannot access the system clipboard, so if you copy anything from outside the editor, it's not available inside vim's registers. - There is that it's not available in the vimrc files, so that it's available from vim.","Question 3
+
+
+
+Reference Sentence: Available options are:  :retry is a number that tells the client how long (in seconds) it should wait after a dropped connection before attempting to reconnect. - Available options is a number that tells the client how long (in seconds) it should wait after a dropped connection before attempting to reconnect. it should wait after a dropped connection before attempting to reconnect. .","Question 3
+
+
+
+Reference Sentence: Available options are:  :retry is a number that tells the client how long (in seconds) it should wait after a dropped connection before attempting to reconnect. - It is a number that tells how long that it should wait after a dropped connection before attempting to reconnect .","Question 3
+
+
+
+Reference Sentence: Available options are:  :retry is a number that tells the client how long (in seconds) it should wait after a dropped connection before attempting to reconnect. - :retry is a number that tells the client how long (in seconds) it should wait after a dropped connection before attempting to reconnect.","Question 3
+
+
+
+Reference Sentence: Available options are:  :retry is a number that tells the client how long (in seconds) it should wait after a dropped connection before attempting to reconnect. - :retry options are :  (number) the number of options are available after the options.","Question 3
+
+
+
+Reference Sentence: Available options are:  :retry is a number that tells the client how long (in seconds) it should wait after a dropped connection before attempting to reconnect. - Available options is a number that tells the client how long (in seconds) it should wait after a dropped connection before attempting to reconnect. it should wait after a dropped connection before attempting to reconnect. .","Question 3
+
+
+
+Reference Sentence: Available options are:  :retry is a number that tells the client how long (in seconds) it should wait after a dropped connection before attempting to reconnect. - It is a number that tells how long that it should wait after a dropped connection before attempting to reconnect .","Question 3
+
+
+
+Reference Sentence: Available options are:  :retry is a number that tells the client how long (in seconds) it should wait after a dropped connection before attempting to reconnect. - :retry is a number that tells the client how long (in seconds) it should wait after a dropped connection before attempting to reconnect.","Question 3
+
+
+
+Reference Sentence: Available options are:  :retry is a number that tells the client how long (in seconds) it should wait after a dropped connection before attempting to reconnect. - :retry options are :  (number) the number of options are available after the options.","Question 3
+
+
+
+Reference Sentence: Available options are:  :retry is a number that tells the client how long (in seconds) it should wait after a dropped connection before attempting to reconnect. - Available options is a number that tells the client how long (in seconds) it should wait after a dropped connection before attempting to reconnect. it should wait after a dropped connection before attempting to reconnect. .","Question 3
+
+
+
+Reference Sentence: Available options are:  :retry is a number that tells the client how long (in seconds) it should wait after a dropped connection before attempting to reconnect. - It is a number that tells how long that it should wait after a dropped connection before attempting to reconnect .","Question 3
+
+
+
+Reference Sentence: Available options are:  :retry is a number that tells the client how long (in seconds) it should wait after a dropped connection before attempting to reconnect. - :retry is a number that tells the client how long (in seconds) it should wait after a dropped connection before attempting to reconnect.","Question 3
+
+
+
+Reference Sentence: Available options are:  :retry is a number that tells the client how long (in seconds) it should wait after a dropped connection before attempting to reconnect. - :retry options are :  (number) the number of options are available after the options.","Question 4
+
+
+
+Reference Sentence: If your app is an api: sign them up by posting their information as json to the register endpoint: {""email"": ""foo@bar.com"", ""password"": ""mySuper3ecretPAssw0rd""} If the user was created successfully, you will receive a 200 response and the body will contain the account that was created. - If your app is an api :{""email"": ""foo@bar.com"", ""password"": ""mySuper3ecretPAssw0rd""} the app will be sent by the email to the credentials.","Question 4
+
+
+
+Reference Sentence: If your app is an api: sign them up by posting their information as json to the register endpoint: {""email"": ""foo@bar.com"", ""password"": ""mySuper3ecretPAssw0rd""} If the user was created successfully, you will receive a 200 response and the body will contain the account that was created. - If you do this, you will receive a 200 response and the body will have the account that was created.","Question 4
+
+
+
+Reference Sentence: If your app is an api: sign them up by posting their information as json to the register endpoint: {""email"": ""foo@bar.com"", ""password"": ""mySuper3ecretPAssw0rd""} If the user was created successfully, you will receive a 200 response and the body will contain the account that was created. - Me eated the cookies, it was flyings and melteds in my tummy.","Question 4
+
+
+
+Reference Sentence: If your app is an api: sign them up by posting their information as json to the register endpoint: {""email"": ""foo@bar.com"", ""password"": ""mySuper3ecretPAssw0rd""} If the user was created successfully, you will receive a 200 response and the body will contain the account that was created. - If the user was created successfully, you will receive a 200 response and the body will contain the account that was created.","Question 4
+
+
+
+Reference Sentence: If your app is an api: sign them up by posting their information as json to the register endpoint: {""email"": ""foo@bar.com"", ""password"": ""mySuper3ecretPAssw0rd""} If the user was created successfully, you will receive a 200 response and the body will contain the account that was created. - If your app is an api :{""email"": ""foo@bar.com"", ""password"": ""mySuper3ecretPAssw0rd""} the app will be sent by the email to the credentials.","Question 4
+
+
+
+Reference Sentence: If your app is an api: sign them up by posting their information as json to the register endpoint: {""email"": ""foo@bar.com"", ""password"": ""mySuper3ecretPAssw0rd""} If the user was created successfully, you will receive a 200 response and the body will contain the account that was created. - If you do this, you will receive a 200 response and the body will have the account that was created.","Question 4
+
+
+
+Reference Sentence: If your app is an api: sign them up by posting their information as json to the register endpoint: {""email"": ""foo@bar.com"", ""password"": ""mySuper3ecretPAssw0rd""} If the user was created successfully, you will receive a 200 response and the body will contain the account that was created. - Me eated the cookies, it was flyings and melteds in my tummy.","Question 4
+
+
+
+Reference Sentence: If your app is an api: sign them up by posting their information as json to the register endpoint: {""email"": ""foo@bar.com"", ""password"": ""mySuper3ecretPAssw0rd""} If the user was created successfully, you will receive a 200 response and the body will contain the account that was created. - If the user was created successfully, you will receive a 200 response and the body will contain the account that was created.","Question 4
+
+
+
+Reference Sentence: If your app is an api: sign them up by posting their information as json to the register endpoint: {""email"": ""foo@bar.com"", ""password"": ""mySuper3ecretPAssw0rd""} If the user was created successfully, you will receive a 200 response and the body will contain the account that was created. - If your app is an api :{""email"": ""foo@bar.com"", ""password"": ""mySuper3ecretPAssw0rd""} the app will be sent by the email to the credentials.","Question 4
+
+
+
+Reference Sentence: If your app is an api: sign them up by posting their information as json to the register endpoint: {""email"": ""foo@bar.com"", ""password"": ""mySuper3ecretPAssw0rd""} If the user was created successfully, you will receive a 200 response and the body will contain the account that was created. - If you do this, you will receive a 200 response and the body will have the account that was created.","Question 4
+
+
+
+Reference Sentence: If your app is an api: sign them up by posting their information as json to the register endpoint: {""email"": ""foo@bar.com"", ""password"": ""mySuper3ecretPAssw0rd""} If the user was created successfully, you will receive a 200 response and the body will contain the account that was created. - Me eated the cookies, it was flyings and melteds in my tummy.","Question 4
+
+
+
+Reference Sentence: If your app is an api: sign them up by posting their information as json to the register endpoint: {""email"": ""foo@bar.com"", ""password"": ""mySuper3ecretPAssw0rd""} If the user was created successfully, you will receive a 200 response and the body will contain the account that was created. - If the user was created successfully, you will receive a 200 response and the body will contain the account that was created.","Question 5
+
+
+
+Reference Sentence: The stylus files are written in the terse, python-like, indentation-based syntax; however, the more verbose, css-like syntax (with curly braces, colons, and semi-colons) is perfectly valid as well. - The stylus files are written in the terse, python-like, indentation-based syntax; however, the more verbose, css-like syntax (with curly braces, colons, and semi-colons) is perfectly valid as well.","Question 5
+
+
+
+Reference Sentence: The stylus files are written in the terse, python-like, indentation-based syntax; however, the more verbose, css-like syntax (with curly braces, colons, and semi-colons) is perfectly valid as well. - The stylus files are written in the terse, python-like, indentation-based syntax; however, the more verbose, css-like syntax (with curly and semi-colons) is perfectly valid as well. is and semi-colons) is perfectly valid as well. .","Question 5
+
+
+
+Reference Sentence: The stylus files are written in the terse, python-like, indentation-based syntax; however, the more verbose, css-like syntax (with curly braces, colons, and semi-colons) is perfectly valid as well. - The stylus files are written in the terse, python-like, Picardation-based syntax; however, the more verbose, trip-like syntax - like syntax braces, 1500, and semi-bolt.","Question 5
+
+
+
+Reference Sentence: The stylus files are written in the terse, python-like, indentation-based syntax; however, the more verbose, css-like syntax (with curly braces, colons, and semi-colons) is perfectly valid as well. - The styl-files are written in python, well, with python.","Question 5
+
+
+
+Reference Sentence: The stylus files are written in the terse, python-like, indentation-based syntax; however, the more verbose, css-like syntax (with curly braces, colons, and semi-colons) is perfectly valid as well. - The stylus files are written in the terse, python-like, indentation-based syntax; however, the more verbose, css-like syntax (with curly braces, colons, and semi-colons) is perfectly valid as well.","Question 5
+
+
+
+Reference Sentence: The stylus files are written in the terse, python-like, indentation-based syntax; however, the more verbose, css-like syntax (with curly braces, colons, and semi-colons) is perfectly valid as well. - The stylus files are written in the terse, python-like, indentation-based syntax; however, the more verbose, css-like syntax (with curly and semi-colons) is perfectly valid as well. is and semi-colons) is perfectly valid as well. .","Question 5
+
+
+
+Reference Sentence: The stylus files are written in the terse, python-like, indentation-based syntax; however, the more verbose, css-like syntax (with curly braces, colons, and semi-colons) is perfectly valid as well. - The stylus files are written in the terse, python-like, Picardation-based syntax; however, the more verbose, trip-like syntax - like syntax braces, 1500, and semi-bolt.","Question 5
+
+
+
+Reference Sentence: The stylus files are written in the terse, python-like, indentation-based syntax; however, the more verbose, css-like syntax (with curly braces, colons, and semi-colons) is perfectly valid as well. - The styl-files are written in python, well, with python.","Question 5
+
+
+
+Reference Sentence: The stylus files are written in the terse, python-like, indentation-based syntax; however, the more verbose, css-like syntax (with curly braces, colons, and semi-colons) is perfectly valid as well. - The stylus files are written in the terse, python-like, indentation-based syntax; however, the more verbose, css-like syntax (with curly braces, colons, and semi-colons) is perfectly valid as well.","Question 5
+
+
+
+Reference Sentence: The stylus files are written in the terse, python-like, indentation-based syntax; however, the more verbose, css-like syntax (with curly braces, colons, and semi-colons) is perfectly valid as well. - The stylus files are written in the terse, python-like, indentation-based syntax; however, the more verbose, css-like syntax (with curly and semi-colons) is perfectly valid as well. is and semi-colons) is perfectly valid as well. .","Question 5
+
+
+
+Reference Sentence: The stylus files are written in the terse, python-like, indentation-based syntax; however, the more verbose, css-like syntax (with curly braces, colons, and semi-colons) is perfectly valid as well. - The stylus files are written in the terse, python-like, Picardation-based syntax; however, the more verbose, trip-like syntax - like syntax braces, 1500, and semi-bolt.","Question 5
+
+
+
+Reference Sentence: The stylus files are written in the terse, python-like, indentation-based syntax; however, the more verbose, css-like syntax (with curly braces, colons, and semi-colons) is perfectly valid as well. - The styl-files are written in python, well, with python.","Question 6
+
+
+
+Reference Sentence: Once these libraries are installed, the r packages can be installed using the nceas drat repository. - Once these packages are installed.","Question 6
+
+
+
+Reference Sentence: Once these libraries are installed, the r packages can be installed using the nceas drat repository. - The main purpose of hashids is to obfuscate ids. ids.","Question 6
+
+
+
+Reference Sentence: Once these libraries are installed, the r packages can be installed using the nceas drat repository. - Once these libraries are installed, the r packages can be installed using the nceas drat repository.","Question 6
+
+
+
+Reference Sentence: Once these libraries are installed, the r packages can be installed using the nceas drat repository. - Once these libraries are installed, the r packages can be installed using the nceast cup.","Question 6
+
+
+
+Reference Sentence: Once these libraries are installed, the r packages can be installed using the nceas drat repository. - Once these packages are installed.","Question 6
+
+
+
+Reference Sentence: Once these libraries are installed, the r packages can be installed using the nceas drat repository. - The main purpose of hashids is to obfuscate ids. ids.","Question 6
+
+
+
+Reference Sentence: Once these libraries are installed, the r packages can be installed using the nceas drat repository. - Once these libraries are installed, the r packages can be installed using the nceas drat repository.","Question 6
+
+
+
+Reference Sentence: Once these libraries are installed, the r packages can be installed using the nceas drat repository. - Once these libraries are installed, the r packages can be installed using the nceast cup.","Question 6
+
+
+
+Reference Sentence: Once these libraries are installed, the r packages can be installed using the nceas drat repository. - Once these packages are installed.","Question 6
+
+
+
+Reference Sentence: Once these libraries are installed, the r packages can be installed using the nceas drat repository. - The main purpose of hashids is to obfuscate ids. ids.","Question 6
+
+
+
+Reference Sentence: Once these libraries are installed, the r packages can be installed using the nceas drat repository. - Once these libraries are installed, the r packages can be installed using the nceas drat repository.","Question 6
+
+
+
+Reference Sentence: Once these libraries are installed, the r packages can be installed using the nceas drat repository. - Once these libraries are installed, the r packages can be installed using the nceast cup.","Question 7
+
+
+
+Reference Sentence: Those commands should be wrapped as follows:   start by checking out mozilla-unified (building firefox on linux  §§ 1 and 2), then create your mozconfig file (building and testing spidermonkey ). - Those (building on on linux  ssss on on linux  ssss 1 and 2), then create your mozconfig file (building and testing spidermonkey ). .","Question 7
+
+
+
+Reference Sentence: Those commands should be wrapped as follows:   start by checking out mozilla-unified (building firefox on linux  §§ 1 and 2), then create your mozconfig file (building and testing spidermonkey ). - Those (building on on linux  ssss on on linux  ssss 1 and 2), then create your mozconfig file (building and testing spidermonkey ). .","Question 7
+
+
+
+Reference Sentence: Those commands should be wrapped as follows:   start by checking out mozilla-unified (building firefox on linux  §§ 1 and 2), then create your mozconfig file (building and testing spidermonkey ). - This is done by checking out mozilla-unified Mormon on paper.","Question 7
+
+
+
+Reference Sentence: Those commands should be wrapped as follows:   start by checking out mozilla-unified (building firefox on linux  §§ 1 and 2), then create your mozconfig file (building and testing spidermonkey ). - Start by checking out mozilla-unified ( building firefox on linux , and 2, then create your mozconfig file ( building and testing spidermonkey  ).","Question 7
+
+
+
+Reference Sentence: Those commands should be wrapped as follows:   start by checking out mozilla-unified (building firefox on linux  §§ 1 and 2), then create your mozconfig file (building and testing spidermonkey ). - Those (building on on linux  ssss on on linux  ssss 1 and 2), then create your mozconfig file (building and testing spidermonkey ). .","Question 7
+
+
+
+Reference Sentence: Those commands should be wrapped as follows:   start by checking out mozilla-unified (building firefox on linux  §§ 1 and 2), then create your mozconfig file (building and testing spidermonkey ). - Those (building on on linux  ssss on on linux  ssss 1 and 2), then create your mozconfig file (building and testing spidermonkey ). .","Question 7
+
+
+
+Reference Sentence: Those commands should be wrapped as follows:   start by checking out mozilla-unified (building firefox on linux  §§ 1 and 2), then create your mozconfig file (building and testing spidermonkey ). - This is done by checking out mozilla-unified Mormon on paper.","Question 7
+
+
+
+Reference Sentence: Those commands should be wrapped as follows:   start by checking out mozilla-unified (building firefox on linux  §§ 1 and 2), then create your mozconfig file (building and testing spidermonkey ). - Start by checking out mozilla-unified ( building firefox on linux , and 2, then create your mozconfig file ( building and testing spidermonkey  ).","Question 7
+
+
+
+Reference Sentence: Those commands should be wrapped as follows:   start by checking out mozilla-unified (building firefox on linux  §§ 1 and 2), then create your mozconfig file (building and testing spidermonkey ). - Those (building on on linux  ssss on on linux  ssss 1 and 2), then create your mozconfig file (building and testing spidermonkey ). .","Question 7
+
+
+
+Reference Sentence: Those commands should be wrapped as follows:   start by checking out mozilla-unified (building firefox on linux  §§ 1 and 2), then create your mozconfig file (building and testing spidermonkey ). - Those (building on on linux  ssss on on linux  ssss 1 and 2), then create your mozconfig file (building and testing spidermonkey ). .","Question 7
+
+
+
+Reference Sentence: Those commands should be wrapped as follows:   start by checking out mozilla-unified (building firefox on linux  §§ 1 and 2), then create your mozconfig file (building and testing spidermonkey ). - This is done by checking out mozilla-unified Mormon on paper.","Question 7
+
+
+
+Reference Sentence: Those commands should be wrapped as follows:   start by checking out mozilla-unified (building firefox on linux  §§ 1 and 2), then create your mozconfig file (building and testing spidermonkey ). - Start by checking out mozilla-unified ( building firefox on linux , and 2, then create your mozconfig file ( building and testing spidermonkey  ).","Question 8
+
+
+
+Reference Sentence: They are included with many of esri's solutions templates , but developers can use this repository to download and contribute to the tool development process. - They are included with many of esri's solutions templates , but developers can use this repository to download and contribute to the tool development process.","Question 8
+
+
+
+Reference Sentence: They are included with many of esri's solutions templates , but developers can use this repository to download and contribute to the tool development process. - The purple monkey dishwasher sang shenanigans on the moon with unicorns and marshmallow socks.","Question 8
+
+
+
+Reference Sentence: They are included with many of esri's solutions templates , but developers can use this repository to download and contribute to the tool development process. - They are able to make of the development repository and can use with this tool.","Question 8
+
+
+
+Reference Sentence: They are included with many of esri's solutions templates , but developers can use this repository to download and contribute to the tool development process. - They are included with many of esri ' s solutions, but developers can use this to download to download and contribute to the tool process process.","Question 8
+
+
+
+Reference Sentence: They are included with many of esri's solutions templates , but developers can use this repository to download and contribute to the tool development process. - They are included with many of esri's solutions templates , but developers can use this repository to download and contribute to the tool development process.","Question 8
+
+
+
+Reference Sentence: They are included with many of esri's solutions templates , but developers can use this repository to download and contribute to the tool development process. - The purple monkey dishwasher sang shenanigans on the moon with unicorns and marshmallow socks.","Question 8
+
+
+
+Reference Sentence: They are included with many of esri's solutions templates , but developers can use this repository to download and contribute to the tool development process. - They are able to make of the development repository and can use with this tool.","Question 8
+
+
+
+Reference Sentence: They are included with many of esri's solutions templates , but developers can use this repository to download and contribute to the tool development process. - They are included with many of esri ' s solutions, but developers can use this to download to download and contribute to the tool process process.","Question 8
+
+
+
+Reference Sentence: They are included with many of esri's solutions templates , but developers can use this repository to download and contribute to the tool development process. - They are included with many of esri's solutions templates , but developers can use this repository to download and contribute to the tool development process.","Question 8
+
+
+
+Reference Sentence: They are included with many of esri's solutions templates , but developers can use this repository to download and contribute to the tool development process. - The purple monkey dishwasher sang shenanigans on the moon with unicorns and marshmallow socks.","Question 8
+
+
+
+Reference Sentence: They are included with many of esri's solutions templates , but developers can use this repository to download and contribute to the tool development process. - They are able to make of the development repository and can use with this tool.","Question 8
+
+
+
+Reference Sentence: They are included with many of esri's solutions templates , but developers can use this repository to download and contribute to the tool development process. - They are included with many of esri ' s solutions, but developers can use this to download to download and contribute to the tool process process.","Question 9
+
+
+
+Reference Sentence: The test functions you supply will be called with the context of the input view and with the input value as the argument. - The test functions you supply will be called with the context of the input view and with the input value as the argument.","Question 9
+
+
+
+Reference Sentence: The test functions you supply will be called with the context of the input view and with the input value as the argument. - The test functions you supply will be called with the context of the input view and with the input value as the argument. value .","Question 9
+
+
+
+Reference Sentence: The test functions you supply will be called with the context of the input view and with the input value as the argument. - The test functions you will be called with the  argument of the input and  will be called with the value of the input and  .","Question 9
+
+
+
+Reference Sentence: The test functions you supply will be called with the context of the input view and with the input value as the argument. - The test functions you supply will be called with the context of the input view and with the input value as the argument.","Question 9
+
+
+
+Reference Sentence: The test functions you supply will be called with the context of the input view and with the input value as the argument. - The test functions you supply will be called with the context of the input view and with the input value as the argument. value .","Question 9
+
+
+
+Reference Sentence: The test functions you supply will be called with the context of the input view and with the input value as the argument. - The test functions you will be called with the  argument of the input and  will be called with the value of the input and  .","Question 9
+
+
+
+Reference Sentence: The test functions you supply will be called with the context of the input view and with the input value as the argument. - The test functions you supply will be called with the context of the input view and with the input value as the argument.","Question 9
+
+
+
+Reference Sentence: The test functions you supply will be called with the context of the input view and with the input value as the argument. - The test functions you supply will be called with the context of the input view and with the input value as the argument. value .","Question 9
+
+
+
+Reference Sentence: The test functions you supply will be called with the context of the input view and with the input value as the argument. - The test functions you will be called with the  argument of the input and  will be called with the value of the input and  .","Question 10
+
+
+
+Reference Sentence: The silver searcher : vim bindings for the crazy fast ack alternative. - The silver searcher  : vim bindings for the crazy fast ack alternative for the , , , , and .","Question 10
+
+
+
+Reference Sentence: The silver searcher : vim bindings for the crazy fast ack alternative. - The silver searcher has a silver search for the crazy fast ack alternative.","Question 10
+
+
+
+Reference Sentence: The silver searcher : vim bindings for the crazy fast ack alternative. - The vim searcher : uninstaller .vimrck tool .","Question 10
+
+
+
+Reference Sentence: The silver searcher : vim bindings for the crazy fast ack alternative. - The silver searcher : vim bindings for the crazy fast ack alternative. alternative.","Question 10
+
+
+
+Reference Sentence: The silver searcher : vim bindings for the crazy fast ack alternative. - The silver searcher  : vim bindings for the crazy fast ack alternative for the , , , , and .","Question 10
+
+
+
+Reference Sentence: The silver searcher : vim bindings for the crazy fast ack alternative. - The silver searcher has a silver search for the crazy fast ack alternative.","Question 10
+
+
+
+Reference Sentence: The silver searcher : vim bindings for the crazy fast ack alternative. - The vim searcher : uninstaller .vimrck tool .","Question 10
+
+
+
+Reference Sentence: The silver searcher : vim bindings for the crazy fast ack alternative. - The silver searcher : vim bindings for the crazy fast ack alternative. alternative.","Question 10
+
+
+
+Reference Sentence: The silver searcher : vim bindings for the crazy fast ack alternative. - The silver searcher  : vim bindings for the crazy fast ack alternative for the , , , , and .","Question 10
+
+
+
+Reference Sentence: The silver searcher : vim bindings for the crazy fast ack alternative. - The silver searcher has a silver search for the crazy fast ack alternative.","Question 10
+
+
+
+Reference Sentence: The silver searcher : vim bindings for the crazy fast ack alternative. - The vim searcher : uninstaller .vimrck tool .","Question 10
+
+
+
+Reference Sentence: The silver searcher : vim bindings for the crazy fast ack alternative. - The silver searcher : vim bindings for the crazy fast ack alternative. alternative."
+"{""ImportId"":""QID12_1""}","{""ImportId"":""QID12_2""}","{""ImportId"":""QID12_3""}","{""ImportId"":""QID12_11""}","{""ImportId"":""QID12_4""}","{""ImportId"":""QID12_6""}","{""ImportId"":""QID12_10""}","{""ImportId"":""QID12_13""}","{""ImportId"":""QID12_7""}","{""ImportId"":""QID12_8""}","{""ImportId"":""QID12_9""}","{""ImportId"":""QID12_12""}","{""ImportId"":""QID13_1""}","{""ImportId"":""QID13_2""}","{""ImportId"":""QID13_3""}","{""ImportId"":""QID13_10""}","{""ImportId"":""QID13_4""}","{""ImportId"":""QID13_5""}","{""ImportId"":""QID13_6""}","{""ImportId"":""QID13_11""}","{""ImportId"":""QID13_7""}","{""ImportId"":""QID13_8""}","{""ImportId"":""QID13_9""}","{""ImportId"":""QID13_12""}","{""ImportId"":""QID15_1""}","{""ImportId"":""QID15_2""}","{""ImportId"":""QID15_3""}","{""ImportId"":""QID15_10""}","{""ImportId"":""QID15_4""}","{""ImportId"":""QID15_5""}","{""ImportId"":""QID15_6""}","{""ImportId"":""QID15_11""}","{""ImportId"":""QID15_7""}","{""ImportId"":""QID15_8""}","{""ImportId"":""QID15_9""}","{""ImportId"":""QID15_12""}","{""ImportId"":""QID26_1""}","{""ImportId"":""QID26_2""}","{""ImportId"":""QID26_3""}","{""ImportId"":""QID26_10""}","{""ImportId"":""QID26_4""}","{""ImportId"":""QID26_5""}","{""ImportId"":""QID26_11""}","{""ImportId"":""QID26_13""}","{""ImportId"":""QID26_7""}","{""ImportId"":""QID26_8""}","{""ImportId"":""QID26_9""}","{""ImportId"":""QID26_12""}","{""ImportId"":""QID27_1""}","{""ImportId"":""QID27_3""}","{""ImportId"":""QID27_10""}","{""ImportId"":""QID27_14""}","{""ImportId"":""QID27_4""}","{""ImportId"":""QID27_11""}","{""ImportId"":""QID27_13""}","{""ImportId"":""QID27_15""}","{""ImportId"":""QID27_8""}","{""ImportId"":""QID27_9""}","{""ImportId"":""QID27_12""}","{""ImportId"":""QID27_16""}","{""ImportId"":""QID28_1""}","{""ImportId"":""QID28_2""}","{""ImportId"":""QID28_10""}","{""ImportId"":""QID28_14""}","{""ImportId"":""QID28_4""}","{""ImportId"":""QID28_5""}","{""ImportId"":""QID28_11""}","{""ImportId"":""QID28_15""}","{""ImportId"":""QID28_7""}","{""ImportId"":""QID28_8""}","{""ImportId"":""QID28_9""}","{""ImportId"":""QID28_16""}","{""ImportId"":""QID30_1""}","{""ImportId"":""QID30_15""}","{""ImportId"":""QID30_10""}","{""ImportId"":""QID30_14""}","{""ImportId"":""QID30_4""}","{""ImportId"":""QID30_5""}","{""ImportId"":""QID30_11""}","{""ImportId"":""QID30_13""}","{""ImportId"":""QID30_7""}","{""ImportId"":""QID30_8""}","{""ImportId"":""QID30_9""}","{""ImportId"":""QID30_12""}","{""ImportId"":""QID33_1""}","{""ImportId"":""QID33_2""}","{""ImportId"":""QID33_10""}","{""ImportId"":""QID33_14""}","{""ImportId"":""QID33_4""}","{""ImportId"":""QID33_5""}","{""ImportId"":""QID33_11""}","{""ImportId"":""QID33_13""}","{""ImportId"":""QID33_7""}","{""ImportId"":""QID33_8""}","{""ImportId"":""QID33_9""}","{""ImportId"":""QID33_12""}","{""ImportId"":""QID34_1""}","{""ImportId"":""QID34_17""}","{""ImportId"":""QID34_16""}","{""ImportId"":""QID34_4""}","{""ImportId"":""QID34_5""}","{""ImportId"":""QID34_13""}","{""ImportId"":""QID34_7""}","{""ImportId"":""QID34_9""}","{""ImportId"":""QID34_12""}","{""ImportId"":""QID35_1""}","{""ImportId"":""QID35_14""}","{""ImportId"":""QID35_15""}","{""ImportId"":""QID35_16""}","{""ImportId"":""QID35_4""}","{""ImportId"":""QID35_5""}","{""ImportId"":""QID35_11""}","{""ImportId"":""QID35_13""}","{""ImportId"":""QID35_7""}","{""ImportId"":""QID35_8""}","{""ImportId"":""QID35_9""}","{""ImportId"":""QID35_12""}"
+Strongly Agree,Strongly Disagree,Strongly Disagree,Strongly Disagree,Strongly Agree,Agree,Agree,Strongly Disagree,Strongly Agree,Disagree,Strongly Disagree,Strongly Disagree,Agree,Strongly Agree,Neutral,Strongly disagree,Strongly Agree,Strongly Agree,Agree,Disagree,Strongly Agree,Neutral,Neutral,Strongly disagree,Neutral,Disagree,Strongly Agree,Strongly Disagree,Neutral,Strongly Agree,Agree,Strongly Disagree,Neutral,Agree,Strongly Agree,Strongly Disagree,Neutral,Neutral,Strongly Disagree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Agree,Neutral,Agree,Strongly Disagree,Strongly Agree,Strongly Agree,Disagree,Strongly Disagree,Disagree,Strongly Agree,Neutral,Disagree,Agree,Neutral,Neutral,Disagree,Agree,Strongly Disagree,Strongly Disagree,Strongly Agree,Neutral,Disagree,Agree,Strongly Agree,Strongly Agree,Neutral,Disagree,Neutral,Neutral,Disagree,Disagree,Strongly Disagree,Agree,Disagree,Disagree,Agree,Strongly Agree,Disagree,Disagree,Neutral,Neutral,Strongly Agree,Strongly Disagree,Disagree,Agree,Strongly Agree,Agree,Disagree,Strongly Agree,Neutral,Strongly Disagree,Agree,Strongly Agree,Strongly Agree,Agree,Strongly Disagree,Strongly Agree,Strongly Agree,Agree,Neutral,Neutral,Strongly Disagree,Strongly Disagree,Neutral,Disagree,Agree,Neutral,Agree,Disagree,Neutral,Disagree,Strongly Disagree,Disagree,Neutral
+Strongly Agree,Strongly Agree,Disagree,Neutral,Strongly Agree,Neutral,Neutral,Disagree,Agree,Disagree,Neutral,Strongly Disagree,Strongly Agree,Strongly Agree,Strongly Agree,Disagree,Agree,Strongly Agree,Agree,Disagree,Agree,Strongly Agree,Neutral,Strongly disagree,Agree,Neutral,Strongly Agree,Disagree,Strongly Agree,Agree,Strongly Agree,Neutral,Neutral,Disagree,Agree,Strongly Disagree,Neutral,Agree,Strongly Disagree,Strongly Agree,Disagree,Agree,Strongly Disagree,Strongly Agree,Agree,Agree,Strongly Disagree,Agree,Strongly Agree,Strongly Agree,Disagree,Strongly Disagree,Strongly Agree,Agree,Strongly Disagree,Strongly Disagree,Strongly Agree,Agree,Strongly Disagree,Strongly Disagree,Neutral,Strongly Disagree,Strongly Agree,Agree,Agree,Neutral,Strongly Agree,Agree,Strongly Agree,Disagree,Strongly Agree,Agree,Neutral,Neutral,Strongly Disagree,Agree,Disagree,Disagree,Disagree,Neutral,Disagree,Disagree,Strongly Disagree,Neutral,Strongly Agree,Strongly Disagree,Neutral,Agree,Strongly Agree,Strongly Agree,Neutral,Agree,Strongly Agree,Strongly Disagree,Disagree,Neutral,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Agree,Strongly Agree,Disagree,Strongly Agree,Agree,Strongly Disagree,Strongly Agree,Neutral,Strongly Disagree,Agree,Agree,Agree,Disagree,Agree,Neutral,Disagree,Disagree,Neutral
+Strongly Agree,Neutral,Strongly Disagree,Strongly Disagree,Strongly Agree,Disagree,Strongly Disagree,Strongly Disagree,Strongly Agree,Neutral,Strongly Disagree,Strongly Disagree,Disagree,Strongly Agree,Neutral,Strongly disagree,Strongly Agree,Strongly Agree,Neutral,Strongly disagree,Strongly Agree,Agree,Neutral,Strongly disagree,Neutral,Neutral,Strongly Agree,Strongly Disagree,Neutral,Neutral,Strongly Agree,Strongly Disagree,Disagree,Neutral,Strongly Agree,Strongly Disagree,Disagree,Strongly Disagree,Strongly Disagree,Neutral,Neutral,Agree,Strongly Disagree,Agree,Disagree,Neutral,Strongly Disagree,Agree,Strongly Agree,Agree,Disagree,Strongly Disagree,Strongly Agree,Neutral,Strongly Disagree,Strongly Disagree,Strongly Agree,Neutral,Neutral,Strongly Disagree,Strongly Disagree,Strongly Disagree,Strongly Agree,Disagree,Strongly Agree,Disagree,Strongly Agree,Agree,Disagree,Strongly Disagree,Strongly Agree,Neutral,Neutral,Neutral,Strongly Disagree,Disagree,Agree,Agree,Agree,Agree,Neutral,Neutral,Strongly Disagree,Disagree,Strongly Agree,Strongly Disagree,Disagree,Neutral,Strongly Agree,Strongly Disagree,Disagree,Neutral,Strongly Agree,Strongly Disagree,Disagree,Neutral,Strongly Agree,Agree,Strongly Disagree,Strongly Agree,Agree,Disagree,Strongly Agree,Neutral,Strongly Disagree,Strongly Disagree,Disagree,Strongly Disagree,Neutral,Neutral,Agree,Neutral,Agree,Strongly Disagree,Disagree,Strongly Disagree,Agree

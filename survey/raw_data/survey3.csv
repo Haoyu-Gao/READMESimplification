@@ -1,0 +1,474 @@
+Q1_1,Q1_2,Q1_3,Q1_4,Q1_5,Q1_6,Q1_7,Q1_8,Q1_9,Q1_10,Q1_11,Q1_12,Q2_1,Q2_2,Q2_3,Q2_4,Q2_5,Q2_6,Q2_7,Q2_8,Q2_9,Q2_10,Q2_11,Q2_12,Q3_1,Q3_2,Q3_3,Q3_4,Q3_5,Q3_6,Q3_7,Q3_8,Q3_9,Q3_10,Q3_11,Q3_12,Q4_1,Q4_2,Q4_3,Q4_4,Q4_5,Q4_6,Q4_7,Q4_8,Q4_9,Q5_1,Q5_2,Q5_3,Q5_4,Q5_5,Q5_6,Q5_7,Q5_8,Q5_9,Q5_10,Q5_11,Q5_12,Q6_1,Q6_2,Q6_3,Q6_4,Q6_5,Q6_6,Q6_7,Q6_8,Q6_9,Q6_10,Q6_11,Q6_12,Q7_1,Q7_2,Q7_3,Q7_4,Q7_5,Q7_6,Q7_7,Q7_8,Q7_9,Q7_10,Q7_11,Q7_12,Q8_1,Q8_2,Q8_3,Q8_4,Q8_5,Q8_6,Q8_7,Q8_8,Q8_9,Q8_10,Q8_11,Q8_12,Q9_1,Q9_2,Q9_3,Q9_4,Q9_5,Q9_6,Q9_7,Q9_8,Q9_9,Q9_10,Q9_11,Q9_12,Q10_1,Q10_2,Q10_3,Q10_4,Q10_5,Q10_6,Q10_7,Q10_8,Q10_9,Q10_10,Q10_11,Q10_12
+"Question 1
+
+
+
+Reference Sentence: In short, the only safe way to reload clojure code is to restart the jvm. - In short, the only safe way to reload clojure code is to restart the jvm.","Question 1
+
+
+
+Reference Sentence: In short, the only safe way to reload clojure code is to restart the jvm. - In short, the only safe way to keep the hero is to restart the hero.","Question 1
+
+
+
+Reference Sentence: In short, the only safe way to reload clojure code is to restart the jvm. - The short way to only is to use jvm.","Question 1
+
+
+
+Reference Sentence: In short, the only safe way to reload clojure code is to restart the jvm. - In short, the only safe way to reload clojure code is to restart the jvm. code to restart the jvm. code .","Question 1
+
+
+
+Reference Sentence: In short, the only safe way to reload clojure code is to restart the jvm. - In short, the only safe way to reload clojure code is to restart the jvm.","Question 1
+
+
+
+Reference Sentence: In short, the only safe way to reload clojure code is to restart the jvm. - In short, the only safe way to keep the hero is to restart the hero.","Question 1
+
+
+
+Reference Sentence: In short, the only safe way to reload clojure code is to restart the jvm. - The short way to only is to use jvm.","Question 1
+
+
+
+Reference Sentence: In short, the only safe way to reload clojure code is to restart the jvm. - In short, the only safe way to reload clojure code is to restart the jvm. code to restart the jvm. code .","Question 1
+
+
+
+Reference Sentence: In short, the only safe way to reload clojure code is to restart the jvm. - In short, the only safe way to reload clojure code is to restart the jvm.","Question 1
+
+
+
+Reference Sentence: In short, the only safe way to reload clojure code is to restart the jvm. - In short, the only safe way to keep the hero is to restart the hero.","Question 1
+
+
+
+Reference Sentence: In short, the only safe way to reload clojure code is to restart the jvm. - The short way to only is to use jvm.","Question 1
+
+
+
+Reference Sentence: In short, the only safe way to reload clojure code is to restart the jvm. - In short, the only safe way to reload clojure code is to restart the jvm. code to restart the jvm. code .","Question 2
+
+
+
+Reference sentence: Either Pillow or it's predecessor PIL should work just fine, just make sure that you have one or the other installed. - It's trademark should work just fine, just make sure that you have one or the other installed.","Question 2
+
+
+
+Reference sentence: Either Pillow or it's predecessor PIL should work just fine, just make sure that you have one or the other installed. - Either Pillow or it's PIL should work just fine, just make sure that you have one or the other installed.","Question 2
+
+
+
+Reference sentence: Either Pillow or it's predecessor PIL should work just fine, just make sure that you have one or the other installed. - Either Pillow or it's predecessor PIL should work just fine, just make sure that you have one or the other installed.","Question 2
+
+
+
+Reference sentence: Either Pillow or it's predecessor PIL should work just fine, just make sure that you have one or the other installed. - Either Pillow or PIL .","Question 2
+
+
+
+Reference sentence: Either Pillow or it's predecessor PIL should work just fine, just make sure that you have one or the other installed. - It's trademark should work just fine, just make sure that you have one or the other installed.","Question 2
+
+
+
+Reference sentence: Either Pillow or it's predecessor PIL should work just fine, just make sure that you have one or the other installed. - Either Pillow or it's PIL should work just fine, just make sure that you have one or the other installed.","Question 2
+
+
+
+Reference sentence: Either Pillow or it's predecessor PIL should work just fine, just make sure that you have one or the other installed. - Either Pillow or it's predecessor PIL should work just fine, just make sure that you have one or the other installed.","Question 2
+
+
+
+Reference sentence: Either Pillow or it's predecessor PIL should work just fine, just make sure that you have one or the other installed. - Either Pillow or PIL .","Question 2
+
+
+
+Reference sentence: Either Pillow or it's predecessor PIL should work just fine, just make sure that you have one or the other installed. - It's trademark should work just fine, just make sure that you have one or the other installed.","Question 2
+
+
+
+Reference sentence: Either Pillow or it's predecessor PIL should work just fine, just make sure that you have one or the other installed. - Either Pillow or it's PIL should work just fine, just make sure that you have one or the other installed.","Question 2
+
+
+
+Reference sentence: Either Pillow or it's predecessor PIL should work just fine, just make sure that you have one or the other installed. - Either Pillow or it's predecessor PIL should work just fine, just make sure that you have one or the other installed.","Question 2
+
+
+
+Reference sentence: Either Pillow or it's predecessor PIL should work just fine, just make sure that you have one or the other installed. - Either Pillow or PIL .","Question 3
+
+
+
+Reference Sentence: This is the probably the easiest way: nwjr on github  this is based on another project I've been working on for the better part of a year called ugui. - This is the easiest nwjr on github  this is based on another project I've been working on for the better part of a year called ugui. .","Question 3
+
+
+
+Reference Sentence: This is the probably the easiest way: nwjr on github  this is based on another project I've been working on for the better part of a year called ugui. - It is based on another project I've been working on the better part of a year called ""ugui "".","Question 3
+
+
+
+Reference Sentence: This is the probably the easiest way: nwjr on github  this is based on another project I've been working on for the better part of a year called ugui. - This is the probably the easiest way: nwjr on github  this is based on another project I've been working on for the better part of a year called ugui.","Question 3
+
+
+
+Reference Sentence: This is the probably the easiest way: nwjr on github  this is based on another project I've been working on for the better part of a year called ugui. - This is the original fork of the urr  based on github.","Question 3
+
+
+
+Reference Sentence: This is the probably the easiest way: nwjr on github  this is based on another project I've been working on for the better part of a year called ugui. - This is the easiest nwjr on github  this is based on another project I've been working on for the better part of a year called ugui. .","Question 3
+
+
+
+Reference Sentence: This is the probably the easiest way: nwjr on github  this is based on another project I've been working on for the better part of a year called ugui. - It is based on another project I've been working on the better part of a year called ""ugui "".","Question 3
+
+
+
+Reference Sentence: This is the probably the easiest way: nwjr on github  this is based on another project I've been working on for the better part of a year called ugui. - This is the probably the easiest way: nwjr on github  this is based on another project I've been working on for the better part of a year called ugui.","Question 3
+
+
+
+Reference Sentence: This is the probably the easiest way: nwjr on github  this is based on another project I've been working on for the better part of a year called ugui. - This is the original fork of the urr  based on github.","Question 3
+
+
+
+Reference Sentence: This is the probably the easiest way: nwjr on github  this is based on another project I've been working on for the better part of a year called ugui. - This is the easiest nwjr on github  this is based on another project I've been working on for the better part of a year called ugui. .","Question 3
+
+
+
+Reference Sentence: This is the probably the easiest way: nwjr on github  this is based on another project I've been working on for the better part of a year called ugui. - It is based on another project I've been working on the better part of a year called ""ugui "".","Question 3
+
+
+
+Reference Sentence: This is the probably the easiest way: nwjr on github  this is based on another project I've been working on for the better part of a year called ugui. - This is the probably the easiest way: nwjr on github  this is based on another project I've been working on for the better part of a year called ugui.","Question 3
+
+
+
+Reference Sentence: This is the probably the easiest way: nwjr on github  this is based on another project I've been working on for the better part of a year called ugui. - This is the original fork of the urr  based on github.","Question 4
+
+
+
+Reference Sentence: If a client from ip address 10.1.2.3 submits a post, it is rejected because the prefix 10.1. matches this ip address. - If the address from the address, the address of the client is rejected with the post address, it as address.","Question 4
+
+
+
+Reference Sentence: If a client from ip address 10.1.2.3 submits a post, it is rejected because the prefix 10.1. matches this ip address. - If a client from ip address is rejected by a post, it is rejected because the prefix matches matches this ip address.","Question 4
+
+
+
+Reference Sentence: If a client from ip address 10.1.2.3 submits a post, it is rejected because the prefix 10.1. matches this ip address. - If a client from ip address 10.1.2.3 submits a post, it is rejected because the prefix 10.1. matches this ip address.","Question 4
+
+
+
+Reference Sentence: If a client from ip address 10.1.2.3 submits a post, it is rejected because the prefix 10.1. matches this ip address. - If the address from the address, the address of the client is rejected with the post address, it as address.","Question 4
+
+
+
+Reference Sentence: If a client from ip address 10.1.2.3 submits a post, it is rejected because the prefix 10.1. matches this ip address. - If a client from ip address is rejected by a post, it is rejected because the prefix matches matches this ip address.","Question 4
+
+
+
+Reference Sentence: If a client from ip address 10.1.2.3 submits a post, it is rejected because the prefix 10.1. matches this ip address. - If a client from ip address 10.1.2.3 submits a post, it is rejected because the prefix 10.1. matches this ip address.","Question 4
+
+
+
+Reference Sentence: If a client from ip address 10.1.2.3 submits a post, it is rejected because the prefix 10.1. matches this ip address. - If the address from the address, the address of the client is rejected with the post address, it as address.","Question 4
+
+
+
+Reference Sentence: If a client from ip address 10.1.2.3 submits a post, it is rejected because the prefix 10.1. matches this ip address. - If a client from ip address is rejected by a post, it is rejected because the prefix matches matches this ip address.","Question 4
+
+
+
+Reference Sentence: If a client from ip address 10.1.2.3 submits a post, it is rejected because the prefix 10.1. matches this ip address. - If a client from ip address 10.1.2.3 submits a post, it is rejected because the prefix 10.1. matches this ip address.","Question 5
+
+
+
+Reference Sentence: If there is a transformer version of a monad, it is a function named by suffixing -t to the name of the monad; giving the function a monad as an argument returns a new monad. - If there is a transformer version of a monad, it is a function named by suffixing -t to the name of the monad.","Question 5
+
+
+
+Reference Sentence: If there is a transformer version of a monad, it is a function named by suffixing -t to the name of the monad; giving the function a monad as an argument returns a new monad. - If there is a transformer version of a monad, it is a function named by suffixing -t to the name of the monad. ;","Question 5
+
+
+
+Reference Sentence: If there is a transformer version of a monad, it is a function named by suffixing -t to the name of the monad; giving the function a monad as an argument returns a new monad. - If there is a transformer version of a monad, it is a function named by suffixing it to the name of the monad; giving the function a monad as an argument returns a new monad.","Question 5
+
+
+
+Reference Sentence: If there is a transformer version of a monad, it is a function named by suffixing -t to the name of the monad; giving the function a monad as an argument returns a new monad. - If there is a collection of options -t, then it returns a new function as an argument .","Question 5
+
+
+
+Reference Sentence: If there is a transformer version of a monad, it is a function named by suffixing -t to the name of the monad; giving the function a monad as an argument returns a new monad. - If there is a transformer version of a monad, it is a function named by suffixing -t to the name of the monad.","Question 5
+
+
+
+Reference Sentence: If there is a transformer version of a monad, it is a function named by suffixing -t to the name of the monad; giving the function a monad as an argument returns a new monad. - If there is a transformer version of a monad, it is a function named by suffixing -t to the name of the monad. ;","Question 5
+
+
+
+Reference Sentence: If there is a transformer version of a monad, it is a function named by suffixing -t to the name of the monad; giving the function a monad as an argument returns a new monad. - If there is a transformer version of a monad, it is a function named by suffixing it to the name of the monad; giving the function a monad as an argument returns a new monad.","Question 5
+
+
+
+Reference Sentence: If there is a transformer version of a monad, it is a function named by suffixing -t to the name of the monad; giving the function a monad as an argument returns a new monad. - If there is a collection of options -t, then it returns a new function as an argument .","Question 5
+
+
+
+Reference Sentence: If there is a transformer version of a monad, it is a function named by suffixing -t to the name of the monad; giving the function a monad as an argument returns a new monad. - If there is a transformer version of a monad, it is a function named by suffixing -t to the name of the monad.","Question 5
+
+
+
+Reference Sentence: If there is a transformer version of a monad, it is a function named by suffixing -t to the name of the monad; giving the function a monad as an argument returns a new monad. - If there is a transformer version of a monad, it is a function named by suffixing -t to the name of the monad. ;","Question 5
+
+
+
+Reference Sentence: If there is a transformer version of a monad, it is a function named by suffixing -t to the name of the monad; giving the function a monad as an argument returns a new monad. - If there is a transformer version of a monad, it is a function named by suffixing it to the name of the monad; giving the function a monad as an argument returns a new monad.","Question 5
+
+
+
+Reference Sentence: If there is a transformer version of a monad, it is a function named by suffixing -t to the name of the monad; giving the function a monad as an argument returns a new monad. - If there is a collection of options -t, then it returns a new function as an argument .","Question 6
+
+
+
+Reference Sentence: The first time you run vagrant up, a packaged box containing a virtual machine is downloaded to your local machine and cached for future use. - The first time you run the local machine, you should use a local local machine from your local machine and ready to use the local machine.","Question 6
+
+
+
+Reference Sentence: The first time you run vagrant up, a packaged box containing a virtual machine is downloaded to your local machine and cached for future use. - The first time you run vagrant up, a packaged box containing a virtual machine is downloaded to your local machine and consulates for future use. for future use. .","Question 6
+
+
+
+Reference Sentence: The first time you run vagrant up, a packaged box containing a virtual machine is downloaded to your local machine and cached for future use. - The first time you run vagrant up, a packaged box containing a virtual machine is downloaded to your local machine and cached for future use.","Question 6
+
+
+
+Reference Sentence: The first time you run vagrant up, a packaged box containing a virtual machine is downloaded to your local machine and cached for future use. - The first time you runs, a packaged box containing a virtual machine is downloaded to your local machine and road.","Question 6
+
+
+
+Reference Sentence: The first time you run vagrant up, a packaged box containing a virtual machine is downloaded to your local machine and cached for future use. - The first time you run the local machine, you should use a local local machine from your local machine and ready to use the local machine.","Question 6
+
+
+
+Reference Sentence: The first time you run vagrant up, a packaged box containing a virtual machine is downloaded to your local machine and cached for future use. - The first time you run vagrant up, a packaged box containing a virtual machine is downloaded to your local machine and consulates for future use. for future use. .","Question 6
+
+
+
+Reference Sentence: The first time you run vagrant up, a packaged box containing a virtual machine is downloaded to your local machine and cached for future use. - The first time you run vagrant up, a packaged box containing a virtual machine is downloaded to your local machine and cached for future use.","Question 6
+
+
+
+Reference Sentence: The first time you run vagrant up, a packaged box containing a virtual machine is downloaded to your local machine and cached for future use. - The first time you runs, a packaged box containing a virtual machine is downloaded to your local machine and road.","Question 6
+
+
+
+Reference Sentence: The first time you run vagrant up, a packaged box containing a virtual machine is downloaded to your local machine and cached for future use. - The first time you run the local machine, you should use a local local machine from your local machine and ready to use the local machine.","Question 6
+
+
+
+Reference Sentence: The first time you run vagrant up, a packaged box containing a virtual machine is downloaded to your local machine and cached for future use. - The first time you run vagrant up, a packaged box containing a virtual machine is downloaded to your local machine and consulates for future use. for future use. .","Question 6
+
+
+
+Reference Sentence: The first time you run vagrant up, a packaged box containing a virtual machine is downloaded to your local machine and cached for future use. - The first time you run vagrant up, a packaged box containing a virtual machine is downloaded to your local machine and cached for future use.","Question 6
+
+
+
+Reference Sentence: The first time you run vagrant up, a packaged box containing a virtual machine is downloaded to your local machine and cached for future use. - The first time you runs, a packaged box containing a virtual machine is downloaded to your local machine and road.","Question 7
+
+
+
+Reference Sentence: You can then open lt-cljs-tutorial.cljs in light table and evaluate it interactively by adding a light table ui connection. - This repo is basically a mirror of the original mercurial repo at bitbucket.org . at","Question 7
+
+
+
+Reference Sentence: You can then open lt-cljs-tutorial.cljs in light table and evaluate it interactively by adding a light table ui connection. - You can open and open in a table with the lt-cljs-tutorial.cljs command.","Question 7
+
+
+
+Reference Sentence: You can then open lt-cljs-tutorial.cljs in light table and evaluate it interactively by adding a light table ui connection. - You can then open ""light table"" and ""evaluate by adding a light table connection .","Question 7
+
+
+
+Reference Sentence: You can then open lt-cljs-tutorial.cljs in light table and evaluate it interactively by adding a light table ui connection. - You can then open lt-cljs-tutorial.cljs in light table and evaluate it interactively by adding a light table ui.","Question 7
+
+
+
+Reference Sentence: You can then open lt-cljs-tutorial.cljs in light table and evaluate it interactively by adding a light table ui connection. - This repo is basically a mirror of the original mercurial repo at bitbucket.org . at","Question 7
+
+
+
+Reference Sentence: You can then open lt-cljs-tutorial.cljs in light table and evaluate it interactively by adding a light table ui connection. - You can open and open in a table with the lt-cljs-tutorial.cljs command.","Question 7
+
+
+
+Reference Sentence: You can then open lt-cljs-tutorial.cljs in light table and evaluate it interactively by adding a light table ui connection. - You can then open ""light table"" and ""evaluate by adding a light table connection .","Question 7
+
+
+
+Reference Sentence: You can then open lt-cljs-tutorial.cljs in light table and evaluate it interactively by adding a light table ui connection. - You can then open lt-cljs-tutorial.cljs in light table and evaluate it interactively by adding a light table ui.","Question 7
+
+
+
+Reference Sentence: You can then open lt-cljs-tutorial.cljs in light table and evaluate it interactively by adding a light table ui connection. - This repo is basically a mirror of the original mercurial repo at bitbucket.org . at","Question 7
+
+
+
+Reference Sentence: You can then open lt-cljs-tutorial.cljs in light table and evaluate it interactively by adding a light table ui connection. - You can open and open in a table with the lt-cljs-tutorial.cljs command.","Question 7
+
+
+
+Reference Sentence: You can then open lt-cljs-tutorial.cljs in light table and evaluate it interactively by adding a light table ui connection. - You can then open ""light table"" and ""evaluate by adding a light table connection .","Question 7
+
+
+
+Reference Sentence: You can then open lt-cljs-tutorial.cljs in light table and evaluate it interactively by adding a light table ui connection. - You can then open lt-cljs-tutorial.cljs in light table and evaluate it interactively by adding a light table ui.","Question 8
+
+
+
+Reference Sentence: This component does the actual rendering of the reports based upon the definitions created in the report designer. - This component does the actual rendering of the reports based upon the definitions created in the report designer.","Question 8
+
+
+
+Reference Sentence: This component does the actual rendering of the reports based upon the definitions created in the report designer. - This component does the actual rendering of the reports based upon the definitions created in the report designer. created in the report designer. created in the report designer. created in the report designer.","Question 8
+
+
+
+Reference Sentence: This component does the actual rendering of the reports based upon the definitions created in the report designer. - This component does the logic of the lesson of the account in the amazon.","Question 8
+
+
+
+Reference Sentence: This component does the actual rendering of the reports based upon the definitions created in the report designer. - This results the actual rendering of the reports of the reports based upon the definitions created in the report designer.","Question 8
+
+
+
+Reference Sentence: This component does the actual rendering of the reports based upon the definitions created in the report designer. - This component does the actual rendering of the reports based upon the definitions created in the report designer.","Question 8
+
+
+
+Reference Sentence: This component does the actual rendering of the reports based upon the definitions created in the report designer. - This component does the actual rendering of the reports based upon the definitions created in the report designer. created in the report designer. created in the report designer. created in the report designer.","Question 8
+
+
+
+Reference Sentence: This component does the actual rendering of the reports based upon the definitions created in the report designer. - This component does the logic of the lesson of the account in the amazon.","Question 8
+
+
+
+Reference Sentence: This component does the actual rendering of the reports based upon the definitions created in the report designer. - This results the actual rendering of the reports of the reports based upon the definitions created in the report designer.","Question 8
+
+
+
+Reference Sentence: This component does the actual rendering of the reports based upon the definitions created in the report designer. - This component does the actual rendering of the reports based upon the definitions created in the report designer.","Question 8
+
+
+
+Reference Sentence: This component does the actual rendering of the reports based upon the definitions created in the report designer. - This component does the actual rendering of the reports based upon the definitions created in the report designer. created in the report designer. created in the report designer. created in the report designer.","Question 8
+
+
+
+Reference Sentence: This component does the actual rendering of the reports based upon the definitions created in the report designer. - This component does the logic of the lesson of the account in the amazon.","Question 8
+
+
+
+Reference Sentence: This component does the actual rendering of the reports based upon the definitions created in the report designer. - This results the actual rendering of the reports of the reports based upon the definitions created in the report designer.","Question 9
+
+
+
+Reference Sentence: This should includes a glossary of terms to help lesson authors think through what they expect learners to be unfamiliar with, and to make searching through lessons easier. - This should also includes a glossary of terms to help lesson authors think through what they expecters to be unfamiliar with, and to make searching through lessons easier.","Question 9
+
+
+
+Reference Sentence: This should includes a glossary of terms to help lesson authors think through what they expect learners to be unfamiliar with, and to make searching through lessons easier. - This should includes a glossary of terms to help lesson authors think through what they expect learners to be unfamiliar with, and to make searching through lessons easier.","Question 9
+
+
+
+Reference Sentence: This should includes a glossary of terms to help lesson authors think through what they expect learners to be unfamiliar with, and to make searching through lessons easier. - This should be a glossary of terms to help lesson, summarize what lesson authors also to help lesson.","Question 9
+
+
+
+Reference Sentence: This should includes a glossary of terms to help lesson authors think through what they expect learners to be unfamiliar with, and to make searching through lessons easier. - The purple monkey dishwasher sang shenanigans on the moon with unicorns and marshmallow socks.","Question 9
+
+
+
+Reference Sentence: This should includes a glossary of terms to help lesson authors think through what they expect learners to be unfamiliar with, and to make searching through lessons easier. - This should also includes a glossary of terms to help lesson authors think through what they expecters to be unfamiliar with, and to make searching through lessons easier.","Question 9
+
+
+
+Reference Sentence: This should includes a glossary of terms to help lesson authors think through what they expect learners to be unfamiliar with, and to make searching through lessons easier. - This should includes a glossary of terms to help lesson authors think through what they expect learners to be unfamiliar with, and to make searching through lessons easier.","Question 9
+
+
+
+Reference Sentence: This should includes a glossary of terms to help lesson authors think through what they expect learners to be unfamiliar with, and to make searching through lessons easier. - This should be a glossary of terms to help lesson, summarize what lesson authors also to help lesson.","Question 9
+
+
+
+Reference Sentence: This should includes a glossary of terms to help lesson authors think through what they expect learners to be unfamiliar with, and to make searching through lessons easier. - The purple monkey dishwasher sang shenanigans on the moon with unicorns and marshmallow socks.","Question 9
+
+
+
+Reference Sentence: This should includes a glossary of terms to help lesson authors think through what they expect learners to be unfamiliar with, and to make searching through lessons easier. - This should also includes a glossary of terms to help lesson authors think through what they expecters to be unfamiliar with, and to make searching through lessons easier.","Question 9
+
+
+
+Reference Sentence: This should includes a glossary of terms to help lesson authors think through what they expect learners to be unfamiliar with, and to make searching through lessons easier. - This should includes a glossary of terms to help lesson authors think through what they expect learners to be unfamiliar with, and to make searching through lessons easier.","Question 9
+
+
+
+Reference Sentence: This should includes a glossary of terms to help lesson authors think through what they expect learners to be unfamiliar with, and to make searching through lessons easier. - This should be a glossary of terms to help lesson, summarize what lesson authors also to help lesson.","Question 9
+
+
+
+Reference Sentence: This should includes a glossary of terms to help lesson authors think through what they expect learners to be unfamiliar with, and to make searching through lessons easier. - The purple monkey dishwasher sang shenanigans on the moon with unicorns and marshmallow socks.","Question 10
+
+
+
+Reference Sentence: In the case where the conneciton is conditionally closed as described above, returns 2 and the error string connection must be closed. - In the case where the conneciton is conditionally closed as described above, returns 2 and the connection must be closed property.","Question 10
+
+
+
+Reference Sentence: In the case where the conneciton is conditionally closed as described above, returns 2 and the error string connection must be closed. - In the case where thehneciton is conditionally closed as described above, returns to the error and the error string.","Question 10
+
+
+
+Reference Sentence: In the case where the conneciton is conditionally closed as described above, returns 2 and the error string connection must be closed. - In the above case the string, it is assumed where the second argument is 2, and returns the connection must be closed string.","Question 10
+
+
+
+Reference Sentence: In the case where the conneciton is conditionally closed as described above, returns 2 and the error string connection must be closed. - The error is conditionally .","Question 10
+
+
+
+Reference Sentence: In the case where the conneciton is conditionally closed as described above, returns 2 and the error string connection must be closed. - In the case where the conneciton is conditionally closed as described above, returns 2 and the connection must be closed property.","Question 10
+
+
+
+Reference Sentence: In the case where the conneciton is conditionally closed as described above, returns 2 and the error string connection must be closed. - In the case where thehneciton is conditionally closed as described above, returns to the error and the error string.","Question 10
+
+
+
+Reference Sentence: In the case where the conneciton is conditionally closed as described above, returns 2 and the error string connection must be closed. - In the above case the string, it is assumed where the second argument is 2, and returns the connection must be closed string.","Question 10
+
+
+
+Reference Sentence: In the case where the conneciton is conditionally closed as described above, returns 2 and the error string connection must be closed. - The error is conditionally .","Question 10
+
+
+
+Reference Sentence: In the case where the conneciton is conditionally closed as described above, returns 2 and the error string connection must be closed. - In the case where the conneciton is conditionally closed as described above, returns 2 and the connection must be closed property.","Question 10
+
+
+
+Reference Sentence: In the case where the conneciton is conditionally closed as described above, returns 2 and the error string connection must be closed. - In the case where thehneciton is conditionally closed as described above, returns to the error and the error string.","Question 10
+
+
+
+Reference Sentence: In the case where the conneciton is conditionally closed as described above, returns 2 and the error string connection must be closed. - In the above case the string, it is assumed where the second argument is 2, and returns the connection must be closed string.","Question 10
+
+
+
+Reference Sentence: In the case where the conneciton is conditionally closed as described above, returns 2 and the error string connection must be closed. - The error is conditionally."
+"{""ImportId"":""QID12_1""}","{""ImportId"":""QID12_2""}","{""ImportId"":""QID12_3""}","{""ImportId"":""QID12_11""}","{""ImportId"":""QID12_4""}","{""ImportId"":""QID12_6""}","{""ImportId"":""QID12_10""}","{""ImportId"":""QID12_13""}","{""ImportId"":""QID12_7""}","{""ImportId"":""QID12_8""}","{""ImportId"":""QID12_9""}","{""ImportId"":""QID12_12""}","{""ImportId"":""QID13_1""}","{""ImportId"":""QID13_2""}","{""ImportId"":""QID13_3""}","{""ImportId"":""QID13_10""}","{""ImportId"":""QID13_4""}","{""ImportId"":""QID13_5""}","{""ImportId"":""QID13_6""}","{""ImportId"":""QID13_11""}","{""ImportId"":""QID13_7""}","{""ImportId"":""QID13_8""}","{""ImportId"":""QID13_9""}","{""ImportId"":""QID13_12""}","{""ImportId"":""QID15_1""}","{""ImportId"":""QID15_2""}","{""ImportId"":""QID15_3""}","{""ImportId"":""QID15_10""}","{""ImportId"":""QID15_4""}","{""ImportId"":""QID15_5""}","{""ImportId"":""QID15_6""}","{""ImportId"":""QID15_11""}","{""ImportId"":""QID15_7""}","{""ImportId"":""QID15_8""}","{""ImportId"":""QID15_9""}","{""ImportId"":""QID15_12""}","{""ImportId"":""QID26_1""}","{""ImportId"":""QID26_2""}","{""ImportId"":""QID26_3""}","{""ImportId"":""QID26_4""}","{""ImportId"":""QID26_5""}","{""ImportId"":""QID26_11""}","{""ImportId"":""QID26_7""}","{""ImportId"":""QID26_8""}","{""ImportId"":""QID26_9""}","{""ImportId"":""QID27_1""}","{""ImportId"":""QID27_3""}","{""ImportId"":""QID27_10""}","{""ImportId"":""QID27_14""}","{""ImportId"":""QID27_4""}","{""ImportId"":""QID27_11""}","{""ImportId"":""QID27_13""}","{""ImportId"":""QID27_15""}","{""ImportId"":""QID27_8""}","{""ImportId"":""QID27_9""}","{""ImportId"":""QID27_12""}","{""ImportId"":""QID27_16""}","{""ImportId"":""QID28_1""}","{""ImportId"":""QID28_2""}","{""ImportId"":""QID28_10""}","{""ImportId"":""QID28_16""}","{""ImportId"":""QID28_4""}","{""ImportId"":""QID28_5""}","{""ImportId"":""QID28_11""}","{""ImportId"":""QID28_15""}","{""ImportId"":""QID28_7""}","{""ImportId"":""QID28_8""}","{""ImportId"":""QID28_9""}","{""ImportId"":""QID28_14""}","{""ImportId"":""QID30_1""}","{""ImportId"":""QID30_15""}","{""ImportId"":""QID30_10""}","{""ImportId"":""QID30_14""}","{""ImportId"":""QID30_4""}","{""ImportId"":""QID30_5""}","{""ImportId"":""QID30_11""}","{""ImportId"":""QID30_13""}","{""ImportId"":""QID30_7""}","{""ImportId"":""QID30_8""}","{""ImportId"":""QID30_9""}","{""ImportId"":""QID30_12""}","{""ImportId"":""QID33_1""}","{""ImportId"":""QID33_2""}","{""ImportId"":""QID33_10""}","{""ImportId"":""QID33_14""}","{""ImportId"":""QID33_4""}","{""ImportId"":""QID33_5""}","{""ImportId"":""QID33_11""}","{""ImportId"":""QID33_13""}","{""ImportId"":""QID33_7""}","{""ImportId"":""QID33_8""}","{""ImportId"":""QID33_9""}","{""ImportId"":""QID33_12""}","{""ImportId"":""QID34_1""}","{""ImportId"":""QID34_17""}","{""ImportId"":""QID34_16""}","{""ImportId"":""QID34_18""}","{""ImportId"":""QID34_4""}","{""ImportId"":""QID34_5""}","{""ImportId"":""QID34_11""}","{""ImportId"":""QID34_19""}","{""ImportId"":""QID34_7""}","{""ImportId"":""QID34_8""}","{""ImportId"":""QID34_9""}","{""ImportId"":""QID34_20""}","{""ImportId"":""QID35_1""}","{""ImportId"":""QID35_14""}","{""ImportId"":""QID35_15""}","{""ImportId"":""QID35_16""}","{""ImportId"":""QID35_4""}","{""ImportId"":""QID35_5""}","{""ImportId"":""QID35_11""}","{""ImportId"":""QID35_13""}","{""ImportId"":""QID35_7""}","{""ImportId"":""QID35_8""}","{""ImportId"":""QID35_9""}","{""ImportId"":""QID35_12""}"
+Agree,Disagree,Strongly Disagree,Agree,Agree,Agree,Strongly Disagree,Agree,Agree,Agree,Strongly Disagree,Disagree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Disagree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Disagree,Disagree,Strongly Agree,Disagree,Disagree,Disagree,Agree,Disagree,Agree,Disagree,Disagree,Agree,Agree,Disagree,Agree,Strongly Agree,Strongly Agree,Neutral,Agree,Agree,Agree,Disagree,Agree,Strongly Agree,Agree,Strongly Disagree,Agree,Disagree,Agree,Disagree,Agree,Neutral,Agree,Agree,Disagree,Strongly Disagree,Agree,Disagree,Disagree,Agree,Agree,Agree,Strongly Agree,Strongly Disagree,Agree,Agree,Agree,Neutral,Agree,Agree,Disagree,Agree,Agree,Agree,Agree,Agree
+Strongly Agree,Neutral,Strongly Disagree,Strongly Disagree,Strongly Agree,Neutral,Strongly Disagree,Strongly Disagree,Neutral,Neutral,Disagree,Disagree,Strongly disagree,Agree,Agree,Disagree,Strongly disagree,Agree,Agree,Disagree,Strongly disagree,Disagree,Disagree,Agree,Disagree,Disagree,Neutral,Disagree,Neutral,Neutral,Disagree,Disagree,Disagree,Neutral,Disagree,Neutral,Disagree,Disagree,Agree,Disagree,Neutral,Agree,Disagree,Disagree,Disagree,Disagree,Disagree,Agree,Disagree,Neutral,Neutral,Agree,Neutral,Neutral,Neutral,Disagree,Neutral,Strongly Disagree,Neutral,Agree,Disagree,Strongly Disagree,Disagree,Agree,Disagree,Strongly Disagree,Strongly Disagree,Disagree,Disagree,Strongly Disagree,Disagree,Neutral,Agree,Disagree,Disagree,Agree,Agree,Strongly Disagree,Disagree,Neutral,Disagree,Neutral,Disagree,Strongly Disagree,Neutral,Neutral,Disagree,Disagree,Neutral,Disagree,Disagree,Disagree,Neutral,Agree,Agree,Disagree,Strongly Disagree,Neutral,Neutral,Disagree,Strongly Disagree,Disagree,Disagree,Disagree,Strongly Disagree,Neutral,Disagree,Neutral,Disagree,Disagree,Disagree,Disagree,Disagree,Neutral,Disagree,Disagree,Disagree
+Strongly Agree,Strongly Disagree,Strongly Disagree,Disagree,Strongly Agree,Strongly Agree,Strongly Agree,Disagree,Neutral,Strongly Disagree,Strongly Disagree,Strongly Disagree,Strongly disagree,Strongly Agree,Strongly Agree,Neutral,Agree,Agree,Neutral,Neutral,Agree,Neutral,Neutral,Disagree,Neutral,Neutral,Neutral,Neutral,Disagree,Agree,Agree,Agree,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Agree,Neutral,Neutral,Neutral,Agree,Agree,Neutral,Neutral,Neutral,Neutral,Neutral,Agree,Agree,Disagree,Neutral,Agree,Neutral,Disagree,Neutral,Neutral,Neutral,Agree,Neutral,Neutral,Neutral,Agree,Neutral,Neutral,Disagree,Neutral,Neutral,Neutral,Agree,Neutral,Disagree,Disagree,Agree,Agree,Agree,Agree,Agree,Neutral,Neutral,Disagree,Neutral,Neutral,Agree,Agree,Agree,Disagree,Neutral,Neutral,Agree,Disagree,Neutral,Agree,Agree,Neutral,Neutral,Neutral,Neutral,Agree,Neutral,Neutral,Agree,Agree,Neutral,Neutral,Disagree,Neutral,Neutral,Neutral,Agree,Agree
