@@ -1,6 +1,7 @@
 ## Evaluating Transfer Learning for Simplifying GtiHub READMEs
 
-This is the code for paper "Evaluating Transfer Learning for Simplifying GitHub READMEs"
+This is the code for paper "Evaluating Transfer Learning for Simplifying GitHub READMEs".
+
 Please kindly find our preprint paper on [Arxiv](https://arxiv.org/pdf/2308.09940.pdf)
 
 
