@@ -1,8 +1,8 @@
 ## Evaluating Transfer Learning for Simplifying GtiHub READMEs
 
-This is the code for paper "Evaluating Transfer Learning for Simplifying GitHub READMEs".
+This is the code for paper "Evaluating Transfer Learning for Simplifying GitHub READMEs" in the proceedings of 31th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023).
 
-Please kindly find our preprint paper on [Arxiv](https://arxiv.org/pdf/2308.09940.pdf)
+Please kindly find our preprint paper on [Arxiv](https://arxiv.org/pdf/2308.09940.pdf).
 
 
 ### Introduction
