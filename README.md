@@ -59,3 +59,15 @@ To visit the model checkpoints for our survey, go to this [link](https://mega.nz
 
 ### Survey
 BLEU score is not ideal for evaluating the simplification system. In this research, we performed a survey. Please find the survey annotation and scores in the corresponding folder.
+
+### Citation
+If you want to use our findings, please cite out paper.
+```
+@inproceedings{gao2023evaluating,
+  title={Evaluating Transfer Learning for Simplifying GitHub READMEs},
+  author={Gao, Haoyu and Treude, Christoph and Zahedi, Mansooreh},
+  booktitle={Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering},
+  pages={1548--1560},
+  year={2023}
+}
+```
